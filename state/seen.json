@@ -1,1 +1,11 @@
-{"jobs": {}, "runs": []}
+{
+  "jobs": {},
+  "runs": [
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 0,
+      "date": "2026-07-28",
+      "new": 0
+    }
+  ]
+}
