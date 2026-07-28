@@ -1,0 +1,93 @@
+name: Daily Job Report
+
+on:
+  schedule:
+    # 03:30 UTC = 09:00 IST, every day. The query matrix is trimmed (fewer
+    # daily queries, rotate_mod=4) so a 7-day cadence still lands at
+    # ~175 JSearch req/month, under the 200 free-tier cap. GitHub's scheduler
+    # is best-effort and can lag
+    # 5-15 min under load; that is fine for a morning digest.
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run against fixtures, no API calls, no email"
+        type: boolean
+        default: false
+
+# Needed so the job can commit state/seen.json back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-job-report
+  cancel-in-progress: false
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run job agent
+        id: run
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+        run: |
+          set -o pipefail
+          FLAGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then FLAGS="--dry-run"; fi
+          python src/main.py $FLAGS | tee summary.json
+
+      - name: Write job summary
+        if: always()
+        run: |
+          {
+            echo "## Daily Job Report — $(date -u +%Y-%m-%d)"
+            echo
+            if [ -f summary.json ]; then
+              echo '```json'
+              tail -n 20 summary.json
+              echo '```'
+            else
+              echo "Run produced no summary — check the step log above."
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload PDF artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: job-report-${{ github.run_number }}
+          path: out/*.pdf
+          if-no-files-found: warn
+          retention-days: 30
+
+      - name: Commit seen-state
+        if: inputs.dry_run != true
+        run: |
+          if git diff --quiet -- state/seen.json; then
+            echo "state unchanged, nothing to commit"
+            exit 0
+          fi
+          git config user.name  "job-agent[bot]"
+          git config user.email "job-agent[bot]@users.noreply.github.com"
+          git add state/seen.json
+          git commit -m "chore: update seen-state $(date -u +%Y-%m-%d) [skip ci]"
+          # Rebase in case a manual dispatch raced the scheduled run.
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

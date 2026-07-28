@@ -1,0 +1,303 @@
+# ─────────────────────────────────────────────────────────────
+# Daily Job Agent — configuration
+# Everything tunable lives here. No code changes needed to
+# adjust what gets hunted, how it's scored, or where it's sent.
+# ─────────────────────────────────────────────────────────────
+
+candidate:
+  name: "Sripadi Suraj"
+  email_to: "sripadisuraj26@gmail.com"
+
+  # Experience start date.
+  experience_since: "2025-01-01"
+
+  # Your 18 months are internship, not full-time. Most Indian employers
+  # credit internship time at a discount rather than ignoring it outright,
+  # so we compute an *effective* years figure:
+  #     effective = (today - experience_since) * internship_discount
+  # At 0.5 that's roughly 9 months of credited experience, which is the
+  # conservative read an HR screen is likely to take.
+  #
+  # Raise toward 1.0 if you start getting screened *in* for 2-year roles
+  # (i.e. your internship is being counted in full). Lower toward 0.35 if
+  # you're getting auto-rejected on experience.
+  experience_is_internship: true
+  internship_discount: 0.5
+
+  # Hard ceiling: drop postings demanding more than this many years.
+  # Kept at 3 rather than 2 deliberately — stated year requirements are soft,
+  # and a 3-year ask with a strong skill overlap is worth seeing. Anything
+  # beyond 3 will ATS-reject you on paper, so it's dropped.
+  max_years_required: 3
+
+# ─────────────────────────────────────────────────────────────
+# Freshness
+# ─────────────────────────────────────────────────────────────
+freshness:
+  max_days_old: 7          # your "posted under a week" requirement
+  prune_state_after_days: 60
+
+# ─────────────────────────────────────────────────────────────
+# Skill weights, derived from your resume.
+# Higher weight = stronger signal that a JD is a real fit.
+# Matching is done on whole-word boundaries, case-insensitive.
+# ─────────────────────────────────────────────────────────────
+skills:
+  # Core differentiators — these are what make you unusual
+  playwright:        10
+  appium:            10
+  browserstack:       9
+  cucumber:           8
+  gherkin:            7
+  sdet:               9
+  "test automation":  9
+  selenium:           6
+  testng:             6
+  junit:              5
+
+  # Languages / platforms
+  java:               8
+  golang:             7
+  go:                 4          # short token, deliberately low weight
+  sql:                4
+  javascript:         4
+  typescript:         4
+  "node.js":          4
+  react:              4
+  mongodb:            3
+
+  # Engineering practice
+  "github actions":   6
+  ci/cd:              5
+  jenkins:            4
+  docker:             4
+  kubernetes:        3
+  "rest api":         5
+  postman:            4
+  maven:              4
+  git:                2
+
+  # Domain
+  mobile:             5
+  android:            5
+  ios:                5
+  "e2e":              6
+  "end-to-end":       6
+  "api testing":      6
+  "performance testing": 4
+
+# ─────────────────────────────────────────────────────────────
+# Two tracks, scored and ranked independently.
+# ─────────────────────────────────────────────────────────────
+tracks:
+  qa:
+    label: "Track A — QA / SDET / Automation"
+    title_must_match_any:
+      - qa
+      - sdet
+      - quality
+      - test
+      - tester
+      - testing
+      - automation
+      - "engineer in test"
+    title_bonus:
+      "sdet": 12
+      "test automation": 10
+      "automation engineer": 10
+      "quality engineer": 8
+      "qa engineer": 6
+      "engineer in test": 12
+      "quality assurance": 6
+      "tester": 2
+
+  sde:
+    label: "Track B — SDE / Backend"
+    title_must_match_any:
+      - software engineer
+      - software development
+      - sde
+      - backend
+      - back-end
+      - full stack
+      - fullstack
+      - developer
+      - platform engineer
+    title_bonus:
+      "software engineer": 10
+      "sde": 10
+      "backend engineer": 9
+      "graduate engineer": 8
+      "associate software engineer": 8
+      "backend developer": 9
+      "software developer": 8
+      "full stack": 7
+      "developer": 5
+
+# ─────────────────────────────────────────────────────────────
+# Query matrix.
+#
+# cadence: daily  -> runs every run
+# cadence: rotate -> runs on day_of_year % rotate_mod == rotate_slot
+#                    (keeps free-tier API quota under control)
+# ─────────────────────────────────────────────────────────────
+query_budget:
+  max_requests_per_run: 10
+  # Runs daily (7 days/week). To keep the JSearch free tier under 200/month,
+  # each track keeps only 2 fresher-explicit queries on the daily cadence;
+  # everything else rotates across 4 slots. That lands at ~175 req/month.
+  rotate_mod: 4
+
+queries:
+  # ---- Track A: QA / SDET ------------------------------------
+  # Fresher-explicit queries run DAILY. These are the reqs where your
+  # internship-only history is a non-issue, so they get first call on quota.
+  - track: qa
+    source: jsearch
+    query: "QA automation engineer fresher entry level in India"
+    country: in
+    cadence: daily
+  - track: qa
+    source: jsearch
+    query: "SDET test automation engineer 0-2 years in Hyderabad, India"
+    cadence: daily
+  - track: qa
+    source: jsearch
+    query: "QA automation Playwright Appium 1 year experience in Bangalore, India"
+    cadence: rotate
+    rotate_slot: 2
+
+  - track: qa
+    source: jsearch
+    query: "graduate engineer trainee software testing India"
+    country: in
+    cadence: rotate
+    rotate_slot: 0
+  - track: qa
+    source: jsearch
+    query: "remote SDET automation engineer junior"
+    remote_only: true
+    cadence: rotate
+    rotate_slot: 1
+  - track: qa
+    source: jsearch
+    query: "test automation engineer visa sponsorship graduate"
+    country: us
+    cadence: rotate
+    rotate_slot: 2
+  - track: qa
+    source: adzuna
+    query: "junior test automation engineer"
+    country: in
+    cadence: rotate
+    rotate_slot: 2
+
+  # ---- Track B: SDE -----------------------------------------
+  - track: sde
+    source: jsearch
+    query: "SDE 1 software engineer fresher 2025 batch in India"
+    country: in
+    cadence: daily
+  - track: sde
+    source: jsearch
+    query: "associate software engineer Java Golang 0-2 years in Hyderabad, India"
+    cadence: daily
+  - track: sde
+    source: jsearch
+    query: "backend developer entry level Java in Bangalore, India"
+    cadence: rotate
+    rotate_slot: 3
+
+  - track: sde
+    source: jsearch
+    query: "new grad software engineer program India 2026"
+    country: in
+    cadence: rotate
+    rotate_slot: 0
+  - track: sde
+    source: jsearch
+    query: "remote junior backend engineer Go Java"
+    remote_only: true
+    cadence: rotate
+    rotate_slot: 1
+  - track: sde
+    source: adzuna
+    query: "graduate software engineer"
+    country: in
+    cadence: rotate
+    rotate_slot: 2
+
+# ─────────────────────────────────────────────────────────────
+# Scoring
+# ─────────────────────────────────────────────────────────────
+scoring:
+  min_score_to_report: 25
+  max_per_track: 15
+
+  bonuses:
+    fresh_today: 6           # posted within last 24h
+    fresh_3_days: 3
+    visa_sponsorship: 8      # JD mentions sponsorship / relocation
+    remote: 4
+    salary_disclosed: 3
+
+    # ---- Eligibility, given internship-only experience ----------------
+    # These are the highest-conversion signals for you right now: reqs that
+    # explicitly welcome freshers or new grads don't ask for a relieving
+    # letter and won't screen you out on full-time years.
+    fresher_friendly: 16     # JD says fresher / entry-level / new grad / trainee
+    experience_fits: 6       # stated requirement <= your effective years + 1.5
+
+  penalties:
+    # Applied when found in title or description. Values are subtracted.
+
+    # ---- Internship-hostile language ----------------------------------
+    # These phrases signal an HR screen that will discount your 18 months to
+    # zero. Not hard drops — a referral still beats an ATS — but ranked down.
+    "full-time experience": 14
+    "full time experience": 14
+    "years of professional experience": 8
+    "post qualification experience": 16
+    "relieving letter": 18
+    "internship experience will not": 30
+    "excluding internship": 30
+    "internships are not considered": 30
+    "notice period": 4
+
+    # ---- Seniority / wrong-fit ----------------------------------------
+    "manual testing": 15
+    "manual tester": 20
+    "senior": 10
+    "lead ": 12
+    "principal": 20
+    "staff engineer": 18
+    "architect": 20
+    "manager": 18
+    "10+ years": 30
+    "8+ years": 25
+    "5+ years": 12
+    "sap": 15
+    "mainframe": 20
+    "cobol": 25
+    "salesforce": 10
+    "unpaid": 40
+    "commission only": 40
+
+  # Applied when the stated requirement exceeds your effective years by more
+  # than 1.5. Deliberately a penalty, not a drop — year requirements are the
+  # softest thing in any JD, and a strong skill overlap can override them.
+  stretch_penalty: 12
+
+# ─────────────────────────────────────────────────────────────
+# Delivery
+# ─────────────────────────────────────────────────────────────
+delivery:
+  email:
+    enabled: true
+    smtp_host: "smtp.gmail.com"
+    smtp_port: 587
+    subject_template: "Job Agent — {n} new matches ({date})"
+    inline_top_n: 6          # how many to list in the email body
+  pdf:
+    enabled: true
+    filename_template: "job-report-{date}.pdf"
