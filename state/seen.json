@@ -1,4 +1,28 @@
 {
-  "jobs": {},
-  "runs": []
+  "jobs": {
+    "3e2659276f4a6750": {
+      "company": "VectorStack",
+      "first_seen": "2026-07-29",
+      "score": 83.3,
+      "title": "QA Automation Engineer \u2013 Web & Mobile Automation",
+      "track": "qa",
+      "url": "https://in.linkedin.com/jobs/view/qa-automation-engineer-%E2%80%93-web-mobile-automation-at-vectorstack-4443235774"
+    },
+    "81f20be4c8d9ca2a": {
+      "company": "Perfict Global Inc",
+      "first_seen": "2026-07-29",
+      "score": 51.6,
+      "title": "Entry Level QA automation Engineer/Business Analyst H1b Visa Sponsorship available",
+      "track": "qa",
+      "url": "https://www.jobilize.com/job/us-entry-level-qa-automation-engineer-business-analyst-h1b-visa-sponsorship"
+    }
+  },
+  "runs": [
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 3,
+      "date": "2026-07-29",
+      "new": 2
+    }
+  ]
 }
