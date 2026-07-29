@@ -23,6 +23,12 @@
       "candidates_after_dedup": 3,
       "date": "2026-07-29",
       "new": 2
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 11,
+      "date": "2026-07-29",
+      "new": 0
     }
   ]
 }
