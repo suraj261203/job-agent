@@ -16,7 +16,7 @@ from .base import Job, Source
 
 log = logging.getLogger(__name__)
 
-ENDPOINT = "https://jsearch.p.rapidapi.com/search"
+ENDPOINT = "https://jsearch.p.rapidapi.com/search-v2"
 HOST = "jsearch.p.rapidapi.com"
 
 
@@ -72,7 +72,9 @@ class JSearchSource(Source):
             return []
 
         payload = r.json()
-        return [j for j in (self._parse(d) for d in payload.get("data") or []) if j]
+        # search-v2 nests the list under data.jobs (v1 had it directly at data)
+        jobs = (payload.get("data") or {}).get("jobs") or []
+        return [j for j in (self._parse(d) for d in jobs) if j]
 
     # ------------------------------------------------------------------ parse
 
