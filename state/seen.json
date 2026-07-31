@@ -1,5 +1,21 @@
 {
   "jobs": {
+    "199db8a9bf3c03ab": {
+      "company": "Propel Technology Group",
+      "first_seen": "2026-07-31",
+      "score": 43.4,
+      "title": "Fresher (2026 Batch) | Software Developer",
+      "track": "sde",
+      "url": "https://www.glassdoor.co.in/job-listing/fresher-2026-batch-software-developer-propel-technology-group-JV_IC2833209_KO0,37_KE38,61.htm?jl=1009864393682"
+    },
+    "2a25f76f0098fecc": {
+      "company": "StudyECart Technologies",
+      "first_seen": "2026-07-31",
+      "score": 53.8,
+      "title": "Chegg India Software Engineer Intern 2026 (Sarita Vihar)",
+      "track": "sde",
+      "url": "https://www.kitjob.in/job/305088449/chegg-india-software-engineer-intern-2026-sarita-vihar"
+    },
     "3e2659276f4a6750": {
       "company": "VectorStack",
       "first_seen": "2026-07-29",
@@ -15,6 +31,30 @@
       "title": "Entry Level QA automation Engineer/Business Analyst H1b Visa Sponsorship available",
       "track": "qa",
       "url": "https://www.jobilize.com/job/us-entry-level-qa-automation-engineer-business-analyst-h1b-visa-sponsorship"
+    },
+    "af9b4bdd3e9cfd45": {
+      "company": "StudyECart Technologies Pvt Ltd",
+      "first_seen": "2026-07-31",
+      "score": 51.4,
+      "title": "Chegg India Software Engineer Intern 2026",
+      "track": "sde",
+      "url": "https://www.shine.com/jobs/chegg-india-software-engineer-intern/studyecart-technologies-pvt-ltd/19332453"
+    },
+    "e616997839edc4fe": {
+      "company": "Adani Enterprises Ltd",
+      "first_seen": "2026-07-31",
+      "score": 30.7,
+      "title": "Graduate Engineer Trainee - Backend API Development",
+      "track": "sde",
+      "url": "https://www.shine.com/jobs/graduate-engineer-trainee-backend-api-development/adani-enterprises-ltd/19294763"
+    },
+    "f82092cc6a24ef3e": {
+      "company": "App Gurus",
+      "first_seen": "2026-07-31",
+      "score": 37.4,
+      "title": "software engineer - Trainee_under graduate",
+      "track": "sde",
+      "url": "https://bebee.com/in/jobs/software-engineer-trainee-under-graduate-app-gurus-rajkot--t7xk-776442517"
     }
   },
   "runs": [
@@ -35,6 +75,12 @@
       "candidates_after_dedup": 0,
       "date": "2026-07-30",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 11,
+      "date": "2026-07-31",
+      "new": 5
     }
   ]
 }
