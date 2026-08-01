@@ -1,5 +1,29 @@
 {
   "jobs": {
+    "0b0b4596372f75dd": {
+      "company": "remote click jobs",
+      "first_seen": "2026-08-01",
+      "score": 68.0,
+      "title": "remote junior java backend developer/Data scientist",
+      "track": "sde",
+      "url": "https://remoteclickjobs-production.up.railway.app/job/remote-junior-java-backend-developerdata-scientist"
+    },
+    "0d2dcc14cb3b72f5": {
+      "company": "remote click jobs",
+      "first_seen": "2026-08-01",
+      "score": 57.4,
+      "title": "Entry Level Full Stack/Java Developer(REMOTE)",
+      "track": "sde",
+      "url": "https://remoteclickjobs-production.up.railway.app/job/entry-level-full-stackjava-developerremote-13"
+    },
+    "0ebb3246bef58905": {
+      "company": "remote zest jobs",
+      "first_seen": "2026-08-01",
+      "score": 55.1,
+      "title": "Backend Developer(Entry Level)",
+      "track": "sde",
+      "url": "https://remotezest.up.railway.app/job/backend-developerentry-level-4"
+    },
     "199db8a9bf3c03ab": {
       "company": "Propel Technology Group",
       "first_seen": "2026-07-31",
@@ -7,6 +31,14 @@
       "title": "Fresher (2026 Batch) | Software Developer",
       "track": "sde",
       "url": "https://www.glassdoor.co.in/job-listing/fresher-2026-batch-software-developer-propel-technology-group-JV_IC2833209_KO0,37_KE38,61.htm?jl=1009864393682"
+    },
+    "1a87c9a023b0bdd1": {
+      "company": "remote zest jobs",
+      "first_seen": "2026-08-01",
+      "score": 53.4,
+      "title": "[Remote] Backend Developer \u2013 Go",
+      "track": "sde",
+      "url": "https://remotezest.up.railway.app/job/remote-backend-developer-go"
     },
     "2a25f76f0098fecc": {
       "company": "StudyECart Technologies",
@@ -16,6 +48,22 @@
       "track": "sde",
       "url": "https://www.kitjob.in/job/305088449/chegg-india-software-engineer-intern-2026-sarita-vihar"
     },
+    "3049177a7bd40b04": {
+      "company": "remote zest jobs",
+      "first_seen": "2026-08-01",
+      "score": 81.4,
+      "title": "Junior SDET",
+      "track": "qa",
+      "url": "https://remotezest.up.railway.app/job/junior-sdet"
+    },
+    "36b7fd729955437f": {
+      "company": "remote zest jobs",
+      "first_seen": "2026-08-01",
+      "score": 50.1,
+      "title": "Remote job: SDET / Automation QA :: Remote",
+      "track": "qa",
+      "url": "https://remotezest.up.railway.app/job/remote-job-sdet-automation-qa-remote-1"
+    },
     "3e2659276f4a6750": {
       "company": "VectorStack",
       "first_seen": "2026-07-29",
@@ -23,6 +71,22 @@
       "title": "QA Automation Engineer \u2013 Web & Mobile Automation",
       "track": "qa",
       "url": "https://in.linkedin.com/jobs/view/qa-automation-engineer-%E2%80%93-web-mobile-automation-at-vectorstack-4443235774"
+    },
+    "4b3b45c98e48c30f": {
+      "company": "remote click jobs",
+      "first_seen": "2026-08-01",
+      "score": 77.8,
+      "title": "Junior Automation Tester",
+      "track": "qa",
+      "url": "https://remoteclickjobs-production.up.railway.app/job/junior-automation-tester-1"
+    },
+    "7a0fa2149ccb61b0": {
+      "company": "SynergisticIT",
+      "first_seen": "2026-08-01",
+      "score": 49.7,
+      "title": "Junior Java Spring boot developer/ML/AI engineer",
+      "track": "sde",
+      "url": "https://www.linkedin.com/jobs/view/junior-java-spring-boot-developer-ml-ai-engineer-at-synergisticit-4446463174"
     },
     "81f20be4c8d9ca2a": {
       "company": "Perfict Global Inc",
@@ -40,6 +104,38 @@
       "track": "sde",
       "url": "https://www.shine.com/jobs/chegg-india-software-engineer-intern/studyecart-technologies-pvt-ltd/19332453"
     },
+    "b189efffccc2e82b": {
+      "company": "remote next",
+      "first_seen": "2026-08-01",
+      "score": 66.1,
+      "title": "Automation Engineer (Mid level SDET)",
+      "track": "qa",
+      "url": "https://main.d3mhslpmrpo4el.amplifyapp.com/job/1747749"
+    },
+    "b2a761d2a104635c": {
+      "company": "Ensora Health",
+      "first_seen": "2026-08-01",
+      "score": 57.1,
+      "title": "AI SDET- Data",
+      "track": "qa",
+      "url": "https://dailyremote.com/remote-job/ai-sdet-data-5373673"
+    },
+    "b7ea2ac417c0038f": {
+      "company": "YO AI Labs",
+      "first_seen": "2026-08-01",
+      "score": 38.9,
+      "title": "Java Software Developer - Remote",
+      "track": "sde",
+      "url": "https://www.linkedin.com/jobs/view/java-software-developer-remote-at-yo-ai-labs-4445426538"
+    },
+    "bc833c85e09b78a1": {
+      "company": "PVH (Tommy Hilfiger/Calvin Klein)",
+      "first_seen": "2026-08-01",
+      "score": 47.9,
+      "title": "Remote SDET - AI-Driven Test Automation for GovTech",
+      "track": "qa",
+      "url": "https://www.jobleads.com/us/job/remote-sdet-ai-driven-test-automation-for-govtech--peru--e63130a35dd0b74e9e283a34660051c4b"
+    },
     "e616997839edc4fe": {
       "company": "Adani Enterprises Ltd",
       "first_seen": "2026-07-31",
@@ -47,6 +143,14 @@
       "title": "Graduate Engineer Trainee - Backend API Development",
       "track": "sde",
       "url": "https://www.shine.com/jobs/graduate-engineer-trainee-backend-api-development/adani-enterprises-ltd/19294763"
+    },
+    "f74814a04440ba08": {
+      "company": "remote click jobs",
+      "first_seen": "2026-08-01",
+      "score": 49.4,
+      "title": "remote junior java spring boot developer/Data Analyst",
+      "track": "sde",
+      "url": "https://remoteclickjobs-production.up.railway.app/job/remote-junior-java-spring-boot-developerdata-analyst-1"
     },
     "f82092cc6a24ef3e": {
       "company": "App Gurus",
@@ -81,6 +185,12 @@
       "candidates_after_dedup": 11,
       "date": "2026-07-31",
       "new": 5
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 20,
+      "date": "2026-08-01",
+      "new": 13
     }
   ]
 }
