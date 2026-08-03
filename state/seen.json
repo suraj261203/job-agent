@@ -136,6 +136,14 @@
       "track": "qa",
       "url": "https://www.jobleads.com/us/job/remote-sdet-ai-driven-test-automation-for-govtech--peru--e63130a35dd0b74e9e283a34660051c4b"
     },
+    "c06ccf759380e25b": {
+      "company": "Freshers Dunia",
+      "first_seen": "2026-08-03",
+      "score": 26.0,
+      "title": "L&T Technology Services Recruitment 2026 Hiring Software Engineer \u2013 Freshers & 0\u20132 Years | 2023\u20132026 Batch",
+      "track": "sde",
+      "url": "https://freshersdunia.in/lt-technology-services-recruitment-2026-hiring/"
+    },
     "e616997839edc4fe": {
       "company": "Adani Enterprises Ltd",
       "first_seen": "2026-07-31",
@@ -197,6 +205,12 @@
       "candidates_after_dedup": 3,
       "date": "2026-08-02",
       "new": 0
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 1,
+      "date": "2026-08-03",
+      "new": 1
     }
   ]
 }
