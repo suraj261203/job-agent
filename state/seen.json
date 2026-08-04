@@ -40,6 +40,14 @@
       "track": "sde",
       "url": "https://remotezest.up.railway.app/job/remote-backend-developer-go"
     },
+    "1d86552543a02643": {
+      "company": "Capital One",
+      "first_seen": "2026-08-04",
+      "score": 56.8,
+      "title": "Senior Associate - Software Engineering (Fullstack)",
+      "track": "sde",
+      "url": "https://www.capitalonecareers.com/job/bengaluru/senior-associate-software-engineering-fullstack/1732/98697183408"
+    },
     "2a25f76f0098fecc": {
       "company": "StudyECart Technologies",
       "first_seen": "2026-07-31",
@@ -79,6 +87,14 @@
       "title": "Junior Automation Tester",
       "track": "qa",
       "url": "https://remoteclickjobs-production.up.railway.app/job/junior-automation-tester-1"
+    },
+    "6f4df6a005154403": {
+      "company": "Quest Global",
+      "first_seen": "2026-08-04",
+      "score": 30.0,
+      "title": "Quest Global Off Campus Drive 2026 - Full Stack Developer AI/ML",
+      "track": "sde",
+      "url": "https://jobsnet.in/quest-global-off-campus-drive-hiring-full-stack-developer/"
     },
     "7a0fa2149ccb61b0": {
       "company": "SynergisticIT",
@@ -127,6 +143,14 @@
       "title": "Java Software Developer - Remote",
       "track": "sde",
       "url": "https://www.linkedin.com/jobs/view/java-software-developer-remote-at-yo-ai-labs-4445426538"
+    },
+    "b8d1a01252950880": {
+      "company": "Freshers Dunia",
+      "first_seen": "2026-08-04",
+      "score": 26.0,
+      "title": "L&T Technology Services Recruitment 2026 Hiring Software Engineer  Freshers &",
+      "track": "sde",
+      "url": "https://www.shine.com/jobs/lt-technology-services-recruitment-hiring-software-engineer-freshers/freshers-dunia/19353874"
     },
     "bc833c85e09b78a1": {
       "company": "PVH (Tommy Hilfiger/Calvin Klein)",
@@ -211,6 +235,12 @@
       "candidates_after_dedup": 1,
       "date": "2026-08-03",
       "new": 1
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 8,
+      "date": "2026-08-04",
+      "new": 3
     }
   ]
 }
