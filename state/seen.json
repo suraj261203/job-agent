@@ -160,6 +160,14 @@
       "track": "sde",
       "url": "https://www.shine.com/jobs/lt-technology-services-recruitment-hiring-software-engineer-freshers/freshers-dunia/19353874"
     },
+    "bc608de765a73a80": {
+      "company": "Freshers Dunia",
+      "first_seen": "2026-08-06",
+      "score": 29.0,
+      "title": "Deloitte Full Stack Developer Recruitment 2026 | Freshers & Experienced | Bengaluru | Apply Online",
+      "track": "sde",
+      "url": "https://freshersdunia.in/deloitte-full-stack-developer-recruitment-2026/"
+    },
     "bc833c85e09b78a1": {
       "company": "PVH (Tommy Hilfiger/Calvin Klein)",
       "first_seen": "2026-08-01",
@@ -183,6 +191,14 @@
       "title": "Graduate Engineer Trainee - Backend API Development",
       "track": "sde",
       "url": "https://www.shine.com/jobs/graduate-engineer-trainee-backend-api-development/adani-enterprises-ltd/19294763"
+    },
+    "f43ba45b9148e21a": {
+      "company": "Perfict Global",
+      "first_seen": "2026-08-06",
+      "score": 54.6,
+      "title": "Entry Level QA automation Engineer/Business Analyst (H1b Visa Sponsorship available) at Perfict Global Concord, CA",
+      "track": "qa",
+      "url": "https://torr.com/joblib/job/entry-level-qa-automation-engineerbusiness-analyst-h1b-visa-sponsorship-available-at-perfict-global-concord-ca-czNaYTZDbG9DejlUTG83YXE3azU5RjZ6aEE9PQ=="
     },
     "f74814a04440ba08": {
       "company": "remote click jobs",
@@ -255,6 +271,12 @@
       "candidates_after_dedup": 15,
       "date": "2026-08-05",
       "new": 1
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 4,
+      "date": "2026-08-06",
+      "new": 2
     }
   ]
 }
