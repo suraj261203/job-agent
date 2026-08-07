@@ -277,6 +277,12 @@
       "candidates_after_dedup": 4,
       "date": "2026-08-06",
       "new": 2
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 0,
+      "date": "2026-08-07",
+      "new": 0
     }
   ]
 }
