@@ -1,5 +1,13 @@
 {
   "jobs": {
+    "04d8549fc4c51eb3": {
+      "company": "Allegiant",
+      "first_seen": "2026-08-10",
+      "score": 78.7,
+      "title": "Software Engineer in Test (SET",
+      "track": "qa",
+      "url": "https://www.learn4good.com/jobs/las-vegas/new-mexico/quality_control/5347544915/e/"
+    },
     "0b0b4596372f75dd": {
       "company": "remote click jobs",
       "first_seen": "2026-08-01",
@@ -23,6 +31,14 @@
       "title": "Backend Developer(Entry Level)",
       "track": "sde",
       "url": "https://remotezest.up.railway.app/job/backend-developerentry-level-4"
+    },
+    "15b837948b89e4d7": {
+      "company": "Appzlogic",
+      "first_seen": "2026-08-10",
+      "score": 50.9,
+      "title": "Senior Playwright Automation QA (appium) (Bengaluru)",
+      "track": "qa",
+      "url": "https://www.shine.com/jobs/senior-playwright-automation-qa-appium-bengaluru/appzlogic/19418718"
     },
     "199db8a9bf3c03ab": {
       "company": "Propel Technology Group",
@@ -383,6 +399,12 @@
       "candidates_after_dedup": 21,
       "date": "2026-08-09",
       "new": 11
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 3,
+      "date": "2026-08-10",
+      "new": 2
     }
   ]
 }
