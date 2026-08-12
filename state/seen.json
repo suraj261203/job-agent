@@ -272,6 +272,14 @@
       "track": "qa",
       "url": "https://flexboard.9y.liveblog365.com/job/1747749"
     },
+    "cf54c7c3caa9bc49": {
+      "company": "Paisabazaar",
+      "first_seen": "2026-08-12",
+      "score": 54.0,
+      "title": "Software Engineer Intern (SDE)",
+      "track": "sde",
+      "url": "https://myinternships.in/job/paisabazaar-software-engineer-intern-sde-karimnagar-cac948"
+    },
     "d8d028535383bd76": {
       "company": "FlexBoard",
       "first_seen": "2026-08-09",
@@ -411,6 +419,12 @@
       "candidates_after_dedup": 1,
       "date": "2026-08-11",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 2,
+      "date": "2026-08-12",
+      "new": 1
     }
   ]
 }
