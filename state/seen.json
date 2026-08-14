@@ -168,6 +168,14 @@
       "track": "sde",
       "url": "https://remoteclickjobs-production.up.railway.app/job/remote-javafrontend-developerjunior-level-1"
     },
+    "62f8277d035cba08": {
+      "company": "Trantor Software Pvt. Ltd",
+      "first_seen": "2026-08-14",
+      "score": 66.9,
+      "title": "QA Automation (Playwright and Appium)",
+      "track": "qa",
+      "url": "https://bebee.com/in/jobs/qa-automation-playwright-and-appium-trantor-software-pvt-ltd-bangalore-city-bengaluru-karnataka--t7xk-798670428"
+    },
     "65e91445c04ec331": {
       "company": "FlexBoard",
       "first_seen": "2026-08-13",
@@ -527,6 +535,12 @@
       "candidates_after_dedup": 20,
       "date": "2026-08-13",
       "new": 12
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 5,
+      "date": "2026-08-14",
+      "new": 1
     }
   ]
 }
