@@ -160,6 +160,14 @@
       "track": "qa",
       "url": "https://remoteclickjobs-production.up.railway.app/job/junior-automation-tester-1"
     },
+    "562caa8f945f32b1": {
+      "company": "TestHiring",
+      "first_seen": "2026-08-16",
+      "score": 27.4,
+      "title": "Require a Software Engineer Trainee in Pune (India)",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/187406514946834432"
+    },
     "56e0965db2cf1270": {
       "company": "remote click jobs",
       "first_seen": "2026-08-09",
@@ -547,6 +555,12 @@
       "candidates_after_dedup": 0,
       "date": "2026-08-15",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 5,
+      "date": "2026-08-16",
+      "new": 1
     }
   ]
 }
