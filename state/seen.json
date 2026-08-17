@@ -24,6 +24,14 @@
       "track": "sde",
       "url": "https://remoteclickjobs-production.up.railway.app/job/remote-junior-java-backend-developerdata-scientist"
     },
+    "0cb7760c3a779cb4": {
+      "company": "SynergisticIT",
+      "first_seen": "2026-08-17",
+      "score": 47.4,
+      "title": "entry level data scientist/AI engineer/Junior java developer",
+      "track": "sde",
+      "url": "https://www.linkedin.com/jobs/view/entry-level-data-scientist-ai-engineer-junior-java-developer-at-synergisticit-4453901033"
+    },
     "0d2dcc14cb3b72f5": {
       "company": "remote click jobs",
       "first_seen": "2026-08-01",
@@ -248,6 +256,14 @@
       "track": "qa",
       "url": "https://www.jobilize.com/job/us-entry-level-qa-automation-engineer-business-analyst-h1b-visa-sponsorship"
     },
+    "94a671436449a4ac": {
+      "company": "Nexa",
+      "first_seen": "2026-08-17",
+      "score": 63.4,
+      "title": "Software Engineer in Test \u2013 Mobile & Platform",
+      "track": "qa",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-%E2%80%93-mobile-platform-at-nexa-4451698241"
+    },
     "99b8175799a7a9a1": {
       "company": "FlexBoard",
       "first_seen": "2026-08-13",
@@ -295,6 +311,14 @@
       "title": "Automation Engineer (Mid level SDET)",
       "track": "qa",
       "url": "https://main.d3mhslpmrpo4el.amplifyapp.com/job/1747749"
+    },
+    "b23f92f6832b1e13": {
+      "company": "FlexBoard",
+      "first_seen": "2026-08-17",
+      "score": 75.7,
+      "title": "Jr. SDET",
+      "track": "qa",
+      "url": "https://flexboard.9y.liveblog365.com/job/3388820"
     },
     "b2a761d2a104635c": {
       "company": "Ensora Health",
@@ -360,6 +384,14 @@
       "track": "qa",
       "url": "https://flexboard.9y.liveblog365.com/job/1747749"
     },
+    "cd4e0ba6604fe067": {
+      "company": "remote zest jobs",
+      "first_seen": "2026-08-17",
+      "score": 34.5,
+      "title": "[Remote] Backend Engineer (Java/Kotlin, Spring, AWS) | $120-150K | Exciting IT reputed company",
+      "track": "sde",
+      "url": "https://remotezest.up.railway.app/job/remote-backend-engineer-javakotlin-spring-aws-120-150k-exciting-it-reputed-company"
+    },
     "cf54c7c3caa9bc49": {
       "company": "Paisabazaar",
       "first_seen": "2026-08-12",
@@ -384,6 +416,14 @@
       "track": "sde",
       "url": "https://flexboard.9y.liveblog365.com/job/3087820"
     },
+    "df78469441d011b3": {
+      "company": "Alignerr",
+      "first_seen": "2026-08-17",
+      "score": 48.4,
+      "title": "Back End Developer (AI Infrastructure)",
+      "track": "sde",
+      "url": "https://www.linkedin.com/jobs/view/back-end-developer-ai-infrastructure-at-alignerr-4453613792"
+    },
     "e003ae5fd98ba607": {
       "company": "FlexBoard",
       "first_seen": "2026-08-13",
@@ -407,6 +447,14 @@
       "title": "Full Time Senior SDET &#8211; Remote (PH)",
       "track": "qa",
       "url": "https://remoteclickjobs-production.up.railway.app/job/full-time-senior-sdet-amp8211-remote-ph"
+    },
+    "f2f81d7131684c45": {
+      "company": "remote zest jobs",
+      "first_seen": "2026-08-17",
+      "score": 65.0,
+      "title": "remote junior java backend developer/Data scientist",
+      "track": "sde",
+      "url": "https://remotezest.up.railway.app/job/remote-junior-java-backend-developerdata-scientist-2"
     },
     "f43ba45b9148e21a": {
       "company": "Perfict Global",
@@ -561,6 +609,12 @@
       "candidates_after_dedup": 5,
       "date": "2026-08-16",
       "new": 1
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 21,
+      "date": "2026-08-17",
+      "new": 6
     }
   ]
 }
