@@ -80,6 +80,14 @@
       "track": "sde",
       "url": "https://www.capitalonecareers.com/job/bengaluru/senior-associate-software-engineering-fullstack/1732/98697183408"
     },
+    "22817cf8ff9c3f98": {
+      "company": "Diverse Lynx",
+      "first_seen": "2026-08-18",
+      "score": 44.9,
+      "title": "Functional Testing, Automation",
+      "track": "qa",
+      "url": "https://www.shine.com/jobs/functional-testing-automation/diverse-lynx/19472133"
+    },
     "22b58f4669397e85": {
       "company": "remote zest jobs",
       "first_seen": "2026-08-13",
@@ -615,6 +623,12 @@
       "candidates_after_dedup": 21,
       "date": "2026-08-17",
       "new": 6
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 6,
+      "date": "2026-08-18",
+      "new": 1
     }
   ]
 }
