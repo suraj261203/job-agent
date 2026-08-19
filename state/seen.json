@@ -1,5 +1,13 @@
 {
   "jobs": {
+    "03c0473752b0ebcc": {
+      "company": "Snowflake",
+      "first_seen": "2026-08-19",
+      "score": 45.1,
+      "title": "Software Engineer - Backend",
+      "track": "sde",
+      "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend"
+    },
     "04d8549fc4c51eb3": {
       "company": "Allegiant",
       "first_seen": "2026-08-10",
@@ -55,6 +63,14 @@
       "title": "Senior Playwright Automation QA (appium) (Bengaluru)",
       "track": "qa",
       "url": "https://www.shine.com/jobs/senior-playwright-automation-qa-appium-bengaluru/appzlogic/19418718"
+    },
+    "1923d0020f25116c": {
+      "company": "Saxon Global",
+      "first_seen": "2026-08-19",
+      "score": 56.6,
+      "title": "Backend Developer",
+      "track": "sde",
+      "url": "https://bebee.com/us/jobs/backend-developer-saxon-global-mclean--lensa-7428_68249c66483c0de4440273fdaa3cde34dadd0e91d997e172a9abb1e50b03691c"
     },
     "199db8a9bf3c03ab": {
       "company": "Propel Technology Group",
@@ -448,6 +464,14 @@
       "track": "sde",
       "url": "https://www.shine.com/jobs/graduate-engineer-trainee-backend-api-development/adani-enterprises-ltd/19294763"
     },
+    "e9191b077d6a3bce": {
+      "company": "Stripe",
+      "first_seen": "2026-08-19",
+      "score": 29.1,
+      "title": "Backend/API Engineer, Money as a Service",
+      "track": "sde",
+      "url": "https://stripe.com/careers/listing/backend-api-engineer-money-as-a-service/6176758"
+    },
     "e9376179315696da": {
       "company": "remote click jobs",
       "first_seen": "2026-08-09",
@@ -629,6 +653,12 @@
       "candidates_after_dedup": 6,
       "date": "2026-08-18",
       "new": 1
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 9,
+      "date": "2026-08-19",
+      "new": 3
     }
   ]
 }
