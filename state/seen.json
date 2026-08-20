@@ -408,6 +408,14 @@
       "track": "qa",
       "url": "https://flexboard.9y.liveblog365.com/job/1747749"
     },
+    "cac55ebf6a5d2d16": {
+      "company": "Thermo Fisher Scientific",
+      "first_seen": "2026-08-20",
+      "score": 50.2,
+      "title": "Software Test Engineer I",
+      "track": "qa",
+      "url": "https://jobs.thermofisher.com/global/en/job/R-01356608/Software-Test-Engineer-I"
+    },
     "cd4e0ba6604fe067": {
       "company": "remote zest jobs",
       "first_seen": "2026-08-17",
@@ -659,6 +667,12 @@
       "candidates_after_dedup": 9,
       "date": "2026-08-19",
       "new": 3
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 4,
+      "date": "2026-08-20",
+      "new": 1
     }
   ]
 }
