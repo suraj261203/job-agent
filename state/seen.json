@@ -64,6 +64,14 @@
       "track": "qa",
       "url": "https://www.shine.com/jobs/senior-playwright-automation-qa-appium-bengaluru/appzlogic/19418718"
     },
+    "164bcaca485c46a2": {
+      "company": "Rootshell Enterprise Technologies, Inc.",
+      "first_seen": "2026-08-21",
+      "score": 28.7,
+      "title": "SDET",
+      "track": "qa",
+      "url": "https://www.ziprecruiter.com/c/Rootshell-Enterprise-Technologies/Job/SDET/-in-Remote,US?jid=2bc92b5b6990fa7f"
+    },
     "1923d0020f25116c": {
       "company": "Saxon Global",
       "first_seen": "2026-08-19",
@@ -128,6 +136,14 @@
       "track": "sde",
       "url": "https://www.kitjob.in/job/305088449/chegg-india-software-engineer-intern-2026-sarita-vihar"
     },
+    "2a5439ed68db44b1": {
+      "company": "remote zest jobs",
+      "first_seen": "2026-08-21",
+      "score": 33.0,
+      "title": "Senior Software Engineer - Backend (Java)",
+      "track": "sde",
+      "url": "https://remotezest.up.railway.app/job/senior-software-engineer-backend-java"
+    },
     "2e8c9cbcc93457a0": {
       "company": "Navtech, Inc.",
       "first_seen": "2026-08-09",
@@ -135,6 +151,14 @@
       "title": "URGENT NEED - \"SDET Engineer\" _ (100% REMOTE)\"",
       "track": "qa",
       "url": "https://www.ziprecruiter.com/c/Navtech/Job/URGENT-NEED--SDET-Engineer-_-(100-REMOTE)-/-in-Remote,US?jid=a72e9b57a62df972"
+    },
+    "30237220f152a5e3": {
+      "company": "remote zest jobs",
+      "first_seen": "2026-08-21",
+      "score": 61.0,
+      "title": "Entry Level Java developer/Data engineer - Remote",
+      "track": "sde",
+      "url": "https://remotezest.up.railway.app/job/entry-level-java-developerdata-engineer-remote-3"
     },
     "3049177a7bd40b04": {
       "company": "remote zest jobs",
@@ -352,6 +376,14 @@
       "track": "qa",
       "url": "https://dailyremote.com/remote-job/ai-sdet-data-5373673"
     },
+    "b6f3fa3a426cf389": {
+      "company": "FlexBoard",
+      "first_seen": "2026-08-21",
+      "score": 30.0,
+      "title": "Senior Software Engineer - Golang/React (Remote)",
+      "track": "sde",
+      "url": "https://flexboard.9y.liveblog365.com/job/3429374"
+    },
     "b7ea2ac417c0038f": {
       "company": "YO AI Labs",
       "first_seen": "2026-08-01",
@@ -527,6 +559,14 @@
       "title": "QA Engineer \u2013 Automation, Functional",
       "track": "qa",
       "url": "https://www.remoterocketship.com/us/company/rhythm360-io/jobs/qa-engineer-automation-functional-united-states-remote/"
+    },
+    "ffaa73c6334f1ea7": {
+      "company": "Kforce Inc",
+      "first_seen": "2026-08-21",
+      "score": 49.9,
+      "title": "Mobile SDET",
+      "track": "qa",
+      "url": "https://www.linkedin.com/jobs/view/mobile-sdet-at-kforce-inc-4455788205"
     }
   },
   "runs": [
@@ -673,6 +713,12 @@
       "candidates_after_dedup": 4,
       "date": "2026-08-20",
       "new": 1
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 23,
+      "date": "2026-08-21",
+      "new": 5
     }
   ]
 }
