@@ -56,6 +56,14 @@
       "track": "sde",
       "url": "https://remotezest.up.railway.app/job/backend-developerentry-level-4"
     },
+    "135d37de194a2cd3": {
+      "company": "AlexaHire",
+      "first_seen": "2026-08-24",
+      "score": 67.5,
+      "title": "Walmart Hiring Software Engineer Jobs 2026 | Apply Right Now",
+      "track": "sde",
+      "url": "https://www.jobleads.com/in/job/walmart-hiring-software-engineer-jobs-2026-apply-right-now--chennai-district--efd3bb305e9208c3dbf0ab675f346c155"
+    },
     "15b837948b89e4d7": {
       "company": "Appzlogic",
       "first_seen": "2026-08-10",
@@ -731,6 +739,12 @@
       "candidates_after_dedup": 1,
       "date": "2026-08-23",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 19,
+      "date": "2026-08-24",
+      "new": 1
     }
   ]
 }
