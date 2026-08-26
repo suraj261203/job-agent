@@ -288,6 +288,14 @@
       "track": "qa",
       "url": "https://bebee.com/in/jobs/qa-automation-playwright-and-appium-trantor-software-pvt-ltd-bangalore-city-bengaluru-karnataka--t7xk-798670428"
     },
+    "659dde855fde3c77": {
+      "company": "Netomi",
+      "first_seen": "2026-08-26",
+      "score": 36.4,
+      "title": "SDE I - Frontend",
+      "track": "sde",
+      "url": "https://in.linkedin.com/jobs/view/sde-i-frontend-at-netomi-4432959585"
+    },
     "65e91445c04ec331": {
       "company": "FlexBoard",
       "first_seen": "2026-08-13",
@@ -391,6 +399,14 @@
       "title": "Junior SDET",
       "track": "qa",
       "url": "https://us3.remotejobs.liveblog365.com/job/2901541"
+    },
+    "a02342e99ade30c5": {
+      "company": "SPIKEWELL INDIA PVT. LTD.",
+      "first_seen": "2026-08-26",
+      "score": 29.0,
+      "title": "SDE Intern",
+      "track": "sde",
+      "url": "https://builtin.com/job/sde-intern/10816311"
     },
     "a0cde5c707e3245b": {
       "company": "vmysmartpros",
@@ -528,6 +544,14 @@
       "track": "sde",
       "url": "https://remotezest.up.railway.app/job/remote-backend-engineer-javakotlin-spring-aws-120-150k-exciting-it-reputed-company"
     },
+    "cee0e35c6a26d8a4": {
+      "company": "Newton School Of Technology",
+      "first_seen": "2026-08-26",
+      "score": 32.6,
+      "title": "SDE + Associate Instructor (FSD)",
+      "track": "sde",
+      "url": "https://internshala.com/job/detail/sde-associate-instructor-fsd-job-in-maharashtra-at-newton-school-of-technology1787531454"
+    },
     "cf54c7c3caa9bc49": {
       "company": "Paisabazaar",
       "first_seen": "2026-08-12",
@@ -639,6 +663,14 @@
       "title": "software engineer - Trainee_under graduate",
       "track": "sde",
       "url": "https://bebee.com/in/jobs/software-engineer-trainee-under-graduate-app-gurus-rajkot--t7xk-776442517"
+    },
+    "f828a0bdaf580c62": {
+      "company": "Travclan",
+      "first_seen": "2026-08-26",
+      "score": 39.9,
+      "title": "SDE 1 (Backend developer)",
+      "track": "sde",
+      "url": "https://travclan.freshteam.com/jobs/ar_enLDPPDzB/sde-1-backend-developer"
     },
     "fe5d378afcc17cae": {
       "company": "RhythmScience Inc.",
@@ -831,6 +863,12 @@
       "candidates_after_dedup": 20,
       "date": "2026-08-25",
       "new": 10
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 8,
+      "date": "2026-08-26",
+      "new": 4
     }
   ]
 }
