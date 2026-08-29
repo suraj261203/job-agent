@@ -504,6 +504,14 @@
       "track": "qa",
       "url": "https://www.jobleads.com/us/job/remote-sdet-ai-driven-test-automation-for-govtech--peru--e63130a35dd0b74e9e283a34660051c4b"
     },
+    "be44c3b622c8c4be": {
+      "company": "Tata Consultancy Services",
+      "first_seen": "2026-08-29",
+      "score": 35.8,
+      "title": "Software Development Engineer (SDE) Intern",
+      "track": "sde",
+      "url": "https://myinternships.in/job/tata-consultancy-services-software-development-engineer-sde-intern-jaipur-d52d20"
+    },
     "c06ccf759380e25b": {
       "company": "Freshers Dunia",
       "first_seen": "2026-08-03",
@@ -881,6 +889,12 @@
       "candidates_after_dedup": 4,
       "date": "2026-08-28",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 18,
+      "date": "2026-08-29",
+      "new": 1
     }
   ]
 }
