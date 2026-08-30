@@ -280,6 +280,14 @@
       "track": "sde",
       "url": "https://remoteclickjobs-production.up.railway.app/job/remote-javafrontend-developerjunior-level-1"
     },
+    "571cbfbcb4f984db": {
+      "company": "Danielle Vandermeulen District",
+      "first_seen": "2026-08-30",
+      "score": 33.3,
+      "title": "test",
+      "track": "qa",
+      "url": "https://career.io/job/test-danielle-vandermeulen-district-ede65dc10a7120c2891c8e5f433e0e65"
+    },
     "62f8277d035cba08": {
       "company": "Trantor Software Pvt. Ltd",
       "first_seen": "2026-08-14",
@@ -894,6 +902,12 @@
       "api_requests": 6,
       "candidates_after_dedup": 18,
       "date": "2026-08-29",
+      "new": 1
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 8,
+      "date": "2026-08-30",
       "new": 1
     }
   ]
