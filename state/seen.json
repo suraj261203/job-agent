@@ -72,6 +72,14 @@
       "track": "sde",
       "url": "https://remotezest.up.railway.app/job/backend-developerentry-level-4"
     },
+    "1045869362d29791": {
+      "company": "Arosys",
+      "first_seen": "2026-08-31",
+      "score": 42.1,
+      "title": "QA Tester",
+      "track": "qa",
+      "url": "https://arosys.com/jobs/qa-tester/"
+    },
     "135d37de194a2cd3": {
       "company": "AlexaHire",
       "first_seen": "2026-08-24",
@@ -367,6 +375,14 @@
       "title": "Entry Level QA automation Engineer/Business Analyst H1b Visa Sponsorship available",
       "track": "qa",
       "url": "https://www.jobilize.com/job/us-entry-level-qa-automation-engineer-business-analyst-h1b-visa-sponsorship"
+    },
+    "85cc1c9723b9faa1": {
+      "company": "VidaXL",
+      "first_seen": "2026-08-31",
+      "score": 53.1,
+      "title": "QA Engineer",
+      "track": "qa",
+      "url": "https://careers.vidaxl.com/vacancy/2905/qa-engineer"
     },
     "86cf47d11e8ac2ba": {
       "company": "remote zest jobs",
@@ -909,6 +925,12 @@
       "candidates_after_dedup": 8,
       "date": "2026-08-30",
       "new": 1
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 7,
+      "date": "2026-08-31",
+      "new": 2
     }
   ]
 }
