@@ -955,6 +955,12 @@
       "candidates_after_dedup": 0,
       "date": "2026-09-04",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 0,
+      "date": "2026-09-05",
+      "new": 0
     }
   ]
 }
