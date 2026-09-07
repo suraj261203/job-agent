@@ -136,6 +136,14 @@
       "track": "sde",
       "url": "https://www.capitalonecareers.com/job/bengaluru/senior-associate-software-engineering-fullstack/1732/98697183408"
     },
+    "1f420ee257357504": {
+      "company": "Zuven Technologies Inc",
+      "first_seen": "2026-09-07",
+      "score": 41.1,
+      "title": "Lead AI Engineer \u2013 Agentic Test Automation",
+      "track": "qa",
+      "url": "https://www.careerbuilder.com/job-details/lead-ai-engineer-agentic-test-automation-tysons-va--59efe23f-1732-4c02-801a-c5c991dbc94b?trk=bingjobs"
+    },
     "22817cf8ff9c3f98": {
       "company": "Diverse Lynx",
       "first_seen": "2026-08-18",
@@ -271,6 +279,14 @@
       "title": "Full Stack Java Developers - React- API",
       "track": "sde",
       "url": "https://www.dice.com/job-detail/caf44012-5337-474f-8b51-e2e280ea1f52"
+    },
+    "53eb9ae1862649c6": {
+      "company": "InfoSys Ltd.",
+      "first_seen": "2026-09-07",
+      "score": 66.4,
+      "title": "Test Automation Consultant",
+      "track": "qa",
+      "url": "https://www.careerbuilder.com/job-details/test-automation-consultant-johns-creek-ga--118bc6e3-d175-46ce-a589-1ea207af691d?trk=bingjobs"
     },
     "562caa8f945f32b1": {
       "company": "TestHiring",
@@ -967,6 +983,12 @@
       "candidates_after_dedup": 10,
       "date": "2026-09-06",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 10,
+      "date": "2026-09-07",
+      "new": 2
     }
   ]
 }
