@@ -80,6 +80,14 @@
       "track": "qa",
       "url": "https://arosys.com/jobs/qa-tester/"
     },
+    "12bafd876374918e": {
+      "company": "24-Mag",
+      "first_seen": "2026-09-08",
+      "score": 40.5,
+      "title": "Remote  Open Source Software Engineer \u2014 $60\u2013$80/Hour",
+      "track": "sde",
+      "url": "https://www.careerbuilder.com/job-details/remote-open-source-software-engineer-60-80-hour-new-york-ny--bf18a7ba-be8a-43bf-9fe8-f49351172824?trk=bingjobs"
+    },
     "135d37de194a2cd3": {
       "company": "AlexaHire",
       "first_seen": "2026-08-24",
@@ -296,6 +304,14 @@
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/187406514946834432"
     },
+    "56c903d13da1f3ac": {
+      "company": "Del Oro Consulting",
+      "first_seen": "2026-09-08",
+      "score": 44.5,
+      "title": "Full Stack Software Engineer - Remote (Remote)",
+      "track": "sde",
+      "url": "https://www.careerbuilder.com/job-details/full-stack-software-engineer-remote-remote-austin-tx--72c721ae-9656-4c7f-a1c3-8aec4e4330e7?trk=bingjobs"
+    },
     "56e0965db2cf1270": {
       "company": "remote click jobs",
       "first_seen": "2026-08-09",
@@ -335,6 +351,14 @@
       "title": "Python Developer - Egypt (Remote)",
       "track": "sde",
       "url": "https://flexboard.9y.liveblog365.com/job/3279813"
+    },
+    "6cd8e18b996a48e3": {
+      "company": "SynergisticIT",
+      "first_seen": "2026-09-08",
+      "score": 52.4,
+      "title": "Data Scientist/Software Engineer - Junior (Remote)",
+      "track": "sde",
+      "url": "https://www.careerbuilder.com/job-details/data-scientist-software-engineer-junior-remote-mclean-va--3c898a88-258e-457a-b897-bdd13aae85d1?trk=bingjobs"
     },
     "6f4df6a005154403": {
       "company": "Quest Global",
@@ -464,6 +488,14 @@
       "track": "sde",
       "url": "https://www.ziprecruiter.com/c/Apex-Informatics/Job/Java-Golang-Developer/-in-Remote,US?jid=ff9377ff80ee0069"
     },
+    "ada48a9b5295e244": {
+      "company": "OnTrac",
+      "first_seen": "2026-09-08",
+      "score": 27.2,
+      "title": "Sr. Software Engineer \u2013 Mobile Engineer (Remote)",
+      "track": "sde",
+      "url": "https://www.careerbuilder.com/job-details/sr-software-engineer-mobile-engineer-remote-chicago-il--e61b5b75-ae18-47e9-9c74-7aa58974441e?trk=bingjobs"
+    },
     "af9b4bdd3e9cfd45": {
       "company": "StudyECart Technologies Pvt Ltd",
       "first_seen": "2026-07-31",
@@ -591,6 +623,14 @@
       "title": "[Remote] Backend Engineer (Java/Kotlin, Spring, AWS) | $120-150K | Exciting IT reputed company",
       "track": "sde",
       "url": "https://remotezest.up.railway.app/job/remote-backend-engineer-javakotlin-spring-aws-120-150k-exciting-it-reputed-company"
+    },
+    "cddbaade38aa20b0": {
+      "company": "SynergisticIT",
+      "first_seen": "2026-09-08",
+      "score": 35.4,
+      "title": "Remote Software Developer (Entry Level)",
+      "track": "sde",
+      "url": "https://www.careerbuilder.com/job-details/remote-software-developer-entry-level-san-jose-ca--243bfb9c-1b2f-4b43-a715-29063a3c702b?trk=bingjobs"
     },
     "cee0e35c6a26d8a4": {
       "company": "Newton School Of Technology",
@@ -989,6 +1029,12 @@
       "candidates_after_dedup": 10,
       "date": "2026-09-07",
       "new": 2
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 10,
+      "date": "2026-09-08",
+      "new": 5
     }
   ]
 }
