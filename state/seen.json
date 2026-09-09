@@ -32,6 +32,22 @@
       "track": "qa",
       "url": "https://flexboard.9y.liveblog365.com/job/3319411"
     },
+    "05652711ba8e9d5c": {
+      "company": "Base Career",
+      "first_seen": "2026-09-09",
+      "score": 43.7,
+      "title": "Software Engineer, Associate (Hyderabad)",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/5338032434199920640?trk=bingjobs"
+    },
+    "077d19d29833eabb": {
+      "company": "Lumen Solutions Group, Inc.",
+      "first_seen": "2026-09-09",
+      "score": 64.5,
+      "title": "Senior SDET / QA Automation Engineer AI",
+      "track": "qa",
+      "url": "https://www.careerbuilder.com/job-details/senior-sdet-qa-automation-engineer-ai-reston-va--d0415585-aa64-4d37-a74b-785584349560?trk=bingjobs"
+    },
     "0b0b4596372f75dd": {
       "company": "remote click jobs",
       "first_seen": "2026-08-01",
@@ -63,6 +79,14 @@
       "title": "Remote Java/Frontend Developer(Junior Level)",
       "track": "sde",
       "url": "https://remotezest.up.railway.app/job/remote-javafrontend-developerjunior-level-2"
+    },
+    "0da0538ea2bf4234": {
+      "company": "Turing",
+      "first_seen": "2026-09-09",
+      "score": 26.7,
+      "title": "Remote Software Engineer \u2013 Ruby Amritsar",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/6759889397719498752?trk=bingjobs"
     },
     "0ebb3246bef58905": {
       "company": "remote zest jobs",
@@ -168,6 +192,14 @@
       "track": "qa",
       "url": "https://remotezest.up.railway.app/job/remote-sdet-qa-automation-guadalajara-mex-mx"
     },
+    "240c93733265f47e": {
+      "company": "Rootshell Enterprise Technologies, Inc.",
+      "first_seen": "2026-09-09",
+      "score": 46.5,
+      "title": "QA Automation Engineer With AEM - Remote",
+      "track": "qa",
+      "url": "https://www.ziprecruiter.com/c/Rootshell-Enterprise-Technologies/Job/QA-Automation-Engineer-with-AEM-Remote/-in-Remote,US?jid=6d798d5e6ee0fbc1&trk=bingjobs"
+    },
     "28375f67faf8fb34": {
       "company": "FlexBoard",
       "first_seen": "2026-08-09",
@@ -192,6 +224,14 @@
       "track": "sde",
       "url": "https://remotezest.up.railway.app/job/senior-software-engineer-backend-java"
     },
+    "2acc81dc78c0aee1": {
+      "company": "Nexevo Technologies",
+      "first_seen": "2026-09-09",
+      "score": 61.5,
+      "title": "Software Testing Engineer (Bengaluru)",
+      "track": "qa",
+      "url": "https://in.jobrapido.com/jobpreview/6433109319264239616?trk=bingjobs"
+    },
     "2ae33aee1243a2f0": {
       "company": "Guru Soft",
       "first_seen": "2026-08-25",
@@ -199,6 +239,22 @@
       "title": "Java J2EE developer",
       "track": "sde",
       "url": "https://www.ziprecruiter.com/c/Guru-Soft/Job/Java-J2EE-developer/-in-Remote,US?jid=24be3ce5a8a06ba3"
+    },
+    "2b0a2db1765eef08": {
+      "company": "Newton School",
+      "first_seen": "2026-09-09",
+      "score": 39.9,
+      "title": "SDE 1",
+      "track": "sde",
+      "url": "https://in.linkedin.com/jobs/view/sde-1-at-newton-school-4464350404?trk=bingjobs"
+    },
+    "2c4e5bb127227140": {
+      "company": "Esbora",
+      "first_seen": "2026-09-09",
+      "score": 26.0,
+      "title": "Software Engineer (India)",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/6306401324401426432?trk=bingjobs"
     },
     "2e8c9cbcc93457a0": {
       "company": "Navtech, Inc.",
@@ -240,6 +296,14 @@
       "track": "qa",
       "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-consultnet-technology-services-and-solutions-4449203906"
     },
+    "362a8a51f306a7ec": {
+      "company": "ICONMA",
+      "first_seen": "2026-09-09",
+      "score": 49.4,
+      "title": "Automation Test Engineer",
+      "track": "qa",
+      "url": "https://www.careerbuilder.com/job-details/automation-test-engineer-phoenix-az--ae5bb8cf-7d24-4e1a-b4d2-73cb18286d1e?trk=bingjobs"
+    },
     "36b7fd729955437f": {
       "company": "remote zest jobs",
       "first_seen": "2026-08-01",
@@ -263,6 +327,14 @@
       "title": "QA Automation Engineer \u2013 Web & Mobile Automation",
       "track": "qa",
       "url": "https://in.linkedin.com/jobs/view/qa-automation-engineer-%E2%80%93-web-mobile-automation-at-vectorstack-4443235774"
+    },
+    "3ffa68044e1631f6": {
+      "company": "GlobalLogic",
+      "first_seen": "2026-09-09",
+      "score": 53.2,
+      "title": "Engineer I \u2013 Automation QA IRC302575",
+      "track": "qa",
+      "url": "https://in.linkedin.com/jobs/view/engineer-i-%E2%80%93-automation-qa-irc302575-at-globallogic-4462931374?trk=bingjobs"
     },
     "4a81494c078343d6": {
       "company": "FlexBoard",
@@ -327,6 +399,30 @@
       "title": "test",
       "track": "qa",
       "url": "https://career.io/job/test-danielle-vandermeulen-district-ede65dc10a7120c2891c8e5f433e0e65"
+    },
+    "578b4b8c7ef5d043": {
+      "company": "StudyECart Technologies Pvt Ltd",
+      "first_seen": "2026-09-09",
+      "score": 44.1,
+      "title": "Weekday Software Engineer Intern 2026  Remote IT Jobs",
+      "track": "sde",
+      "url": "https://in.linkedin.com/jobs/view/weekday-software-engineer-intern-2026-remote-it-jobs-at-studyecart-technologies-pvt-ltd-4461330893?trk=bingjobs"
+    },
+    "599e50b01fc6d0de": {
+      "company": "TURIUM",
+      "first_seen": "2026-09-09",
+      "score": 30.4,
+      "title": "Software Test Engineer Hyderabad (India)",
+      "track": "qa",
+      "url": "https://in.jobrapido.com/jobpreview/7928478943022153728?trk=bingjobs"
+    },
+    "629e46b16cd9d130": {
+      "company": "Codifi",
+      "first_seen": "2026-09-09",
+      "score": 66.9,
+      "title": "Software Developer Trainee",
+      "track": "sde",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-trainee-at-codifi-4462956162?trk=bingjobs"
     },
     "62f8277d035cba08": {
       "company": "Trantor Software Pvt. Ltd",
@@ -432,6 +528,14 @@
       "track": "sde",
       "url": "https://remotezest.up.railway.app/job/java-developer-senior-1"
     },
+    "8b9c895b2d3d5edb": {
+      "company": "Discorder Tools",
+      "first_seen": "2026-09-09",
+      "score": 44.0,
+      "title": "Junior Software Engineer (SDE I)",
+      "track": "sde",
+      "url": "https://in.linkedin.com/jobs/view/junior-software-engineer-sde-i-at-discorder-tools-4462367316?trk=bingjobs"
+    },
     "94a671436449a4ac": {
       "company": "Nexa",
       "first_seen": "2026-08-17",
@@ -440,6 +544,14 @@
       "track": "qa",
       "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-%E2%80%93-mobile-platform-at-nexa-4451698241"
     },
+    "996157c8c87325a1": {
+      "company": "1074 Amgen Technology",
+      "first_seen": "2026-09-09",
+      "score": 37.1,
+      "title": "Sr Associate Software Engineer (Hyderabad)",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/3009960186090618880?trk=bingjobs"
+    },
     "99b8175799a7a9a1": {
       "company": "FlexBoard",
       "first_seen": "2026-08-13",
@@ -447,6 +559,14 @@
       "title": "Remote job: SDET / Automation QA :: Remote",
       "track": "qa",
       "url": "https://flexboard.9y.liveblog365.com/job/3256792"
+    },
+    "9a67e0a941929a0f": {
+      "company": "Fujitsu",
+      "first_seen": "2026-09-09",
+      "score": 48.9,
+      "title": "Software Engineer",
+      "track": "sde",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-fujitsu-4462828090?trk=bingjobs"
     },
     "9b7be9e3f8fa99f9": {
       "company": "Valorantum",
@@ -584,6 +704,14 @@
       "track": "sde",
       "url": "https://myinternships.in/job/tata-consultancy-services-software-development-engineer-sde-intern-jaipur-d52d20"
     },
+    "bf6b192c8b2a3ff9": {
+      "company": "Turing",
+      "first_seen": "2026-09-09",
+      "score": 26.7,
+      "title": "Remote Software Engineer \u2013 Ruby Tiruchirappalli (India)",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/1176668307919470592?trk=bingjobs"
+    },
     "c06ccf759380e25b": {
       "company": "Freshers Dunia",
       "first_seen": "2026-08-03",
@@ -656,6 +784,22 @@
       "track": "qa",
       "url": "https://himalayas.app/companies/octave/jobs/senior-sdet-remote-test-automation-lead"
     },
+    "d0921bbfdfb213ca": {
+      "company": "BETSOL",
+      "first_seen": "2026-09-09",
+      "score": 37.1,
+      "title": "QA Engineer, Automation",
+      "track": "qa",
+      "url": "https://in.linkedin.com/jobs/view/qa-engineer-automation-at-betsol-4464091157?trk=bingjobs"
+    },
+    "d1b757080be59f2f": {
+      "company": "Leading",
+      "first_seen": "2026-09-09",
+      "score": 26.4,
+      "title": "Associate III - Software Engineering (Diversity) (Hyderabad)",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/4712250201614581760?trk=bingjobs"
+    },
     "d1f9224a0767477c": {
       "company": "US-wfhub",
       "first_seen": "2026-08-25",
@@ -720,6 +864,22 @@
       "track": "qa",
       "url": "https://remoteclickjobs-production.up.railway.app/job/full-time-senior-sdet-amp8211-remote-ph"
     },
+    "ecc99a0a99612cb0": {
+      "company": "Walmart Global Tech India",
+      "first_seen": "2026-09-09",
+      "score": 57.6,
+      "title": "STAFF, SOFTWARE ENGINEER",
+      "track": "sde",
+      "url": "https://in.linkedin.com/jobs/view/staff-software-engineer-at-walmart-global-tech-india-4413679209?trk=bingjobs"
+    },
+    "ece7210b8bbe5890": {
+      "company": "Cisco",
+      "first_seen": "2026-09-09",
+      "score": 26.0,
+      "title": "Software Engineer Trainee_Technical Graduate Apprentice - India UHR (Hyderabad)",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/6704547678958649344?trk=bingjobs"
+    },
     "f2f81d7131684c45": {
       "company": "remote zest jobs",
       "first_seen": "2026-08-17",
@@ -775,6 +935,14 @@
       "title": "Mobile SDET",
       "track": "qa",
       "url": "https://www.linkedin.com/jobs/view/mobile-sdet-at-kforce-inc-4455788205"
+    },
+    "ffd3c850a4efd0e2": {
+      "company": "Overt Minds",
+      "first_seen": "2026-09-09",
+      "score": 53.5,
+      "title": "QA Automation Engineer (Bengaluru)",
+      "track": "qa",
+      "url": "https://in.jobrapido.com/jobpreview/8800200348825288704?trk=bingjobs"
     }
   },
   "runs": [
@@ -1035,6 +1203,12 @@
       "candidates_after_dedup": 10,
       "date": "2026-09-08",
       "new": 5
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 55,
+      "date": "2026-09-09",
+      "new": 21
     }
   ]
 }
