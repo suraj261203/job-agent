@@ -56,6 +56,14 @@
       "track": "sde",
       "url": "https://remoteclickjobs-production.up.railway.app/job/remote-junior-java-backend-developerdata-scientist"
     },
+    "0b35dd9bfade869e": {
+      "company": "Purplle.com",
+      "first_seen": "2026-09-12",
+      "score": 63.9,
+      "title": "QA Automation Engineer - QA 2",
+      "track": "qa",
+      "url": "https://in.linkedin.com/jobs/view/qa-automation-engineer-qa-2-at-purplle-com-4409136819?trk=bingjobs"
+    },
     "0cb7760c3a779cb4": {
       "company": "SynergisticIT",
       "first_seen": "2026-08-17",
@@ -63,6 +71,14 @@
       "title": "entry level data scientist/AI engineer/Junior java developer",
       "track": "sde",
       "url": "https://www.linkedin.com/jobs/view/entry-level-data-scientist-ai-engineer-junior-java-developer-at-synergisticit-4453901033"
+    },
+    "0d0953167309af03": {
+      "company": "Instient",
+      "first_seen": "2026-09-12",
+      "score": 74.2,
+      "title": "QA Automation Engineer (Bengaluru)",
+      "track": "qa",
+      "url": "https://in.jobrapido.com/jobpreview/2907958354942885888?trk=bingjobs"
     },
     "0d2dcc14cb3b72f5": {
       "company": "remote click jobs",
@@ -480,6 +496,14 @@
       "track": "sde",
       "url": "https://in.linkedin.com/jobs/view/weekday-software-engineer-intern-2026-remote-it-jobs-at-studyecart-technologies-pvt-ltd-4461330893?trk=bingjobs"
     },
+    "582f312fc117e940": {
+      "company": "Monotype Solutions India",
+      "first_seen": "2026-09-12",
+      "score": 26.0,
+      "title": "Software Engineer Trainee (Noida)",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/3249111661713293312?trk=bingjobs"
+    },
     "5974a5e603973431": {
       "company": "Health Catalyst",
       "first_seen": "2026-09-10",
@@ -543,6 +567,14 @@
       "title": "Python Developer - Egypt (Remote)",
       "track": "sde",
       "url": "https://flexboard.9y.liveblog365.com/job/3279813"
+    },
+    "67571e733f8153f5": {
+      "company": "Macpower Digital Assets Edge Private Limited",
+      "first_seen": "2026-09-12",
+      "score": 30.2,
+      "title": "Java Backend Developer",
+      "track": "sde",
+      "url": "https://www.careerbuilder.com/job-details/java-backend-developer-alpharetta-ga--20f47e74-cafa-4a5d-8d4c-5460c22af97d?trk=bingjobs"
     },
     "69e77aa62ac37931": {
       "company": "Quickgov Solutions Private",
@@ -712,6 +744,14 @@
       "track": "qa",
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-charles-schwab-india-4464639629?trk=bingjobs"
     },
+    "9e82006e8ca5c1d0": {
+      "company": "Navtech, Inc.",
+      "first_seen": "2026-09-12",
+      "score": 35.1,
+      "title": "Java Backend Developer With GCP And Vertex",
+      "track": "sde",
+      "url": "https://www.ziprecruiter.com/c/Navtech/Job/Java-Backend-Developer-with-GCP-and-Vertex/-in-Alpharetta,GA?jid=f08fb055ba8e4948&trk=bingjobs"
+    },
     "9f9906448ef5098f": {
       "company": "RemoteJobs",
       "first_seen": "2026-08-25",
@@ -743,6 +783,14 @@
       "title": "Java Golang Developer",
       "track": "sde",
       "url": "https://www.ziprecruiter.com/c/Apex-Informatics/Job/Java-Golang-Developer/-in-Remote,US?jid=ff9377ff80ee0069"
+    },
+    "a551b1fd9126a802": {
+      "company": "Turing",
+      "first_seen": "2026-09-12",
+      "score": 31.9,
+      "title": "Remote Software Engineer (Go)",
+      "track": "sde",
+      "url": "https://www.adzuna.in/details/5874291291?trk=bingjobs"
     },
     "a89d57fc95c7d855": {
       "company": "HuntingCube",
@@ -1080,6 +1128,14 @@
       "track": "qa",
       "url": "https://torr.com/joblib/job/entry-level-qa-automation-engineerbusiness-analyst-h1b-visa-sponsorship-available-at-perfict-global-concord-ca-czNaYTZDbG9DejlUTG83YXE3azU5RjZ6aEE9PQ=="
     },
+    "f49a6521320080dc": {
+      "company": "HuntingCube",
+      "first_seen": "2026-09-12",
+      "score": 55.4,
+      "title": "QA Automation Engineer",
+      "track": "qa",
+      "url": "https://in.linkedin.com/jobs/view/qa-automation-engineer-at-huntingcube-4465833330?trk=bingjobs"
+    },
     "f74814a04440ba08": {
       "company": "remote click jobs",
       "first_seen": "2026-08-01",
@@ -1405,6 +1461,12 @@
       "candidates_after_dedup": 57,
       "date": "2026-09-11",
       "new": 11
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 39,
+      "date": "2026-09-12",
+      "new": 7
     }
   ]
 }
