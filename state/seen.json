@@ -160,6 +160,14 @@
       "track": "sde",
       "url": "https://bebee.com/us/jobs/backend-developer-saxon-global-mclean--lensa-7428_68249c66483c0de4440273fdaa3cde34dadd0e91d997e172a9abb1e50b03691c"
     },
+    "195693fe1ff749cc": {
+      "company": "AlgoUniversity",
+      "first_seen": "2026-09-13",
+      "score": 34.7,
+      "title": "Software Engineer Bengaluru (India)",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/725600534572040192?trk=bingjobs"
+    },
     "199db8a9bf3c03ab": {
       "company": "Propel Technology Group",
       "first_seen": "2026-07-31",
@@ -407,6 +415,14 @@
       "title": "Engineer I \u2013 Automation QA IRC302575",
       "track": "qa",
       "url": "https://in.linkedin.com/jobs/view/engineer-i-%E2%80%93-automation-qa-irc302575-at-globallogic-4462931374?trk=bingjobs"
+    },
+    "410ed21b483de848": {
+      "company": "NewSpace Research and Technologies",
+      "first_seen": "2026-09-13",
+      "score": 34.7,
+      "title": "Engineer II - Software Testing",
+      "track": "qa",
+      "url": "https://in.linkedin.com/jobs/view/engineer-ii-software-testing-at-newspace-research-and-technologies-4465055098?trk=bingjobs"
     },
     "4a81494c078343d6": {
       "company": "FlexBoard",
@@ -1016,6 +1032,14 @@
       "track": "sde",
       "url": "https://wfhub.un.liveblog365.com/remote-jobs/remote-backend-engineer-java-kotlin-spring-aws-120-150k-exciting-it-consulting-firm-007bb076"
     },
+    "d30d64144f748296": {
+      "company": "Analytix Business Solutions (India) Pvt. Ltd.",
+      "first_seen": "2026-09-13",
+      "score": 46.7,
+      "title": "Software Engineer",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/7805451425894367232?trk=bingjobs"
+    },
     "d37644ccc4bd413b": {
       "company": "remote zest jobs",
       "first_seen": "2026-08-13",
@@ -1467,6 +1491,12 @@
       "candidates_after_dedup": 39,
       "date": "2026-09-12",
       "new": 7
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 35,
+      "date": "2026-09-13",
+      "new": 3
     }
   ]
 }
