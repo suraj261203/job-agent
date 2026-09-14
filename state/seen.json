@@ -408,6 +408,14 @@
       "track": "sde",
       "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-at-turing-4463241463?trk=bingjobs"
     },
+    "3f71cc82a8d08661": {
+      "company": "YO IT Consulting",
+      "first_seen": "2026-09-14",
+      "score": 26.6,
+      "title": "Backend Java Developer - Remote",
+      "track": "sde",
+      "url": "https://www.linkedin.com/jobs/view/backend-java-developer-remote-at-yo-it-consulting-4464165252?trk=bingjobs"
+    },
     "3ffa68044e1631f6": {
       "company": "GlobalLogic",
       "first_seen": "2026-09-09",
@@ -608,6 +616,14 @@
       "track": "sde",
       "url": "https://www.careerbuilder.com/job-details/data-scientist-software-engineer-junior-remote-mclean-va--3c898a88-258e-457a-b897-bdd13aae85d1?trk=bingjobs"
     },
+    "6ee065cf88a3b635": {
+      "company": "NTT DATA Business Solutions",
+      "first_seen": "2026-09-14",
+      "score": 34.7,
+      "title": "Senior Associate Automation Engineer (Hyderabad)",
+      "track": "qa",
+      "url": "https://in.jobrapido.com/jobpreview/650360266688561152?trk=bingjobs"
+    },
     "6f4df6a005154403": {
       "company": "Quest Global",
       "first_seen": "2026-08-04",
@@ -680,6 +696,14 @@
       "track": "qa",
       "url": "https://careers.vidaxl.com/vacancy/2905/qa-engineer"
     },
+    "86cb4e790da83caf": {
+      "company": "Stradit",
+      "first_seen": "2026-09-14",
+      "score": 50.7,
+      "title": "Automation Test Engineer Hyderabad (India)",
+      "track": "qa",
+      "url": "https://in.jobrapido.com/jobpreview/7805361815696703488?trk=bingjobs"
+    },
     "86cf47d11e8ac2ba": {
       "company": "remote zest jobs",
       "first_seen": "2026-08-25",
@@ -695,6 +719,14 @@
       "title": "Junior Software Engineer (SDE I)",
       "track": "sde",
       "url": "https://in.linkedin.com/jobs/view/junior-software-engineer-sde-i-at-discorder-tools-4462367316?trk=bingjobs"
+    },
+    "8f4de14ae55b36a1": {
+      "company": "Mastech InfoTrellis",
+      "first_seen": "2026-09-14",
+      "score": 59.0,
+      "title": "Quality Engineer SDET Performance Test Engineer (Hyderabad)",
+      "track": "qa",
+      "url": "https://in.jobrapido.com/jobpreview/3063655248749920256?trk=bingjobs"
     },
     "94a671436449a4ac": {
       "company": "Nexa",
@@ -800,6 +832,14 @@
       "track": "sde",
       "url": "https://www.ziprecruiter.com/c/Apex-Informatics/Job/Java-Golang-Developer/-in-Remote,US?jid=ff9377ff80ee0069"
     },
+    "a4053fad4a9a5b5b": {
+      "company": "CIBC India",
+      "first_seen": "2026-09-14",
+      "score": 53.5,
+      "title": "Quality Engineer - Automation Testing [T500-29207]",
+      "track": "qa",
+      "url": "https://in.linkedin.com/jobs/view/quality-engineer-automation-testing-t500-29207-at-cibc-india-4464317556?trk=bingjobs"
+    },
     "a551b1fd9126a802": {
       "company": "Turing",
       "first_seen": "2026-09-12",
@@ -807,6 +847,14 @@
       "title": "Remote Software Engineer (Go)",
       "track": "sde",
       "url": "https://www.adzuna.in/details/5874291291?trk=bingjobs"
+    },
+    "a857d1add4abcd7a": {
+      "company": "Turing",
+      "first_seen": "2026-09-14",
+      "score": 26.7,
+      "title": "Remote Software Engineer \u2013 Ruby",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/608188085888352256?trk=bingjobs"
     },
     "a89d57fc95c7d855": {
       "company": "HuntingCube",
@@ -1055,6 +1103,14 @@
       "title": "Java/Full Stack Software Engineer-reputed company Level",
       "track": "sde",
       "url": "https://flexboard.9y.liveblog365.com/job/3087820"
+    },
+    "dc25155fed19a223": {
+      "company": "Quest Global",
+      "first_seen": "2026-09-14",
+      "score": 39.2,
+      "title": "Software Engineer",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/4096654119626866688?trk=bingjobs"
     },
     "de67c300af6b46f9": {
       "company": "Thinkproject",
@@ -1497,6 +1553,12 @@
       "candidates_after_dedup": 35,
       "date": "2026-09-13",
       "new": 3
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 46,
+      "date": "2026-09-14",
+      "new": 7
     }
   ]
 }
