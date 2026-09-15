@@ -48,6 +48,14 @@
       "track": "qa",
       "url": "https://www.careerbuilder.com/job-details/senior-sdet-qa-automation-engineer-ai-reston-va--d0415585-aa64-4d37-a74b-785584349560?trk=bingjobs"
     },
+    "08aa1772cfd04bc5": {
+      "company": "PRI INDIA IT SERVICES PRIVATE LIMITED",
+      "first_seen": "2026-09-15",
+      "score": 43.6,
+      "title": "Mid-Level Software Engineer/Junior Software Engineer",
+      "track": "sde",
+      "url": "https://in.linkedin.com/jobs/view/mid-level-software-engineer-junior-software-engineer-at-pri-india-it-services-private-limited-4466478163?trk=bingjobs"
+    },
     "0b0b4596372f75dd": {
       "company": "remote click jobs",
       "first_seen": "2026-08-01",
@@ -199,6 +207,14 @@
       "title": "Senior Associate - Software Engineering (Fullstack)",
       "track": "sde",
       "url": "https://www.capitalonecareers.com/job/bengaluru/senior-associate-software-engineering-fullstack/1732/98697183408"
+    },
+    "1d8723943db5da59": {
+      "company": "flotomate",
+      "first_seen": "2026-09-15",
+      "score": 45.8,
+      "title": "QA Automation Engineer (Ahmedabad)",
+      "track": "qa",
+      "url": "https://in.jobrapido.com/jobpreview/7358768504918507520?trk=bingjobs"
     },
     "1f420ee257357504": {
       "company": "Zuven Technologies Inc",
@@ -664,6 +680,14 @@
       "track": "qa",
       "url": "https://www.learn4good.com/jobs/online_remote/software_development/5335471673/e/"
     },
+    "793b52695486d6d5": {
+      "company": "Swift",
+      "first_seen": "2026-09-15",
+      "score": 33.1,
+      "title": "Test Automation Engineer (Hybrid)",
+      "track": "qa",
+      "url": "https://www.linkedin.com/jobs/view/test-automation-engineer-hybrid-at-swift-4429735071?trk=bingjobs"
+    },
     "7a0fa2149ccb61b0": {
       "company": "SynergisticIT",
       "first_seen": "2026-08-01",
@@ -695,6 +719,14 @@
       "title": "QA Engineer",
       "track": "qa",
       "url": "https://careers.vidaxl.com/vacancy/2905/qa-engineer"
+    },
+    "86476d463b8815ca": {
+      "company": "HYrEzy Tech Solutions",
+      "first_seen": "2026-09-15",
+      "score": 44.9,
+      "title": "Qa Automation Engineer Ahmedabad (India)",
+      "track": "qa",
+      "url": "https://in.jobrapido.com/jobpreview/3148781912873500672?trk=bingjobs"
     },
     "86cb4e790da83caf": {
       "company": "Stradit",
@@ -1559,6 +1591,12 @@
       "candidates_after_dedup": 46,
       "date": "2026-09-14",
       "new": 7
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 27,
+      "date": "2026-09-15",
+      "new": 4
     }
   ]
 }
