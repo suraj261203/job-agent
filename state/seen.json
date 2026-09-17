@@ -264,6 +264,14 @@
       "track": "sde",
       "url": "https://flexboard.9y.liveblog365.com/job/2496831"
     },
+    "286aa92bcf413d99": {
+      "company": "Freshers Recruitment",
+      "first_seen": "2026-09-17",
+      "score": 34.1,
+      "title": "IQVIA Recruitment Jobs 2026 | Hiring Software Development Engineer I | Freshers Can Apply",
+      "track": "sde",
+      "url": "https://www.jobleads.com/in/job/iqvia-recruitment-jobs-2026-hiring-software-development-engineer-i-freshers-can-apply--india--ea78d152eab7a3cc20992f5d188ede79e"
+    },
     "2a25f76f0098fecc": {
       "company": "StudyECart Technologies",
       "first_seen": "2026-07-31",
@@ -768,6 +776,14 @@
       "track": "qa",
       "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-%E2%80%93-mobile-platform-at-nexa-4451698241"
     },
+    "95be309be9b65f8f": {
+      "company": "Cognizant",
+      "first_seen": "2026-09-17",
+      "score": 32.0,
+      "title": "Cognizant is Hiring Entry-Level Junior Software Engineers",
+      "track": "sde",
+      "url": "https://jobsnet.in/cognizant-is-hiring-entry-level-junior-software-engineers/"
+    },
     "96baf502025b06c9": {
       "company": "SynergisticIT",
       "first_seen": "2026-09-10",
@@ -855,6 +871,14 @@
       "title": "remote junior java backend developer/Data scientist",
       "track": "sde",
       "url": "https://www.mysmartpros.com/tuition/job/remote-junior-java-backend-developer-data-scientist/"
+    },
+    "a31d3fd6a26e5c1b": {
+      "company": "TERRALOGIC",
+      "first_seen": "2026-09-17",
+      "score": 49.9,
+      "title": "Software Engineering Intern (New Grad Hiring 2026) (India)",
+      "track": "sde",
+      "url": "https://in.jobrapido.com/jobpreview/367472245737521152"
     },
     "a3d8a68b8dcdd156": {
       "company": "Apex Informatics",
@@ -1603,6 +1627,12 @@
       "candidates_after_dedup": 1,
       "date": "2026-09-16",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 5,
+      "date": "2026-09-17",
+      "new": 3
     }
   ]
 }
