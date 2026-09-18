@@ -160,6 +160,14 @@
       "track": "qa",
       "url": "https://www.ziprecruiter.com/c/Rootshell-Enterprise-Technologies/Job/SDET/-in-Remote,US?jid=2bc92b5b6990fa7f"
     },
+    "165bd6228afe7003": {
+      "company": "vacancy global pro",
+      "first_seen": "2026-09-18",
+      "score": 68.0,
+      "title": "remote junior java backend developer/Data scientist",
+      "track": "sde",
+      "url": "https://vacancyglobalpro.up.railway.app/job/remote-junior-java-backend-developerdata-scientist"
+    },
     "1923d0020f25116c": {
       "company": "Saxon Global",
       "first_seen": "2026-08-19",
@@ -303,6 +311,14 @@
       "title": "Java J2EE developer",
       "track": "sde",
       "url": "https://www.ziprecruiter.com/c/Guru-Soft/Job/Java-J2EE-developer/-in-Remote,US?jid=24be3ce5a8a06ba3"
+    },
+    "2af411983c2005ea": {
+      "company": "Medpace",
+      "first_seen": "2026-09-18",
+      "score": 35.4,
+      "title": "Entry Level Software QA Test Engineer at Medpace",
+      "track": "qa",
+      "url": "https://www.shine.com/jobs/entry-level-software-qa-test-engineer-at-medpace/medpace/19559755"
     },
     "2b0a2db1765eef08": {
       "company": "Newton School",
@@ -456,6 +472,14 @@
       "track": "qa",
       "url": "https://in.linkedin.com/jobs/view/engineer-ii-software-testing-at-newspace-research-and-technologies-4465055098?trk=bingjobs"
     },
+    "489e2fb93bf97826": {
+      "company": "Houston Skilled Consultancy",
+      "first_seen": "2026-09-18",
+      "score": 54.4,
+      "title": "Backend Developer (Work from Home) - Top MNCs Hiring",
+      "track": "sde",
+      "url": "https://www.theelitejob.com/job/12804/backend-developer-work-from-home-top-mncs-hiring"
+    },
     "4a81494c078343d6": {
       "company": "FlexBoard",
       "first_seen": "2026-08-09",
@@ -543,6 +567,14 @@
       "title": "Weekday Software Engineer Intern 2026  Remote IT Jobs",
       "track": "sde",
       "url": "https://in.linkedin.com/jobs/view/weekday-software-engineer-intern-2026-remote-it-jobs-at-studyecart-technologies-pvt-ltd-4461330893?trk=bingjobs"
+    },
+    "581ffb4f715e7684": {
+      "company": "YO AI Labs",
+      "first_seen": "2026-09-18",
+      "score": 49.0,
+      "title": "GO/GoLang Software Developer - Remote",
+      "track": "sde",
+      "url": "https://www.linkedin.com/jobs/view/go-golang-software-developer-remote-at-yo-ai-labs-4465771630"
     },
     "582f312fc117e940": {
       "company": "Monotype Solutions India",
@@ -1055,6 +1087,14 @@
       "title": "remote junior java backend developer/Data scientist",
       "track": "sde",
       "url": "https://flexboard.9y.liveblog365.com/job/2509720"
+    },
+    "c7c17a0dea7de691": {
+      "company": "vacancy global pro",
+      "first_seen": "2026-09-18",
+      "score": 33.9,
+      "title": "Back-End Developer, Senior/Mid- JCC2-JCO",
+      "track": "sde",
+      "url": "https://vacancyglobalpro.up.railway.app/job/back-end-developer-seniormid-jcc2-jco"
     },
     "ca73d6b13cb418e8": {
       "company": "FlexBoard",
@@ -1633,6 +1673,12 @@
       "candidates_after_dedup": 5,
       "date": "2026-09-17",
       "new": 3
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 12,
+      "date": "2026-09-18",
+      "new": 5
     }
   ]
 }
