@@ -504,6 +504,14 @@
       "track": "qa",
       "url": "https://in.jobrapido.com/jobpreview/5977536022144090112?trk=bingjobs"
     },
+    "4df765bb93690d6a": {
+      "company": "Golden Opportunities",
+      "first_seen": "2026-09-21",
+      "score": 31.7,
+      "title": "Typescript Fullstack Developer - GO/JC/4623/2026",
+      "track": "sde",
+      "url": "https://in.linkedin.com/jobs/view/typescript-fullstack-developer-go-jc-4623-2026-at-golden-opportunities-4467845159"
+    },
     "4e1541d371c241bf": {
       "company": "Auriga IT",
       "first_seen": "2026-09-11",
@@ -711,6 +719,14 @@
       "title": "Software Development Engineer In Test (SDET)  II\u2013 Arcgis Online",
       "track": "qa",
       "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-ii%E2%80%93-arcgis-online-at-esri-4465344467?trk=bingjobs"
+    },
+    "764eb4994bdeb94a": {
+      "company": "VE3",
+      "first_seen": "2026-09-21",
+      "score": 39.7,
+      "title": "Node.js Developer Intern (Freshers / Entry Level)",
+      "track": "sde",
+      "url": "https://www.freshersbridge.in/jobs/nodejs-developer-intern-ve3"
     },
     "78bf358438c599e8": {
       "company": "Orchestry Software",
@@ -1336,6 +1352,14 @@
       "track": "sde",
       "url": "https://travclan.freshteam.com/jobs/ar_enLDPPDzB/sde-1-backend-developer"
     },
+    "f9e932fa0246f633": {
+      "company": "MakeTop Technologies",
+      "first_seen": "2026-09-21",
+      "score": 61.6,
+      "title": "Software Engineer 1 (Java)\u2013 Freshers Only | 2026\u20132027 Batch",
+      "track": "sde",
+      "url": "https://bebee.com/in/jobs/software-engineer-1-java-freshers-only-20262027-batch-maketop-technologies-pune-area--fj-2365585896"
+    },
     "fe5d378afcc17cae": {
       "company": "RhythmScience Inc.",
       "first_seen": "2026-08-13",
@@ -1691,6 +1715,12 @@
       "candidates_after_dedup": 1,
       "date": "2026-09-20",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 7,
+      "date": "2026-09-21",
+      "new": 3
     }
   ]
 }
