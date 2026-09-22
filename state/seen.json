@@ -128,6 +128,14 @@
       "track": "qa",
       "url": "https://arosys.com/jobs/qa-tester/"
     },
+    "1062a61f970f7088": {
+      "company": "vacancy global pro",
+      "first_seen": "2026-09-22",
+      "score": 40.2,
+      "title": "[Remote] QA, SDET & Test Automation Engineer | $60/hr | Remote",
+      "track": "qa",
+      "url": "https://vacancyglobalpro.up.railway.app/job/remote-qa-sdet-test-automation-engineer-60hr-remote"
+    },
     "12bafd876374918e": {
       "company": "24-Mag",
       "first_seen": "2026-09-08",
@@ -504,6 +512,14 @@
       "track": "qa",
       "url": "https://in.jobrapido.com/jobpreview/5977536022144090112?trk=bingjobs"
     },
+    "4dcc61328bda4762": {
+      "company": "vacancy global pro",
+      "first_seen": "2026-09-22",
+      "score": 58.8,
+      "title": "Backend Developer(Entry Level)",
+      "track": "sde",
+      "url": "https://vacancyglobalpro.up.railway.app/job/backend-developerentry-level-2"
+    },
     "4df765bb93690d6a": {
       "company": "Golden Opportunities",
       "first_seen": "2026-09-21",
@@ -664,6 +680,14 @@
       "track": "sde",
       "url": "https://www.careerbuilder.com/job-details/java-backend-developer-alpharetta-ga--20f47e74-cafa-4a5d-8d4c-5460c22af97d?trk=bingjobs"
     },
+    "69de538f1f58c932": {
+      "company": "BairesDev",
+      "first_seen": "2026-09-22",
+      "score": 44.7,
+      "title": "Junior SDET - Remote, Flexible Hours, R&D Impact",
+      "track": "qa",
+      "url": "https://jobmesh.io/job/7600d36f-89cd-4b75-8d98-7f9497c84f48"
+    },
     "69e77aa62ac37931": {
       "company": "Quickgov Solutions Private",
       "first_seen": "2026-09-11",
@@ -735,6 +759,14 @@
       "title": "Remote Junior SDET: Grow in QA Automation",
       "track": "qa",
       "url": "https://www.learn4good.com/jobs/online_remote/software_development/5335471673/e/"
+    },
+    "78dfa85e03c8aebc": {
+      "company": "vacancy global pro",
+      "first_seen": "2026-09-22",
+      "score": 27.3,
+      "title": "Remote SDET (QA Automation) (Guadalajara, MEX, MX)",
+      "track": "qa",
+      "url": "https://vacancyglobalpro.up.railway.app/job/remote-sdet-qa-automation-guadalajara-mex-mx"
     },
     "793b52695486d6d5": {
       "company": "Swift",
@@ -839,6 +871,14 @@
       "title": "Entry Level Java/Devops Developer - Remote",
       "track": "sde",
       "url": "https://www.careerbuilder.com/job-details/entry-level-java-devops-developer-remote-pittsburgh-pa--c098ecdb-f448-4648-a7be-fd1d9a37ad2c?trk=bingjobs"
+    },
+    "96cc7e23ebe29d2e": {
+      "company": "vacancy global pro",
+      "first_seen": "2026-09-22",
+      "score": 63.5,
+      "title": "SDET / QA Automation Engineer - Fintech/Web3",
+      "track": "qa",
+      "url": "https://vacancyglobalpro.up.railway.app/job/sdet-qa-automation-engineer-fintechweb3-1"
     },
     "996157c8c87325a1": {
       "company": "1074 Amgen Technology",
@@ -1248,6 +1288,14 @@
       "track": "sde",
       "url": "https://flexboard.9y.liveblog365.com/job/2692619"
     },
+    "e56c3913c3d58469": {
+      "company": "vacancy global pro",
+      "first_seen": "2026-09-22",
+      "score": 43.9,
+      "title": "URGENT NEED - \"SDET Engineer\" _ (100% REMOTE)\"",
+      "track": "qa",
+      "url": "https://vacancyglobalpro.up.railway.app/job/urgent-need-sdet-engineer-100-remote-1"
+    },
     "e616997839edc4fe": {
       "company": "Adani Enterprises Ltd",
       "first_seen": "2026-07-31",
@@ -1319,6 +1367,14 @@
       "title": "Entry Level QA automation Engineer/Business Analyst (H1b Visa Sponsorship available) at Perfict Global Concord, CA",
       "track": "qa",
       "url": "https://torr.com/joblib/job/entry-level-qa-automation-engineerbusiness-analyst-h1b-visa-sponsorship-available-at-perfict-global-concord-ca-czNaYTZDbG9DejlUTG83YXE3azU5RjZ6aEE9PQ=="
+    },
+    "f47dffe28ac2260c": {
+      "company": "vacancy global pro",
+      "first_seen": "2026-09-22",
+      "score": 27.4,
+      "title": "Software Engineer, 2 (Java, Backend)",
+      "track": "sde",
+      "url": "https://vacancyglobalpro.up.railway.app/job/software-engineer-2-java-backend"
     },
     "f49a6521320080dc": {
       "company": "HuntingCube",
@@ -1721,6 +1777,12 @@
       "candidates_after_dedup": 7,
       "date": "2026-09-21",
       "new": 3
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 20,
+      "date": "2026-09-22",
+      "new": 7
     }
   ]
 }
