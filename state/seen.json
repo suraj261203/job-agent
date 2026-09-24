@@ -1352,6 +1352,14 @@
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/6704547678958649344?trk=bingjobs"
     },
+    "f1d3c057b02aed47": {
+      "company": "Freshers Dunia",
+      "first_seen": "2026-09-24",
+      "score": 32.0,
+      "title": "Red Hat Internship 2026 \u2013 Software Engineering Intern | High Salary Tech Internship | Pune & Bangalore Apply Now",
+      "track": "sde",
+      "url": "https://freshersdunia.in/red-hat-internship-2026-software-engineer-intern/"
+    },
     "f2f81d7131684c45": {
       "company": "remote zest jobs",
       "first_seen": "2026-08-17",
@@ -1415,6 +1423,14 @@
       "title": "Software Engineer 1 (Java)\u2013 Freshers Only | 2026\u20132027 Batch",
       "track": "sde",
       "url": "https://bebee.com/in/jobs/software-engineer-1-java-freshers-only-20262027-batch-maketop-technologies-pune-area--fj-2365585896"
+    },
+    "fe10adb1f13b82aa": {
+      "company": "Freshers Dunia",
+      "first_seen": "2026-09-24",
+      "score": 32.0,
+      "title": "Stripe Internship 2026 Hiring Software Engineer Intern | Paid Internship | Bengaluru | Immediate Joiners Apply Now",
+      "track": "sde",
+      "url": "https://freshersdunia.in/stripe-internship-2026-hiring/"
     },
     "fe5d378afcc17cae": {
       "company": "RhythmScience Inc.",
@@ -1789,6 +1805,12 @@
       "candidates_after_dedup": 2,
       "date": "2026-09-23",
       "new": 0
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 3,
+      "date": "2026-09-24",
+      "new": 2
     }
   ]
 }
