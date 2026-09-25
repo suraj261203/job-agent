@@ -784,6 +784,14 @@
       "track": "sde",
       "url": "https://www.linkedin.com/jobs/view/junior-java-spring-boot-developer-ml-ai-engineer-at-synergisticit-4446463174"
     },
+    "7d6a936fdad31aa6": {
+      "company": "IRIS Business Services Limited",
+      "first_seen": "2026-09-25",
+      "score": 53.1,
+      "title": "Software Engineer (Freshers / Entry Level)",
+      "track": "sde",
+      "url": "https://www.freshersbridge.in/jobs/software-engineer-iris-business-services-limited"
+    },
     "808f300236650089": {
       "company": "remote zest jobs",
       "first_seen": "2026-08-09",
@@ -839,6 +847,14 @@
       "title": "Junior Software Engineer (SDE I)",
       "track": "sde",
       "url": "https://in.linkedin.com/jobs/view/junior-software-engineer-sde-i-at-discorder-tools-4462367316?trk=bingjobs"
+    },
+    "8e9b2a8935374bd9": {
+      "company": "Autobotwa",
+      "first_seen": "2026-09-25",
+      "score": 25.0,
+      "title": "Full-Stack AI Developer Internship (Freshers / Entry Level)",
+      "track": "sde",
+      "url": "https://www.freshersbridge.in/internships/full-stack-ai-developer-internship-autobotwa"
     },
     "8f4de14ae55b36a1": {
       "company": "Mastech InfoTrellis",
@@ -1247,6 +1263,14 @@
       "title": "[Remote] QA Automation Engineer (SDET) - Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX, reputed company, TX.",
       "track": "qa",
       "url": "https://remotezest.up.railway.app/job/remote-qa-automation-engineer-sdet-phoenix-az-nashville-tn-dallas-tx-austin-tx-reputed-company-tx"
+    },
+    "d86ad8a71eb8364c": {
+      "company": "Google",
+      "first_seen": "2026-09-25",
+      "score": 57.1,
+      "title": "Software Engineer, PhD, Early Career, 2026",
+      "track": "sde",
+      "url": "https://www.glassdoor.co.in/job-listing/software-engineer-phd-early-career-2026-google-JV_KO0,39_KE40,46.htm?jl=1010178668343"
     },
     "d8d028535383bd76": {
       "company": "FlexBoard",
@@ -1811,6 +1835,12 @@
       "candidates_after_dedup": 3,
       "date": "2026-09-24",
       "new": 2
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 7,
+      "date": "2026-09-25",
+      "new": 3
     }
   ]
 }
