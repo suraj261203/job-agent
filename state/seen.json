@@ -8,6 +8,14 @@
       "track": "sde",
       "url": "https://vacancyglobalpro.up.railway.app/job/java-backend-developer-entryremote"
     },
+    "011e11d5a624856e": {
+      "company": "Quanata",
+      "first_seen": "2026-09-26",
+      "score": 37.7,
+      "title": "Senior SDET \u2013 Data",
+      "track": "qa",
+      "url": "https://www.remoterocketship.com/us/company/quanata/jobs/senior-sdet-data-united-states-remote/"
+    },
     "03c0473752b0ebcc": {
       "company": "Snowflake",
       "first_seen": "2026-08-19",
@@ -55,6 +63,14 @@
       "title": "Mid-Level Software Engineer/Junior Software Engineer",
       "track": "sde",
       "url": "https://in.linkedin.com/jobs/view/mid-level-software-engineer-junior-software-engineer-at-pri-india-it-services-private-limited-4466478163?trk=bingjobs"
+    },
+    "09163f4c2840b788": {
+      "company": "MaintainX",
+      "first_seen": "2026-09-26",
+      "score": 35.0,
+      "title": "Senior Software Developer in Test, Quality Platform",
+      "track": "qa",
+      "url": "https://jobgether.com/offer/6ab6948f865119c687f24ea5-senior-software-developer-in-test-quality-platform"
     },
     "0b0b4596372f75dd": {
       "company": "remote click jobs",
@@ -120,6 +136,14 @@
       "track": "sde",
       "url": "https://remotezest.up.railway.app/job/backend-developerentry-level-4"
     },
+    "1027b5fb9053416d": {
+      "company": "remote quest jobs",
+      "first_seen": "2026-09-26",
+      "score": 73.1,
+      "title": "[Remote] Software Engineer (Quality Assurance/SDET Focus)",
+      "track": "qa",
+      "url": "https://us.remotejobs.dedyn.io/job/2702798"
+    },
     "1045869362d29791": {
       "company": "Arosys",
       "first_seen": "2026-08-31",
@@ -167,6 +191,14 @@
       "title": "SDET",
       "track": "qa",
       "url": "https://www.ziprecruiter.com/c/Rootshell-Enterprise-Technologies/Job/SDET/-in-Remote,US?jid=2bc92b5b6990fa7f"
+    },
+    "1652e0e5e57ee969": {
+      "company": "Quanata",
+      "first_seen": "2026-09-26",
+      "score": 42.7,
+      "title": "[Remote] Senior SDET \u2013 Data [Remote-US]",
+      "track": "qa",
+      "url": "https://jobright.ai/jobs/info/6ab18fec32552369083e2e9d?visit=sdet-engineer-%E2%80%93-ruby-jobs-in-united-states"
     },
     "165bd6228afe7003": {
       "company": "vacancy global pro",
@@ -791,6 +823,14 @@
       "title": "Software Engineer (Freshers / Entry Level)",
       "track": "sde",
       "url": "https://www.freshersbridge.in/jobs/software-engineer-iris-business-services-limited"
+    },
+    "7fa5a44ae8079a98": {
+      "company": "Roadie",
+      "first_seen": "2026-09-26",
+      "score": 56.5,
+      "title": "Software Engineer in Test",
+      "track": "qa",
+      "url": "https://jobgether.com/offer/6ab6a2fc865119c687f2db79-software-engineer-in-test"
     },
     "808f300236650089": {
       "company": "remote zest jobs",
@@ -1448,6 +1488,14 @@
       "track": "sde",
       "url": "https://bebee.com/in/jobs/software-engineer-1-java-freshers-only-20262027-batch-maketop-technologies-pune-area--fj-2365585896"
     },
+    "fb0da409bcaea57f": {
+      "company": "Apetan Consulting",
+      "first_seen": "2026-09-26",
+      "score": 25.1,
+      "title": "Remote- Software Engineer - Test Infrastructure Development",
+      "track": "qa",
+      "url": "https://www.adzuna.com/details/5898876774"
+    },
     "fe10adb1f13b82aa": {
       "company": "Freshers Dunia",
       "first_seen": "2026-09-24",
@@ -1841,6 +1889,12 @@
       "candidates_after_dedup": 7,
       "date": "2026-09-25",
       "new": 3
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 13,
+      "date": "2026-09-26",
+      "new": 6
     }
   ]
 }
