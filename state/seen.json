@@ -904,6 +904,14 @@
       "track": "qa",
       "url": "https://in.jobrapido.com/jobpreview/3063655248749920256?trk=bingjobs"
     },
+    "94618ebcb50a29c2": {
+      "company": "Kyyba",
+      "first_seen": "2026-09-27",
+      "score": 25.0,
+      "title": "Quality Engineer - No VISA Sponsorship",
+      "track": "qa",
+      "url": "https://bebee.com/us/jobs/quality-engineer-no-visa-sponsorship-kyyba-richmond-va--t7xk-850824130"
+    },
     "94a671436449a4ac": {
       "company": "Nexa",
       "first_seen": "2026-08-17",
@@ -1895,6 +1903,12 @@
       "candidates_after_dedup": 13,
       "date": "2026-09-26",
       "new": 6
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 2,
+      "date": "2026-09-27",
+      "new": 1
     }
   ]
 }
