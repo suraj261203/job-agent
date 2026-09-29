@@ -536,6 +536,14 @@
       "track": "qa",
       "url": "https://in.jobrapido.com/jobpreview/5977536022144090112?trk=bingjobs"
     },
+    "4caea36e5f05c625": {
+      "company": "Anuj Gope",
+      "first_seen": "2026-09-29",
+      "score": 27.0,
+      "title": "Associate Software Developer (Freshers / Entry Level)",
+      "track": "sde",
+      "url": "https://www.freshersbridge.in/jobs/associate-software-developer-anuj-gope"
+    },
     "4dcc61328bda4762": {
       "company": "vacancy global pro",
       "first_seen": "2026-09-22",
@@ -831,6 +839,14 @@
       "title": "Entry-Level Java Developer (Spring Boot)/Junior Data Scientist",
       "track": "sde",
       "url": "https://remotezest.up.railway.app/job/entry-level-java-developer-spring-bootjunior-data-scientist"
+    },
+    "84f6a54f9c2969d0": {
+      "company": "Freshers Dunia",
+      "first_seen": "2026-09-29",
+      "score": 29.0,
+      "title": "Stripe Internship 2026 Hiring Software Engineer Intern | Paid Internship",
+      "track": "sde",
+      "url": "https://www.shine.com/jobs/stripe-internship-hiring-software-engineer-intern-paid-internship/freshers-dunia/19595262"
     },
     "85cc1c9723b9faa1": {
       "company": "VidaXL",
@@ -1899,6 +1915,12 @@
       "candidates_after_dedup": 0,
       "date": "2026-09-28",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 6,
+      "date": "2026-09-29",
+      "new": 2
     }
   ]
 }
