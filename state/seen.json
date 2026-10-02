@@ -1853,6 +1853,12 @@
       "candidates_after_dedup": 1,
       "date": "2026-10-01",
       "new": 0
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 1,
+      "date": "2026-10-02",
+      "new": 0
     }
   ]
 }
