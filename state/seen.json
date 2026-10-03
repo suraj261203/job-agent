@@ -544,6 +544,14 @@
       "track": "qa",
       "url": "https://www.careerbuilder.com/job-details/test-automation-consultant-johns-creek-ga--118bc6e3-d175-46ce-a589-1ea207af691d?trk=bingjobs"
     },
+    "554476f6ec1f9498": {
+      "company": "Codingcircle",
+      "first_seen": "2026-10-03",
+      "score": 62.0,
+      "title": "Walmart IDC Hiring 2026: Software Engineer II | US University Graduates | Job ID R-2533616",
+      "track": "sde",
+      "url": "https://www.jobleads.com/in/job/walmart-idc-hiring-2026-software-engineer-ii-us-university-graduates-job-id-r-2533616--bengaluru--e6e7437297bc74a4cef511967a6e7d1c4"
+    },
     "562caa8f945f32b1": {
       "company": "TestHiring",
       "first_seen": "2026-08-16",
@@ -1120,14 +1128,6 @@
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/1176668307919470592?trk=bingjobs"
     },
-    "c06ccf759380e25b": {
-      "company": "Freshers Dunia",
-      "first_seen": "2026-08-03",
-      "score": 26.0,
-      "title": "L&T Technology Services Recruitment 2026 Hiring Software Engineer \u2013 Freshers & 0\u20132 Years | 2023\u20132026 Batch",
-      "track": "sde",
-      "url": "https://freshersdunia.in/lt-technology-services-recruitment-2026-hiring/"
-    },
     "c2405f81f0a804d9": {
       "company": "Jadvix",
       "first_seen": "2026-09-10",
@@ -1439,6 +1439,14 @@
       "title": "QA Engineer \u2013 Automation, Functional",
       "track": "qa",
       "url": "https://www.remoterocketship.com/us/company/rhythm360-io/jobs/qa-engineer-automation-functional-united-states-remote/"
+    },
+    "fe87ecc9bc9294fb": {
+      "company": "Softcrayons IT Education",
+      "first_seen": "2026-10-03",
+      "score": 35.9,
+      "title": "Graduate Engineer Trainee ( GET ) - Automation Testing",
+      "track": "qa",
+      "url": "https://in.linkedin.com/jobs/view/graduate-engineer-trainee-get-automation-testing-at-softcrayons-it-education-4475029831"
     },
     "ffaa73c6334f1ea7": {
       "company": "Kforce Inc",
@@ -1859,6 +1867,12 @@
       "candidates_after_dedup": 1,
       "date": "2026-10-02",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 3,
+      "date": "2026-10-03",
+      "new": 2
     }
   ]
 }
