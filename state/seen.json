@@ -1008,14 +1008,6 @@
       "track": "sde",
       "url": "https://builtin.com/job/sde-intern/10816311"
     },
-    "a0cde5c707e3245b": {
-      "company": "vmysmartpros",
-      "first_seen": "2026-08-05",
-      "score": 68.6,
-      "title": "remote junior java backend developer/Data scientist",
-      "track": "sde",
-      "url": "https://www.mysmartpros.com/tuition/job/remote-junior-java-backend-developer-data-scientist/"
-    },
     "a31d3fd6a26e5c1b": {
       "company": "TERRALOGIC",
       "first_seen": "2026-09-17",
@@ -1919,6 +1911,12 @@
       "candidates_after_dedup": 21,
       "date": "2026-10-04",
       "new": 8
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 1,
+      "date": "2026-10-05",
+      "new": 0
     }
   ]
 }
