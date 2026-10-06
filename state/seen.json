@@ -1120,14 +1120,6 @@
       "track": "qa",
       "url": "https://www.linkedin.com/jobs/view/senior-test-automation-engineer-at-caci-international-inc-4459534475?trk=bingjobs"
     },
-    "bc608de765a73a80": {
-      "company": "Freshers Dunia",
-      "first_seen": "2026-08-06",
-      "score": 29.0,
-      "title": "Deloitte Full Stack Developer Recruitment 2026 | Freshers & Experienced | Bengaluru | Apply Online",
-      "track": "sde",
-      "url": "https://freshersdunia.in/deloitte-full-stack-developer-recruitment-2026/"
-    },
     "be44c3b622c8c4be": {
       "company": "Tata Consultancy Services",
       "first_seen": "2026-08-29",
@@ -1399,14 +1391,6 @@
       "title": "remote junior java backend developer/Data scientist",
       "track": "sde",
       "url": "https://remotezest.up.railway.app/job/remote-junior-java-backend-developerdata-scientist-2"
-    },
-    "f43ba45b9148e21a": {
-      "company": "Perfict Global",
-      "first_seen": "2026-08-06",
-      "score": 54.6,
-      "title": "Entry Level QA automation Engineer/Business Analyst (H1b Visa Sponsorship available) at Perfict Global Concord, CA",
-      "track": "qa",
-      "url": "https://torr.com/joblib/job/entry-level-qa-automation-engineerbusiness-analyst-h1b-visa-sponsorship-available-at-perfict-global-concord-ca-czNaYTZDbG9DejlUTG83YXE3azU5RjZ6aEE9PQ=="
     },
     "f47dffe28ac2260c": {
       "company": "vacancy global pro",
@@ -1916,6 +1900,12 @@
       "api_requests": 6,
       "candidates_after_dedup": 1,
       "date": "2026-10-05",
+      "new": 0
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 0,
+      "date": "2026-10-06",
       "new": 0
     }
   ]
