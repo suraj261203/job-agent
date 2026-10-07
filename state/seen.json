@@ -184,6 +184,14 @@
       "track": "qa",
       "url": "https://www.shine.com/jobs/senior-playwright-automation-qa-appium-bengaluru/appzlogic/19418718"
     },
+    "15d4d9215ad693c5": {
+      "company": "LTIMindtree",
+      "first_seen": "2026-10-07",
+      "score": 38.8,
+      "title": "AI Software Engineer \u2014 Fresher / Trainee (LTIMindtree, Hyderabad 2026)",
+      "track": "sde",
+      "url": "https://cloudsoftsol.com/jobs/ltimindtree-ai-software-engineer-fresher-hyderabad-2026/"
+    },
     "164bcaca485c46a2": {
       "company": "Rootshell Enterprise Technologies, Inc.",
       "first_seen": "2026-08-21",
@@ -1008,6 +1016,14 @@
       "track": "sde",
       "url": "https://builtin.com/job/sde-intern/10816311"
     },
+    "a0e9a6656b6cc930": {
+      "company": "Nobl Q",
+      "first_seen": "2026-10-07",
+      "score": 46.4,
+      "title": "Fresher (Batch 2026) | Software Developer",
+      "track": "sde",
+      "url": "https://www.glassdoor.co.in/job-listing/fresher-batch-2026-software-developer-nobl-q-JV_IC2836047_KO0,37_KE38,44.htm?jl=1010022794255"
+    },
     "a31d3fd6a26e5c1b": {
       "company": "TERRALOGIC",
       "first_seen": "2026-09-17",
@@ -1136,6 +1152,14 @@
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/1176668307919470592?trk=bingjobs"
     },
+    "c06ccf759380e25b": {
+      "company": "Freshers Dunia",
+      "first_seen": "2026-10-07",
+      "score": 26.0,
+      "title": "L&T Technology Services Recruitment 2026 Hiring Software Engineer \u2013 Freshers & 0\u20132 Years | 2023\u20132026 Batch",
+      "track": "sde",
+      "url": "https://freshersdunia.in/lt-technology-services-recruitment-2026-hiring/"
+    },
     "c2405f81f0a804d9": {
       "company": "Jadvix",
       "first_seen": "2026-09-10",
@@ -1159,6 +1183,14 @@
       "title": "Back-End Developer, Senior/Mid- JCC2-JCO",
       "track": "sde",
       "url": "https://vacancyglobalpro.up.railway.app/job/back-end-developer-seniormid-jcc2-jco"
+    },
+    "c8fc65701934252e": {
+      "company": "Cloud Soft Solutions",
+      "first_seen": "2026-10-07",
+      "score": 30.4,
+      "title": "Google Software Engineering Intern \u2014 Summer 2026",
+      "track": "sde",
+      "url": "https://www.jobleads.com/in/job/google-software-engineering-intern-summer-2026--bengaluru--ea171cfb49d67afaf5577aed5040f5f09"
     },
     "ca73d6b13cb418e8": {
       "company": "FlexBoard",
@@ -1907,6 +1939,12 @@
       "candidates_after_dedup": 0,
       "date": "2026-10-06",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 9,
+      "date": "2026-10-07",
+      "new": 4
     }
   ]
 }
