@@ -240,6 +240,14 @@
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/725600534572040192?trk=bingjobs"
     },
+    "1b1714bae2932f12": {
+      "company": "Insperity",
+      "first_seen": "2026-10-08",
+      "score": 56.9,
+      "title": "Software Development Engineer in Test",
+      "track": "qa",
+      "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-at-insperity-4457402277"
+    },
     "1cef76c1169bdf00": {
       "company": "SHR Consulting Group",
       "first_seen": "2026-10-04",
@@ -704,6 +712,14 @@
       "track": "qa",
       "url": "https://bebee.com/in/jobs/qa-automation-playwright-and-appium-trantor-software-pvt-ltd-bangalore-city-bengaluru-karnataka--t7xk-798670428"
     },
+    "62fe19282a99c3a6": {
+      "company": "remote quest jobs",
+      "first_seen": "2026-10-08",
+      "score": 60.1,
+      "title": "Junior data scientist /Java Spring boot developer",
+      "track": "sde",
+      "url": "https://us.remotejobs.dedyn.io/job/junior-data-scientist-java-spring-boot-developer"
+    },
     "659dde855fde3c77": {
       "company": "Netomi",
       "first_seen": "2026-08-26",
@@ -816,6 +832,14 @@
       "track": "qa",
       "url": "https://www.linkedin.com/jobs/view/test-automation-engineer-hybrid-at-swift-4429735071?trk=bingjobs"
     },
+    "7b1bfc597c93dc40": {
+      "company": "Rippling, Inc.",
+      "first_seen": "2026-10-08",
+      "score": 28.9,
+      "title": "Remote Senior SDET: Playwright & CI/CD Automation Leader",
+      "track": "qa",
+      "url": "https://www.jobleads.com/us/job/remote-senior-sdet-playwright-ci-cd-automation-leader--austin--e17819a48fd2bb73b22d507d6646d5b8d"
+    },
     "7d6a936fdad31aa6": {
       "company": "IRIS Business Services Limited",
       "first_seen": "2026-09-25",
@@ -887,6 +911,14 @@
       "title": "Junior Software Engineer (SDE I)",
       "track": "sde",
       "url": "https://in.linkedin.com/jobs/view/junior-software-engineer-sde-i-at-discorder-tools-4462367316?trk=bingjobs"
+    },
+    "8d7428a53570c71f": {
+      "company": "HelloKindred",
+      "first_seen": "2026-10-08",
+      "score": 35.1,
+      "title": "Kotlin (or Java) Developer",
+      "track": "sde",
+      "url": "https://lensa.com/job-v1/hellokindred/remote/java-developer/31759578709ccf2be929797d4071736e"
     },
     "8e9b2a8935374bd9": {
       "company": "Autobotwa",
@@ -1160,6 +1192,14 @@
       "track": "sde",
       "url": "https://freshersdunia.in/lt-technology-services-recruitment-2026-hiring/"
     },
+    "c06f536bfda9f060": {
+      "company": "Workiva, Inc.",
+      "first_seen": "2026-10-08",
+      "score": 51.1,
+      "title": "Senior Software Engineer - Remote, AI-Driven Platform",
+      "track": "sde",
+      "url": "https://www.jobleads.com/us/job/senior-software-engineer-remote-ai-driven-platform--ames--e6a9f0b74a354bd6818c06c0a5da6d137"
+    },
     "c2405f81f0a804d9": {
       "company": "Jadvix",
       "first_seen": "2026-09-10",
@@ -1175,6 +1215,14 @@
       "title": "remote junior java backend developer/Data scientist",
       "track": "sde",
       "url": "https://flexboard.9y.liveblog365.com/job/2509720"
+    },
+    "c4a28893dfe8c95f": {
+      "company": "remote quest jobs",
+      "first_seen": "2026-10-08",
+      "score": 72.8,
+      "title": "Junior SDET",
+      "track": "qa",
+      "url": "https://us.remotejobs.dedyn.io/job/2901541"
     },
     "c7c17a0dea7de691": {
       "company": "vacancy global pro",
@@ -1336,6 +1384,14 @@
       "track": "qa",
       "url": "https://us.remotejobs.dedyn.io/job/4657580"
     },
+    "df734011deb948c5": {
+      "company": "Addepto",
+      "first_seen": "2026-10-08",
+      "score": 39.9,
+      "title": "Senior Java Developer (Platform Modernization)",
+      "track": "sde",
+      "url": "https://jobgether.com/offer/6ac585038a27695aea345363-senior-java-developer-platform-modernization"
+    },
     "df78469441d011b3": {
       "company": "Alignerr",
       "first_seen": "2026-08-17",
@@ -1423,6 +1479,14 @@
       "title": "remote junior java backend developer/Data scientist",
       "track": "sde",
       "url": "https://remotezest.up.railway.app/job/remote-junior-java-backend-developerdata-scientist-2"
+    },
+    "f4274b043a14dc68": {
+      "company": "Keeper Security",
+      "first_seen": "2026-10-08",
+      "score": 49.1,
+      "title": "Remote Android SDET: Automation & CI/CD",
+      "track": "qa",
+      "url": "https://www.jobleads.com/us/job/remote-android-sdet-automation-ci-cd--united-states--e3d6acf3f88d3234584aad717d48a8ddb"
     },
     "f47dffe28ac2260c": {
       "company": "vacancy global pro",
@@ -1945,6 +2009,12 @@
       "candidates_after_dedup": 9,
       "date": "2026-10-07",
       "new": 4
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 21,
+      "date": "2026-10-08",
+      "new": 8
     }
   ]
 }
