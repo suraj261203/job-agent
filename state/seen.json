@@ -32,14 +32,6 @@
       "track": "sde",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend"
     },
-    "04d8549fc4c51eb3": {
-      "company": "Allegiant",
-      "first_seen": "2026-08-10",
-      "score": 78.7,
-      "title": "Software Engineer in Test (SET",
-      "track": "qa",
-      "url": "https://www.learn4good.com/jobs/las-vegas/new-mexico/quality_control/5347544915/e/"
-    },
     "04e1f1d74aaa4771": {
       "company": "FlexBoard",
       "first_seen": "2026-08-13",
@@ -175,14 +167,6 @@
       "title": "URGENT NEED - \"SDET Engineer\" _ (100% REMOTE)\"",
       "track": "qa",
       "url": "https://us.remotejobs.dedyn.io/job/3724869"
-    },
-    "15b837948b89e4d7": {
-      "company": "Appzlogic",
-      "first_seen": "2026-08-10",
-      "score": 50.9,
-      "title": "Senior Playwright Automation QA (appium) (Bengaluru)",
-      "track": "qa",
-      "url": "https://www.shine.com/jobs/senior-playwright-automation-qa-appium-bengaluru/appzlogic/19418718"
     },
     "15d4d9215ad693c5": {
       "company": "LTIMindtree",
@@ -1949,6 +1933,12 @@
       "candidates_after_dedup": 4,
       "date": "2026-10-09",
       "new": 2
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 2,
+      "date": "2026-10-10",
+      "new": 0
     }
   ]
 }
