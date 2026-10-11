@@ -120,6 +120,14 @@
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/6759889397719498752?trk=bingjobs"
     },
+    "0db6a04e860e3b28": {
+      "company": "Accenture India",
+      "first_seen": "2026-10-11",
+      "score": 26.0,
+      "title": "Accenture India Recruitment 2026 \u2013 Associate Software Engineer (ASE) \u2013 25 \u2013 25,000 Vacancies",
+      "track": "sde",
+      "url": "https://freshervacancy.in/jobs/accenture-india-recruitment-2026-campus-drive-associate-software-engineer-ase-25-000-vacancies"
+    },
     "1027b5fb9053416d": {
       "company": "remote quest jobs",
       "first_seen": "2026-09-26",
@@ -1352,6 +1360,14 @@
       "track": "sde",
       "url": "https://stripe.com/careers/listing/backend-api-engineer-money-as-a-service/6176758"
     },
+    "ebadea56579298db": {
+      "company": "Flex",
+      "first_seen": "2026-10-11",
+      "score": 26.0,
+      "title": "Flex Hiring Freshers As Associate Software Engineer in Chennai",
+      "track": "sde",
+      "url": "https://jobsnet.in/flex-hiring-freshers-as-associate-software-engineer-in-chennai/"
+    },
     "ebd96119e26fd1f3": {
       "company": "Cynet Systems",
       "first_seen": "2026-09-10",
@@ -1939,6 +1955,12 @@
       "candidates_after_dedup": 2,
       "date": "2026-10-10",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 6,
+      "date": "2026-10-11",
+      "new": 2
     }
   ]
 }
