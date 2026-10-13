@@ -32,14 +32,6 @@
       "track": "sde",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend"
     },
-    "04e1f1d74aaa4771": {
-      "company": "FlexBoard",
-      "first_seen": "2026-08-13",
-      "score": 52.0,
-      "title": "QA Automation Engineer (SDET, Playwright & API) (Europe, Remote)",
-      "track": "qa",
-      "url": "https://flexboard.9y.liveblog365.com/job/3319411"
-    },
     "05652711ba8e9d5c": {
       "company": "Base Career",
       "first_seen": "2026-09-09",
@@ -280,14 +272,6 @@
       "track": "qa",
       "url": "https://www.shine.com/jobs/functional-testing-automation/diverse-lynx/19472133"
     },
-    "22b58f4669397e85": {
-      "company": "remote zest jobs",
-      "first_seen": "2026-08-13",
-      "score": 33.3,
-      "title": "Remote SDET (QA Automation) (Guadalajara, MEX, MX)",
-      "track": "qa",
-      "url": "https://remotezest.up.railway.app/job/remote-sdet-qa-automation-guadalajara-mex-mx"
-    },
     "240c93733265f47e": {
       "company": "Rootshell Enterprise Technologies, Inc.",
       "first_seen": "2026-09-09",
@@ -423,14 +407,6 @@
       "title": "Remote SDET QA Engineer: Automation & Testing",
       "track": "qa",
       "url": "https://hiregrid.4w.10001mb.com/job/remote-sdet-qa-engineer-automation-testing-183044729"
-    },
-    "39b2de578523aadc": {
-      "company": "Bellwood",
-      "first_seen": "2026-08-13",
-      "score": 35.2,
-      "title": "Software Engineer (Java/Spring Boot)",
-      "track": "sde",
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-java-spring-boot-at-bellwood-4453346618"
     },
     "3a52196cd5b547ab": {
       "company": "IntePros",
@@ -704,14 +680,6 @@
       "track": "sde",
       "url": "https://in.linkedin.com/jobs/view/sde-i-frontend-at-netomi-4432959585"
     },
-    "65e91445c04ec331": {
-      "company": "FlexBoard",
-      "first_seen": "2026-08-13",
-      "score": 29.8,
-      "title": "Python Developer - Egypt (Remote)",
-      "track": "sde",
-      "url": "https://flexboard.9y.liveblog365.com/job/3279813"
-    },
     "67571e733f8153f5": {
       "company": "Macpower Digital Assets Edge Private Limited",
       "first_seen": "2026-09-12",
@@ -751,14 +719,6 @@
       "title": "Senior Associate Automation Engineer (Hyderabad)",
       "track": "qa",
       "url": "https://in.jobrapido.com/jobpreview/650360266688561152?trk=bingjobs"
-    },
-    "6f4fc693cb389d1b": {
-      "company": "Navtech, Inc.",
-      "first_seen": "2026-08-13",
-      "score": 47.6,
-      "title": "Urgent Need : GO and Java Backend Developer : Cincinnati OH, - Remote : 6+ Months",
-      "track": "sde",
-      "url": "https://www.ziprecruiter.com/c/Navtech/Job/Urgent-Need-:-GO-and-Java-Backend-Developer-:-Cincinnati-OH,-Remote-:-6+-Months/-in-Remote,US?jid=18c4c822df1ccf7a"
     },
     "737e9816650380be": {
       "company": "remote quest jobs",
@@ -976,14 +936,6 @@
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/3009960186090618880?trk=bingjobs"
     },
-    "99b8175799a7a9a1": {
-      "company": "FlexBoard",
-      "first_seen": "2026-08-13",
-      "score": 46.9,
-      "title": "Remote job: SDET / Automation QA :: Remote",
-      "track": "qa",
-      "url": "https://flexboard.9y.liveblog365.com/job/3256792"
-    },
     "9a67e0a941929a0f": {
       "company": "Fujitsu",
       "first_seen": "2026-09-09",
@@ -991,14 +943,6 @@
       "title": "Software Engineer",
       "track": "sde",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-at-fujitsu-4462828090?trk=bingjobs"
-    },
-    "9b7be9e3f8fa99f9": {
-      "company": "Valorantum",
-      "first_seen": "2026-08-13",
-      "score": 42.2,
-      "title": "Quality Assurance Software Engineer",
-      "track": "qa",
-      "url": "https://www.linkedin.com/jobs/view/quality-assurance-software-engineer-at-valorantum-4449806186"
     },
     "9c27a32da8ba99fe": {
       "company": "Molex",
@@ -1055,14 +999,6 @@
       "title": "Software Engineering Intern (New Grad Hiring 2026) (India)",
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/367472245737521152"
-    },
-    "a3d8a68b8dcdd156": {
-      "company": "Apex Informatics",
-      "first_seen": "2026-08-13",
-      "score": 41.4,
-      "title": "Java Golang Developer",
-      "track": "sde",
-      "url": "https://www.ziprecruiter.com/c/Apex-Informatics/Job/Java-Golang-Developer/-in-Remote,US?jid=ff9377ff80ee0069"
     },
     "a4053fad4a9a5b5b": {
       "company": "CIBC India",
@@ -1208,14 +1144,6 @@
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/2622087393305427968?trk=bingjobs"
     },
-    "c2e49f11743803b6": {
-      "company": "FlexBoard",
-      "first_seen": "2026-08-13",
-      "score": 68.6,
-      "title": "remote junior java backend developer/Data scientist",
-      "track": "sde",
-      "url": "https://flexboard.9y.liveblog365.com/job/2509720"
-    },
     "c4a28893dfe8c95f": {
       "company": "remote quest jobs",
       "first_seen": "2026-10-08",
@@ -1320,14 +1248,6 @@
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/7805451425894367232?trk=bingjobs"
     },
-    "d37644ccc4bd413b": {
-      "company": "remote zest jobs",
-      "first_seen": "2026-08-13",
-      "score": 70.1,
-      "title": "[Remote] QA Automation Engineer (SDET) - Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX, reputed company, TX.",
-      "track": "qa",
-      "url": "https://remotezest.up.railway.app/job/remote-qa-automation-engineer-sdet-phoenix-az-nashville-tn-dallas-tx-austin-tx-reputed-company-tx"
-    },
     "d86ad8a71eb8364c": {
       "company": "Google",
       "first_seen": "2026-09-25",
@@ -1375,14 +1295,6 @@
       "title": "Back End Developer (AI Infrastructure)",
       "track": "sde",
       "url": "https://www.linkedin.com/jobs/view/back-end-developer-ai-infrastructure-at-alignerr-4453613792"
-    },
-    "e003ae5fd98ba607": {
-      "company": "FlexBoard",
-      "first_seen": "2026-08-13",
-      "score": 58.1,
-      "title": "Backend Developer(Entry Level)",
-      "track": "sde",
-      "url": "https://flexboard.9y.liveblog365.com/job/2692619"
     },
     "e18638a2e9f292ce": {
       "company": "NexisGrow Jobs & Internships",
@@ -1535,14 +1447,6 @@
       "title": "Stripe Internship 2026 Hiring Software Engineer Intern | Paid Internship | Bengaluru | Immediate Joiners Apply Now",
       "track": "sde",
       "url": "https://freshersdunia.in/stripe-internship-2026-hiring/"
-    },
-    "fe5d378afcc17cae": {
-      "company": "RhythmScience Inc.",
-      "first_seen": "2026-08-13",
-      "score": 36.6,
-      "title": "QA Engineer \u2013 Automation, Functional",
-      "track": "qa",
-      "url": "https://www.remoterocketship.com/us/company/rhythm360-io/jobs/qa-engineer-automation-functional-united-states-remote/"
     },
     "fe87ecc9bc9294fb": {
       "company": "Softcrayons IT Education",
@@ -2031,6 +1935,12 @@
       "candidates_after_dedup": 21,
       "date": "2026-10-12",
       "new": 9
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 2,
+      "date": "2026-10-13",
+      "new": 0
     }
   ]
 }
