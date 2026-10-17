@@ -80,14 +80,6 @@
       "track": "qa",
       "url": "https://in.linkedin.com/jobs/view/qa-automation-engineer-qa-2-at-purplle-com-4409136819?trk=bingjobs"
     },
-    "0cb7760c3a779cb4": {
-      "company": "SynergisticIT",
-      "first_seen": "2026-08-17",
-      "score": 47.4,
-      "title": "entry level data scientist/AI engineer/Junior java developer",
-      "track": "sde",
-      "url": "https://www.linkedin.com/jobs/view/entry-level-data-scientist-ai-engineer-junior-java-developer-at-synergisticit-4453901033"
-    },
     "0d0953167309af03": {
       "company": "Instient",
       "first_seen": "2026-09-12",
@@ -920,14 +912,6 @@
       "track": "qa",
       "url": "https://bebee.com/us/jobs/quality-engineer-no-visa-sponsorship-kyyba-richmond-va--t7xk-850824130"
     },
-    "94a671436449a4ac": {
-      "company": "Nexa",
-      "first_seen": "2026-08-17",
-      "score": 63.4,
-      "title": "Software Engineer in Test \u2013 Mobile & Platform",
-      "track": "qa",
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-%E2%80%93-mobile-platform-at-nexa-4451698241"
-    },
     "95be309be9b65f8f": {
       "company": "Cognizant",
       "first_seen": "2026-09-17",
@@ -1080,14 +1064,6 @@
       "track": "sde",
       "url": "https://www.careerbuilder.com/job-details/sr-software-engineer-mobile-engineer-remote-chicago-il--e61b5b75-ae18-47e9-9c74-7aa58974441e?trk=bingjobs"
     },
-    "b23f92f6832b1e13": {
-      "company": "FlexBoard",
-      "first_seen": "2026-08-17",
-      "score": 75.7,
-      "title": "Jr. SDET",
-      "track": "qa",
-      "url": "https://flexboard.9y.liveblog365.com/job/3388820"
-    },
     "b6f3fa3a426cf389": {
       "company": "FlexBoard",
       "first_seen": "2026-08-21",
@@ -1216,14 +1192,6 @@
       "track": "qa",
       "url": "https://jobs.thermofisher.com/global/en/job/R-01356608/Software-Test-Engineer-I"
     },
-    "cd4e0ba6604fe067": {
-      "company": "remote zest jobs",
-      "first_seen": "2026-08-17",
-      "score": 34.5,
-      "title": "[Remote] Backend Engineer (Java/Kotlin, Spring, AWS) | $120-150K | Exciting IT reputed company",
-      "track": "sde",
-      "url": "https://remotezest.up.railway.app/job/remote-backend-engineer-javakotlin-spring-aws-120-150k-exciting-it-reputed-company"
-    },
     "cd71ec466aed6e88": {
       "company": "Keeper Security",
       "first_seen": "2026-10-04",
@@ -1328,14 +1296,6 @@
       "track": "sde",
       "url": "https://jobgether.com/offer/6ac585038a27695aea345363-senior-java-developer-platform-modernization"
     },
-    "df78469441d011b3": {
-      "company": "Alignerr",
-      "first_seen": "2026-08-17",
-      "score": 48.4,
-      "title": "Back End Developer (AI Infrastructure)",
-      "track": "sde",
-      "url": "https://www.linkedin.com/jobs/view/back-end-developer-ai-infrastructure-at-alignerr-4453613792"
-    },
     "e124fe08879eadda": {
       "company": "Aviatrix",
       "first_seen": "2026-10-16",
@@ -1415,14 +1375,6 @@
       "title": "Red Hat Internship 2026 \u2013 Software Engineering Intern | High Salary Tech Internship | Pune & Bangalore Apply Now",
       "track": "sde",
       "url": "https://freshersdunia.in/red-hat-internship-2026-software-engineer-intern/"
-    },
-    "f2f81d7131684c45": {
-      "company": "remote zest jobs",
-      "first_seen": "2026-08-17",
-      "score": 65.0,
-      "title": "remote junior java backend developer/Data scientist",
-      "track": "sde",
-      "url": "https://remotezest.up.railway.app/job/remote-junior-java-backend-developerdata-scientist-2"
     },
     "f4274b043a14dc68": {
       "company": "Keeper Security",
@@ -2007,6 +1959,12 @@
       "candidates_after_dedup": 19,
       "date": "2026-10-16",
       "new": 8
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 0,
+      "date": "2026-10-17",
+      "new": 0
     }
   ]
 }
