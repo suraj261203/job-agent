@@ -256,14 +256,6 @@
       "track": "qa",
       "url": "https://www.careerbuilder.com/job-details/lead-ai-engineer-agentic-test-automation-tysons-va--59efe23f-1732-4c02-801a-c5c991dbc94b?trk=bingjobs"
     },
-    "22817cf8ff9c3f98": {
-      "company": "Diverse Lynx",
-      "first_seen": "2026-08-18",
-      "score": 44.9,
-      "title": "Functional Testing, Automation",
-      "track": "qa",
-      "url": "https://www.shine.com/jobs/functional-testing-automation/diverse-lynx/19472133"
-    },
     "240c93733265f47e": {
       "company": "Rootshell Enterprise Technologies, Inc.",
       "first_seen": "2026-09-09",
@@ -1964,6 +1956,12 @@
       "api_requests": 6,
       "candidates_after_dedup": 0,
       "date": "2026-10-17",
+      "new": 0
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 0,
+      "date": "2026-10-18",
       "new": 0
     }
   ]
