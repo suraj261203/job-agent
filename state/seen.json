@@ -24,14 +24,6 @@
       "track": "qa",
       "url": "https://www.remoterocketship.com/us/company/quanata/jobs/senior-sdet-data-united-states-remote/"
     },
-    "03c0473752b0ebcc": {
-      "company": "Snowflake",
-      "first_seen": "2026-08-19",
-      "score": 45.1,
-      "title": "Software Engineer - Backend",
-      "track": "sde",
-      "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend"
-    },
     "05652711ba8e9d5c": {
       "company": "Base Career",
       "first_seen": "2026-09-09",
@@ -199,14 +191,6 @@
       "title": "Remote SDET Engineer: Build Robust Test Automation & Quality",
       "track": "qa",
       "url": "https://www.learn4good.com/jobs/online_remote/software_development/5507656704/e/"
-    },
-    "1923d0020f25116c": {
-      "company": "Saxon Global",
-      "first_seen": "2026-08-19",
-      "score": 56.6,
-      "title": "Backend Developer",
-      "track": "sde",
-      "url": "https://bebee.com/us/jobs/backend-developer-saxon-global-mclean--lensa-7428_68249c66483c0de4440273fdaa3cde34dadd0e91d997e172a9abb1e50b03691c"
     },
     "195693fe1ff749cc": {
       "company": "AlgoUniversity",
@@ -1320,14 +1304,6 @@
       "track": "qa",
       "url": "https://www.linkedin.com/jobs/view/software-test-automation-engineer-at-jobot-consulting-4463003322?trk=bingjobs"
     },
-    "e9191b077d6a3bce": {
-      "company": "Stripe",
-      "first_seen": "2026-08-19",
-      "score": 29.1,
-      "title": "Backend/API Engineer, Money as a Service",
-      "track": "sde",
-      "url": "https://stripe.com/careers/listing/backend-api-engineer-money-as-a-service/6176758"
-    },
     "ebadea56579298db": {
       "company": "Flex",
       "first_seen": "2026-10-11",
@@ -1962,6 +1938,12 @@
       "api_requests": 5,
       "candidates_after_dedup": 0,
       "date": "2026-10-18",
+      "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 2,
+      "date": "2026-10-19",
       "new": 0
     }
   ]
