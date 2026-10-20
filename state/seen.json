@@ -712,6 +712,14 @@
       "track": "qa",
       "url": "https://in.jobrapido.com/jobpreview/650360266688561152?trk=bingjobs"
     },
+    "71bcaae7852f9ffd": {
+      "company": "Bright Vision Technologies",
+      "first_seen": "2026-10-20",
+      "score": 32.1,
+      "title": "Senior SDET Engineer Remote Test Automation Leader",
+      "track": "qa",
+      "url": "https://www.jobleads.com/us/job/senior-sdet-engineer-remote-test-automation-leader--united-states--ec4e6954ed31ed87ba2e35856d173c687"
+    },
     "737e9816650380be": {
       "company": "remote quest jobs",
       "first_seen": "2026-10-12",
@@ -735,6 +743,14 @@
       "title": "Java Fullstack Developer - Remote Work",
       "track": "sde",
       "url": "https://www.jobleads.com/us/job/java-fullstack-developer-remote-work--united-states--eea9565b747fd5b146df585cd57f23ea5"
+    },
+    "75e8e9e53105b187": {
+      "company": "RemoteJobsOne",
+      "first_seen": "2026-10-20",
+      "score": 41.1,
+      "title": "Remote Backend Engineer for AI Training Tasks (Contract)",
+      "track": "sde",
+      "url": "https://www.jobleads.com/us/job/remote-backend-engineer-for-ai-training-tasks-contract--atlanta--e6d53fdf250218c7dd4e185adf41add2b"
     },
     "764eb4994bdeb94a": {
       "company": "VE3",
@@ -880,6 +896,14 @@
       "track": "qa",
       "url": "https://in.jobrapido.com/jobpreview/3063655248749920256?trk=bingjobs"
     },
+    "8f5fd2b19f0cf137": {
+      "company": "The Whiteam",
+      "first_seen": "2026-10-20",
+      "score": 57.8,
+      "title": "Senior Full Stack Developer (AI-Native Engineering) \u2013 Java / Spring Boot / Angular",
+      "track": "sde",
+      "url": "https://jobgether.com/offer/6ad2b3cc49c73d7b998af6ad-senior-full-stack-developer-ai-native-engineering---java-spring-boot-angular"
+    },
     "94618ebcb50a29c2": {
       "company": "Kyyba",
       "first_seen": "2026-09-27",
@@ -991,6 +1015,14 @@
       "title": "Software Engineering Intern (New Grad Hiring 2026) (India)",
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/367472245737521152"
+    },
+    "a3d8a68b8dcdd156": {
+      "company": "Apex Informatics",
+      "first_seen": "2026-10-20",
+      "score": 44.4,
+      "title": "Java Golang Developer",
+      "track": "sde",
+      "url": "https://www.ziprecruiter.com/c/Apex-Informatics/Job/Java-Golang-Developer/-in-Remote,US?jid=ff9377ff80ee0069"
     },
     "a4053fad4a9a5b5b": {
       "company": "CIBC India",
@@ -1160,14 +1192,6 @@
       "track": "sde",
       "url": "https://www.jobleads.com/in/job/google-software-engineering-intern-summer-2026--bengaluru--ea171cfb49d67afaf5577aed5040f5f09"
     },
-    "cac55ebf6a5d2d16": {
-      "company": "Thermo Fisher Scientific",
-      "first_seen": "2026-08-20",
-      "score": 50.2,
-      "title": "Software Test Engineer I",
-      "track": "qa",
-      "url": "https://jobs.thermofisher.com/global/en/job/R-01356608/Software-Test-Engineer-I"
-    },
     "cd71ec466aed6e88": {
       "company": "Keeper Security",
       "first_seen": "2026-10-04",
@@ -1335,6 +1359,14 @@
       "title": "Software Engineer Trainee_Technical Graduate Apprentice - India UHR (Hyderabad)",
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/6704547678958649344?trk=bingjobs"
+    },
+    "f18b4440f38c1cfe": {
+      "company": "Cresteo",
+      "first_seen": "2026-10-20",
+      "score": 32.4,
+      "title": "Backend Engineer (Go/Java) \u2014 Scalable, Event-Driven Systems",
+      "track": "sde",
+      "url": "https://www.jobleads.com/us/job/backend-engineer-go-java-scalable-event-driven-systems--united-states--e0efd3277c94fae9e99f071bfbf04b6a8"
     },
     "f1d3c057b02aed47": {
       "company": "Freshers Dunia",
@@ -1945,6 +1977,12 @@
       "candidates_after_dedup": 2,
       "date": "2026-10-19",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 19,
+      "date": "2026-10-20",
+      "new": 5
     }
   ]
 }
