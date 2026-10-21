@@ -160,14 +160,6 @@
       "track": "sde",
       "url": "https://cloudsoftsol.com/jobs/ltimindtree-ai-software-engineer-fresher-hyderabad-2026/"
     },
-    "164bcaca485c46a2": {
-      "company": "Rootshell Enterprise Technologies, Inc.",
-      "first_seen": "2026-08-21",
-      "score": 28.7,
-      "title": "SDET",
-      "track": "qa",
-      "url": "https://www.ziprecruiter.com/c/Rootshell-Enterprise-Technologies/Job/SDET/-in-Remote,US?jid=2bc92b5b6990fa7f"
-    },
     "1652e0e5e57ee969": {
       "company": "Quanata",
       "first_seen": "2026-09-26",
@@ -264,14 +256,6 @@
       "track": "sde",
       "url": "https://www.jobleads.com/in/job/iqvia-recruitment-jobs-2026-hiring-software-development-engineer-i-freshers-can-apply--india--ea78d152eab7a3cc20992f5d188ede79e"
     },
-    "2a5439ed68db44b1": {
-      "company": "remote zest jobs",
-      "first_seen": "2026-08-21",
-      "score": 33.0,
-      "title": "Senior Software Engineer - Backend (Java)",
-      "track": "sde",
-      "url": "https://remotezest.up.railway.app/job/senior-software-engineer-backend-java"
-    },
     "2acc81dc78c0aee1": {
       "company": "Nexevo Technologies",
       "first_seen": "2026-09-09",
@@ -327,14 +311,6 @@
       "title": "SDET (3 to 6 Years of experience) - Jersey City & Dallas",
       "track": "qa",
       "url": "https://apply.workable.com/stradit/j/E12A1F197A"
-    },
-    "30237220f152a5e3": {
-      "company": "remote zest jobs",
-      "first_seen": "2026-08-21",
-      "score": 61.0,
-      "title": "Entry Level Java developer/Data engineer - Remote",
-      "track": "sde",
-      "url": "https://remotezest.up.railway.app/job/entry-level-java-developerdata-engineer-remote-3"
     },
     "30a01925b8dd058e": {
       "company": "globalthoughtfocus",
@@ -1072,14 +1048,6 @@
       "track": "sde",
       "url": "https://www.careerbuilder.com/job-details/sr-software-engineer-mobile-engineer-remote-chicago-il--e61b5b75-ae18-47e9-9c74-7aa58974441e?trk=bingjobs"
     },
-    "b6f3fa3a426cf389": {
-      "company": "FlexBoard",
-      "first_seen": "2026-08-21",
-      "score": 30.0,
-      "title": "Senior Software Engineer - Golang/React (Remote)",
-      "track": "sde",
-      "url": "https://flexboard.9y.liveblog365.com/job/3429374"
-    },
     "b8379602907135ae": {
       "company": "remote drift",
       "first_seen": "2026-10-04",
@@ -1455,14 +1423,6 @@
       "title": "Graduate Engineer Trainee ( GET ) - Automation Testing",
       "track": "qa",
       "url": "https://in.linkedin.com/jobs/view/graduate-engineer-trainee-get-automation-testing-at-softcrayons-it-education-4475029831"
-    },
-    "ffaa73c6334f1ea7": {
-      "company": "Kforce Inc",
-      "first_seen": "2026-08-21",
-      "score": 49.9,
-      "title": "Mobile SDET",
-      "track": "qa",
-      "url": "https://www.linkedin.com/jobs/view/mobile-sdet-at-kforce-inc-4455788205"
     },
     "ffd3c850a4efd0e2": {
       "company": "Overt Minds",
@@ -1983,6 +1943,12 @@
       "candidates_after_dedup": 19,
       "date": "2026-10-20",
       "new": 5
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 0,
+      "date": "2026-10-21",
+      "new": 0
     }
   ]
 }
