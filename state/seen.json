@@ -760,6 +760,14 @@
       "track": "qa",
       "url": "https://www.jobleads.com/us/job/remote-senior-sdet-playwright-ci-cd-automation-leader--austin--e17819a48fd2bb73b22d507d6646d5b8d"
     },
+    "7cf99e46127a7e8a": {
+      "company": "Freshers Dunia",
+      "first_seen": "2026-10-23",
+      "score": 29.0,
+      "title": "Honeywell Internship 2026 Hiring Intern Bachelors Software Engineer | High Salary Tech Internship",
+      "track": "sde",
+      "url": "https://freshersdunia.in/honeywell-internship-2026-hiring-intern/"
+    },
     "7d6a936fdad31aa6": {
       "company": "IRIS Business Services Limited",
       "first_seen": "2026-09-25",
@@ -1048,6 +1056,14 @@
       "track": "sde",
       "url": "https://www.careerbuilder.com/job-details/sr-software-engineer-mobile-engineer-remote-chicago-il--e61b5b75-ae18-47e9-9c74-7aa58974441e?trk=bingjobs"
     },
+    "ae2f360feb52126c": {
+      "company": "Job search",
+      "first_seen": "2026-10-23",
+      "score": 29.0,
+      "title": "PLC Software Engineer (Freshers / Entry Level)",
+      "track": "sde",
+      "url": "https://www.freshersbridge.in/jobs/plc-software-engineer-job-search"
+    },
     "b8379602907135ae": {
       "company": "remote drift",
       "first_seen": "2026-10-04",
@@ -1079,6 +1095,14 @@
       "title": "Remote Software Engineer - Java",
       "track": "sde",
       "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-java-at-turing-4457173101"
+    },
+    "bb6be88e31b270f0": {
+      "company": "The Trade Desk",
+      "first_seen": "2026-10-23",
+      "score": 30.9,
+      "title": "2026 India Software Engineering Internship",
+      "track": "sde",
+      "url": "https://in.jooble.org/jdp/820675034050193254"
     },
     "bc44e73602065049": {
       "company": "CACI International Inc",
@@ -1231,6 +1255,14 @@
       "title": "Software Engineer, PhD, Early Career, 2026",
       "track": "sde",
       "url": "https://www.glassdoor.co.in/job-listing/software-engineer-phd-early-career-2026-google-JV_KO0,39_KE40,46.htm?jl=1010178668343"
+    },
+    "d920f56e7b3b7240": {
+      "company": "Capital One",
+      "first_seen": "2026-10-23",
+      "score": 43.8,
+      "title": "Principal Associate, Software Engineering",
+      "track": "sde",
+      "url": "https://www.capitalonecareers.com/job/bengaluru/principal-associate-software-engineering/1732/102201125168"
     },
     "dc25155fed19a223": {
       "company": "Quest Global",
@@ -1955,6 +1987,12 @@
       "candidates_after_dedup": 0,
       "date": "2026-10-22",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 4,
+      "date": "2026-10-23",
+      "new": 4
     }
   ]
 }
