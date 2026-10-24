@@ -128,6 +128,14 @@
       "track": "qa",
       "url": "https://vacancyglobalpro.up.railway.app/job/remote-qa-sdet-test-automation-engineer-60hr-remote"
     },
+    "119969c9464bcaee": {
+      "company": "Kobie",
+      "first_seen": "2026-10-24",
+      "score": 34.7,
+      "title": "Remote SDET: Automation\u2011Driven QA Engineer",
+      "track": "qa",
+      "url": "https://www.jobleads.com/us/job/remote-sdet-automation-driven-qa-engineer--dallas--eff279ecdea966961c9264f9c5294b5a1"
+    },
     "12bafd876374918e": {
       "company": "24-Mag",
       "first_seen": "2026-09-08",
@@ -135,14 +143,6 @@
       "title": "Remote  Open Source Software Engineer \u2014 $60\u2013$80/Hour",
       "track": "sde",
       "url": "https://www.careerbuilder.com/job-details/remote-open-source-software-engineer-60-80-hour-new-york-ny--bf18a7ba-be8a-43bf-9fe8-f49351172824?trk=bingjobs"
-    },
-    "135d37de194a2cd3": {
-      "company": "AlexaHire",
-      "first_seen": "2026-08-24",
-      "score": 67.5,
-      "title": "Walmart Hiring Software Engineer Jobs 2026 | Apply Right Now",
-      "track": "sde",
-      "url": "https://www.jobleads.com/in/job/walmart-hiring-software-engineer-jobs-2026-apply-right-now--chennai-district--efd3bb305e9208c3dbf0ab675f346c155"
     },
     "13adc0d3e9e15ee5": {
       "company": "remote quest jobs",
@@ -487,6 +487,22 @@
       "title": "Test Automation Consultant",
       "track": "qa",
       "url": "https://www.careerbuilder.com/job-details/test-automation-consultant-johns-creek-ga--118bc6e3-d175-46ce-a589-1ea207af691d?trk=bingjobs"
+    },
+    "545e6cbf9b323851": {
+      "company": "Twilio Inc.",
+      "first_seen": "2026-10-24",
+      "score": 27.0,
+      "title": "Software Engineer (L2) Messaging Channels Team (Fully Remote)",
+      "track": "sde",
+      "url": "https://www.jobleads.com/us/job/software-engineer-l2-messaging-channels-team-fully-remote--united-states--ed693ce864af857fed5c455fc4cf1b107"
+    },
+    "5510bb4d6612c123": {
+      "company": "My VA Support, Inc.",
+      "first_seen": "2026-10-24",
+      "score": 66.0,
+      "title": "Junior Software Developer/Programmer (LATAM only)",
+      "track": "sde",
+      "url": "https://dailyremote.com/remote-job/junior-software-developer-programmer-latam-only-5785611"
     },
     "554476f6ec1f9498": {
       "company": "Codingcircle",
@@ -888,6 +904,14 @@
       "track": "sde",
       "url": "https://jobgether.com/offer/6ad2b3cc49c73d7b998af6ad-senior-full-stack-developer-ai-native-engineering---java-spring-boot-angular"
     },
+    "93705b4213d16bff": {
+      "company": "remote quest jobs",
+      "first_seen": "2026-10-24",
+      "score": 30.3,
+      "title": "Senior SDET - Test Automation & Performance Engineering | Contract | Remote US New reputed company",
+      "track": "qa",
+      "url": "https://us.remotejobs.dedyn.io/job/senior-sdet-test-automation-performance-engineering-contract-remote-us-new-usa-remote-2"
+    },
     "94618ebcb50a29c2": {
       "company": "Kyyba",
       "first_seen": "2026-09-27",
@@ -1136,6 +1160,14 @@
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/1176668307919470592?trk=bingjobs"
     },
+    "c039b177d0508701": {
+      "company": "Clara",
+      "first_seen": "2026-10-24",
+      "score": 43.1,
+      "title": "Software Engineer in Test (SDET) (Fully Remote)",
+      "track": "qa",
+      "url": "https://www.jobleads.com/us/job/software-engineer-in-test-sdet-fully-remote--united-states--e3dae30a0a7c1506b1dba773d3cf841c7"
+    },
     "c06ccf759380e25b": {
       "company": "Freshers Dunia",
       "first_seen": "2026-10-07",
@@ -1239,6 +1271,14 @@
       "title": "[Remote] Backend Engineer (Java/Kotlin, Spring, AWS) | $120-150K | Exciting IT Consulting Firm",
       "track": "sde",
       "url": "https://wfhub.un.liveblog365.com/remote-jobs/remote-backend-engineer-java-kotlin-spring-aws-120-150k-exciting-it-consulting-firm-007bb076"
+    },
+    "d24ad46ed0840584": {
+      "company": "Automation Anywhere",
+      "first_seen": "2026-10-24",
+      "score": 68.9,
+      "title": "SDET",
+      "track": "qa",
+      "url": "https://jobgether.com/offer/6ad92ef7a8fae18ba2dbaf7b-sdet"
     },
     "d30d64144f748296": {
       "company": "Analytix Business Solutions (India) Pvt. Ltd.",
@@ -1993,6 +2033,12 @@
       "candidates_after_dedup": 4,
       "date": "2026-10-23",
       "new": 4
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 18,
+      "date": "2026-10-24",
+      "new": 6
     }
   ]
 }
