@@ -1,13 +1,5 @@
 {
   "jobs": {
-    "0050adf3b78871f0": {
-      "company": "vacancy global pro",
-      "first_seen": "2026-08-25",
-      "score": 51.0,
-      "title": "Java Backend Developer - Entry/Remote",
-      "track": "sde",
-      "url": "https://vacancyglobalpro.up.railway.app/job/java-backend-developer-entryremote"
-    },
     "010069cffc7263eb": {
       "company": "remote quest jobs",
       "first_seen": "2026-09-30",
@@ -79,14 +71,6 @@
       "title": "QA Automation Engineer (Bengaluru)",
       "track": "qa",
       "url": "https://in.jobrapido.com/jobpreview/2907958354942885888?trk=bingjobs"
-    },
-    "0d4a23b5510151f0": {
-      "company": "remote zest jobs",
-      "first_seen": "2026-08-25",
-      "score": 57.1,
-      "title": "Remote Java/Frontend Developer(Junior Level)",
-      "track": "sde",
-      "url": "https://remotezest.up.railway.app/job/remote-javafrontend-developerjunior-level-2"
     },
     "0da0538ea2bf4234": {
       "company": "Turing",
@@ -264,14 +248,6 @@
       "track": "qa",
       "url": "https://in.jobrapido.com/jobpreview/6433109319264239616?trk=bingjobs"
     },
-    "2ae33aee1243a2f0": {
-      "company": "Guru Soft",
-      "first_seen": "2026-08-25",
-      "score": 29.4,
-      "title": "Java J2EE developer",
-      "track": "sde",
-      "url": "https://www.ziprecruiter.com/c/Guru-Soft/Job/Java-J2EE-developer/-in-Remote,US?jid=24be3ce5a8a06ba3"
-    },
     "2af411983c2005ea": {
       "company": "Medpace",
       "first_seen": "2026-09-18",
@@ -303,14 +279,6 @@
       "title": "URGENT NEED - \"SDET Engineer\" _ (100% REMOTE)\"",
       "track": "qa",
       "url": "https://www.ziprecruiter.com/c/Navtech/Job/URGENT-NEED--SDET-Engineer-_-(100-REMOTE)-/-in-Remote,US?jid=a72e9b57a62df972"
-    },
-    "2fec705a0e97c147": {
-      "company": "StradIT",
-      "first_seen": "2026-08-25",
-      "score": 80.4,
-      "title": "SDET (3 to 6 Years of experience) - Jersey City & Dallas",
-      "track": "qa",
-      "url": "https://apply.workable.com/stradit/j/E12A1F197A"
     },
     "30a01925b8dd058e": {
       "company": "globalthoughtfocus",
@@ -463,14 +431,6 @@
       "title": "QA Engineer - Automation",
       "track": "qa",
       "url": "https://in.linkedin.com/jobs/view/qa-engineer-automation-at-auriga-it-4465022106?trk=bingjobs"
-    },
-    "50dae05c171b2862": {
-      "company": "SES",
-      "first_seen": "2026-08-25",
-      "score": 49.1,
-      "title": "Full Stack Java Developers - React- API",
-      "track": "sde",
-      "url": "https://www.dice.com/job-detail/caf44012-5337-474f-8b51-e2e280ea1f52"
     },
     "520e4976fdd4ea2e": {
       "company": "Hire With Jarvis - Lance Melendez",
@@ -840,14 +800,6 @@
       "track": "qa",
       "url": "https://in.jobrapido.com/jobpreview/7805361815696703488?trk=bingjobs"
     },
-    "86cf47d11e8ac2ba": {
-      "company": "remote zest jobs",
-      "first_seen": "2026-08-25",
-      "score": 38.9,
-      "title": "Java Developer (Senior)",
-      "track": "sde",
-      "url": "https://remotezest.up.railway.app/job/java-developer-senior-1"
-    },
     "876a02fce985ce0a": {
       "company": "8am",
       "first_seen": "2026-10-12",
@@ -992,14 +944,6 @@
       "track": "sde",
       "url": "https://www.ziprecruiter.com/c/Navtech/Job/Java-Backend-Developer-with-GCP-and-Vertex/-in-Alpharetta,GA?jid=f08fb055ba8e4948&trk=bingjobs"
     },
-    "9f9906448ef5098f": {
-      "company": "RemoteJobs",
-      "first_seen": "2026-08-25",
-      "score": 75.8,
-      "title": "Junior SDET",
-      "track": "qa",
-      "url": "https://us3.remotejobs.liveblog365.com/job/2901541"
-    },
     "a02342e99ade30c5": {
       "company": "SPIKEWELL INDIA PVT. LTD.",
       "first_seen": "2026-08-26",
@@ -1111,14 +1055,6 @@
       "title": "SDET- Owings Mills, MD",
       "track": "qa",
       "url": "https://jobmesh.io/job/c018e3a5-2f88-4b09-b255-6b6a728a06ac"
-    },
-    "b996f21c70a55c05": {
-      "company": "Turing",
-      "first_seen": "2026-08-25",
-      "score": 28.9,
-      "title": "Remote Software Engineer - Java",
-      "track": "sde",
-      "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-java-at-turing-4457173101"
     },
     "bb6be88e31b270f0": {
       "company": "The Trade Desk",
@@ -1240,14 +1176,6 @@
       "track": "sde",
       "url": "https://internshala.com/job/detail/sde-associate-instructor-fsd-job-in-maharashtra-at-newton-school-of-technology1787531454"
     },
-    "d00b7c1a6b0e4966": {
-      "company": "Octave",
-      "first_seen": "2026-08-25",
-      "score": 45.4,
-      "title": "Senior SDET: Remote Test Automation Lead",
-      "track": "qa",
-      "url": "https://himalayas.app/companies/octave/jobs/senior-sdet-remote-test-automation-lead"
-    },
     "d0921bbfdfb213ca": {
       "company": "BETSOL",
       "first_seen": "2026-09-09",
@@ -1263,14 +1191,6 @@
       "title": "Associate III - Software Engineering (Diversity) (Hyderabad)",
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/4712250201614581760?trk=bingjobs"
-    },
-    "d1f9224a0767477c": {
-      "company": "US-wfhub",
-      "first_seen": "2026-08-25",
-      "score": 40.9,
-      "title": "[Remote] Backend Engineer (Java/Kotlin, Spring, AWS) | $120-150K | Exciting IT Consulting Firm",
-      "track": "sde",
-      "url": "https://wfhub.un.liveblog365.com/remote-jobs/remote-backend-engineer-java-kotlin-spring-aws-120-150k-exciting-it-consulting-firm-007bb076"
     },
     "d24ad46ed0840584": {
       "company": "Automation Anywhere",
@@ -2039,6 +1959,12 @@
       "candidates_after_dedup": 18,
       "date": "2026-10-24",
       "new": 6
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 2,
+      "date": "2026-10-25",
+      "new": 0
     }
   ]
 }
