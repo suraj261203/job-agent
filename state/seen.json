@@ -1256,6 +1256,14 @@
       "track": "qa",
       "url": "https://vacancyglobalpro.up.railway.app/job/urgent-need-sdet-engineer-100-remote-1"
     },
+    "e7883450dbd063dd": {
+      "company": "Cisco",
+      "first_seen": "2026-10-27",
+      "score": 26.0,
+      "title": "Software Engineer Trainee \u2013 Technical Graduate Apprentice (India UHR)",
+      "track": "sde",
+      "url": "https://freshershunt.in/cisco-apprentice-2026/"
+    },
     "e78b24a25f1189df": {
       "company": "Jobot",
       "first_seen": "2026-09-11",
@@ -1394,12 +1402,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 6,
-      "candidates_after_dedup": 11,
-      "date": "2026-07-29",
-      "new": 0
-    },
     {
       "api_requests": 5,
       "candidates_after_dedup": 0,
@@ -1933,6 +1935,12 @@
       "candidates_after_dedup": 1,
       "date": "2026-10-26",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 2,
+      "date": "2026-10-27",
+      "new": 1
     }
   ]
 }
