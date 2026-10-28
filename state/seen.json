@@ -368,6 +368,14 @@
       "track": "qa",
       "url": "https://in.linkedin.com/jobs/view/engineer-i-%E2%80%93-automation-qa-irc302575-at-globallogic-4462931374?trk=bingjobs"
     },
+    "4063220721401744": {
+      "company": "EPAM Systems",
+      "first_seen": "2026-10-28",
+      "score": 45.3,
+      "title": "SDET (Software Development Engineer in Test) - JS/TypeScript/Playwright",
+      "track": "qa",
+      "url": "https://jobgether.com/offer/6adfb8da22c2644c03f5c7ca-sdet-software-development-engineer-in-test---js-typescript-playwright"
+    },
     "410ed21b483de848": {
       "company": "NewSpace Research and Technologies",
       "first_seen": "2026-09-13",
@@ -432,6 +440,14 @@
       "track": "qa",
       "url": "https://in.linkedin.com/jobs/view/qa-engineer-automation-at-auriga-it-4465022106?trk=bingjobs"
     },
+    "4f230e31f3adbd94": {
+      "company": "uNaice GmbH",
+      "first_seen": "2026-10-28",
+      "score": 44.2,
+      "title": "Junior Backend Developer (Python) (m/w/d) 20h Stellenbeschreibung READ DESCRIPTION before",
+      "track": "sde",
+      "url": "https://jobgether.com/offer/6adac77b22c2644c03e0855c-junior-backend-developer-python-m-w-d-20h-stellenbeschreibung-read-description-before"
+    },
     "520e4976fdd4ea2e": {
       "company": "Hire With Jarvis - Lance Melendez",
       "first_seen": "2026-10-04",
@@ -495,6 +511,14 @@
       "title": "Weekday Software Engineer Intern 2026  Remote IT Jobs",
       "track": "sde",
       "url": "https://in.linkedin.com/jobs/view/weekday-software-engineer-intern-2026-remote-it-jobs-at-studyecart-technologies-pvt-ltd-4461330893?trk=bingjobs"
+    },
+    "57af4c80c2db448a": {
+      "company": "Micro1",
+      "first_seen": "2026-10-28",
+      "score": 34.1,
+      "title": "Senior Backend Engineer: Scalable APIs + Security Focus",
+      "track": "sde",
+      "url": "https://www.jobleads.com/us/job/senior-backend-engineer-scalable-apis-security-focus--united-states--e86a9a87be08c025341ec6490f7f84cf4"
     },
     "581ffb4f715e7684": {
       "company": "YO AI Labs",
@@ -1040,6 +1064,14 @@
       "track": "qa",
       "url": "https://jobmesh.io/job/c018e3a5-2f88-4b09-b255-6b6a728a06ac"
     },
+    "b9c7130472fe7e9b": {
+      "company": "Trimble Inc.",
+      "first_seen": "2026-10-28",
+      "score": 41.0,
+      "title": "Remote SDET \u2014 Supplier Exchange Automation",
+      "track": "qa",
+      "url": "https://www.jobleads.com/us/job/remote-sdet-supplier-exchange-automation--knoxville--ef2685387228850d95a4d1ba2b2d2b674"
+    },
     "bb6be88e31b270f0": {
       "company": "The Trade Desk",
       "first_seen": "2026-10-23",
@@ -1151,6 +1183,14 @@
       "title": "Remote Software Developer (Entry Level)",
       "track": "sde",
       "url": "https://www.careerbuilder.com/job-details/remote-software-developer-entry-level-san-jose-ca--243bfb9c-1b2f-4b43-a715-29063a3c702b?trk=bingjobs"
+    },
+    "d03beaad8c840be7": {
+      "company": "Gruve",
+      "first_seen": "2026-10-28",
+      "score": 63.7,
+      "title": "Junior Full Stack Developer",
+      "track": "sde",
+      "url": "https://jobgether.com/offer/6adc188222c2644c03e6fa93-junior-full-stack-developer"
     },
     "d0921bbfdfb213ca": {
       "company": "BETSOL",
@@ -1304,6 +1344,14 @@
       "track": "sde",
       "url": "https://in.jobrapido.com/jobpreview/6704547678958649344?trk=bingjobs"
     },
+    "ee926db3723b8478": {
+      "company": "J-Mack Technologies, LLC",
+      "first_seen": "2026-10-28",
+      "score": 53.9,
+      "title": "Junior Java Software Engineer",
+      "track": "sde",
+      "url": "https://www.remoterocketship.com/us/company/j-mack/jobs/junior-java-software-engineer-united-states-remote/"
+    },
     "f18b4440f38c1cfe": {
       "company": "Cresteo",
       "first_seen": "2026-10-20",
@@ -1376,6 +1424,14 @@
       "track": "qa",
       "url": "https://www.adzuna.com/details/5898876774"
     },
+    "fde8d113951bc84b": {
+      "company": "Freshers Recruitment",
+      "first_seen": "2026-10-28",
+      "score": 26.4,
+      "title": "Amazon Internship Jobs 2026 | SDE I Intern Recruitment for 2027 Batch",
+      "track": "sde",
+      "url": "https://www.jobleads.com/in/job/amazon-internship-jobs-2026-sde-i-intern-recruitment-for-2027-batch--india--e49488c9a3baa314910ca66220967e7ff"
+    },
     "fe10adb1f13b82aa": {
       "company": "Freshers Dunia",
       "first_seen": "2026-09-24",
@@ -1402,12 +1458,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 5,
-      "candidates_after_dedup": 0,
-      "date": "2026-07-30",
-      "new": 0
-    },
     {
       "api_requests": 6,
       "candidates_after_dedup": 11,
@@ -1941,6 +1991,12 @@
       "candidates_after_dedup": 2,
       "date": "2026-10-27",
       "new": 1
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 17,
+      "date": "2026-10-28",
+      "new": 7
     }
   ]
 }
