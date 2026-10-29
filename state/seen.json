@@ -1096,14 +1096,6 @@
       "track": "sde",
       "url": "https://www.jobleads.com/us/job/sde-4-backend--united-states--e28fa00b770c241e29b746315e8de2a8e"
     },
-    "be44c3b622c8c4be": {
-      "company": "Tata Consultancy Services",
-      "first_seen": "2026-08-29",
-      "score": 35.8,
-      "title": "Software Development Engineer (SDE) Intern",
-      "track": "sde",
-      "url": "https://myinternships.in/job/tata-consultancy-services-software-development-engineer-sde-intern-jaipur-d52d20"
-    },
     "bf6b192c8b2a3ff9": {
       "company": "Turing",
       "first_seen": "2026-09-09",
@@ -1458,12 +1450,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 6,
-      "candidates_after_dedup": 11,
-      "date": "2026-07-31",
-      "new": 5
-    },
     {
       "api_requests": 6,
       "candidates_after_dedup": 20,
@@ -1997,6 +1983,12 @@
       "candidates_after_dedup": 17,
       "date": "2026-10-28",
       "new": 7
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 2,
+      "date": "2026-10-29",
+      "new": 0
     }
   ]
 }
