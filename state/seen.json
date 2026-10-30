@@ -496,14 +496,6 @@
       "track": "sde",
       "url": "https://www.careerbuilder.com/job-details/full-stack-software-engineer-remote-remote-austin-tx--72c721ae-9656-4c7f-a1c3-8aec4e4330e7?trk=bingjobs"
     },
-    "571cbfbcb4f984db": {
-      "company": "Danielle Vandermeulen District",
-      "first_seen": "2026-08-30",
-      "score": 33.3,
-      "title": "test",
-      "track": "qa",
-      "url": "https://career.io/job/test-danielle-vandermeulen-district-ede65dc10a7120c2891c8e5f433e0e65"
-    },
     "578b4b8c7ef5d043": {
       "company": "StudyECart Technologies Pvt Ltd",
       "first_seen": "2026-09-09",
@@ -1452,12 +1444,6 @@
   "runs": [
     {
       "api_requests": 6,
-      "candidates_after_dedup": 20,
-      "date": "2026-08-01",
-      "new": 13
-    },
-    {
-      "api_requests": 6,
       "candidates_after_dedup": 3,
       "date": "2026-08-02",
       "new": 0
@@ -1988,6 +1974,12 @@
       "api_requests": 6,
       "candidates_after_dedup": 2,
       "date": "2026-10-29",
+      "new": 0
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 2,
+      "date": "2026-10-30",
       "new": 0
     }
   ]
