@@ -96,14 +96,6 @@
       "track": "qa",
       "url": "https://us.remotejobs.dedyn.io/job/2702798"
     },
-    "1045869362d29791": {
-      "company": "Arosys",
-      "first_seen": "2026-08-31",
-      "score": 42.1,
-      "title": "QA Tester",
-      "track": "qa",
-      "url": "https://arosys.com/jobs/qa-tester/"
-    },
     "1062a61f970f7088": {
       "company": "vacancy global pro",
       "first_seen": "2026-09-22",
@@ -784,14 +776,6 @@
       "track": "sde",
       "url": "https://www.shine.com/jobs/stripe-internship-hiring-software-engineer-intern-paid-internship/freshers-dunia/19595262"
     },
-    "85cc1c9723b9faa1": {
-      "company": "VidaXL",
-      "first_seen": "2026-08-31",
-      "score": 53.1,
-      "title": "QA Engineer",
-      "track": "qa",
-      "url": "https://careers.vidaxl.com/vacancy/2905/qa-engineer"
-    },
     "86476d463b8815ca": {
       "company": "HYrEzy Tech Solutions",
       "first_seen": "2026-09-15",
@@ -1031,6 +1015,14 @@
       "title": "PLC Software Engineer (Freshers / Entry Level)",
       "track": "sde",
       "url": "https://www.freshersbridge.in/jobs/plc-software-engineer-job-search"
+    },
+    "b5bd22d866f94e02": {
+      "company": "Charles Schwab",
+      "first_seen": "2026-10-31",
+      "score": 40.4,
+      "title": "Charles Schwab Hiring Associate Java Developer in Hyderabad | Onsite",
+      "track": "sde",
+      "url": "https://softojobs.com/job/charles-schwab-hiring-associate-java-developer-in-hyderabad-onsite"
     },
     "b8379602907135ae": {
       "company": "remote drift",
@@ -1442,12 +1434,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 6,
-      "candidates_after_dedup": 3,
-      "date": "2026-08-02",
-      "new": 0
-    },
     {
       "api_requests": 5,
       "candidates_after_dedup": 1,
@@ -1981,6 +1967,12 @@
       "candidates_after_dedup": 2,
       "date": "2026-10-30",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 5,
+      "date": "2026-10-31",
+      "new": 1
     }
   ]
 }
