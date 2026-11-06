@@ -1072,6 +1072,14 @@
       "track": "qa",
       "url": "https://in.linkedin.com/jobs/view/quality-engineer-automation-testing-t500-29207-at-cibc-india-4464317556?trk=bingjobs"
     },
+    "a449d4b8c9980e5d": {
+      "company": "Neolytix",
+      "first_seen": "2026-11-06",
+      "score": 29.6,
+      "title": "Associate \u2013 Automation",
+      "track": "qa",
+      "url": "https://careers.neolytix.com/apply/cpTwcChJ77/Associate-Automation"
+    },
     "a463da30bf0db600": {
       "company": "JobFlow",
       "first_seen": "2026-10-16",
@@ -1586,12 +1594,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 5,
-      "candidates_after_dedup": 0,
-      "date": "2026-08-07",
-      "new": 0
-    },
     {
       "api_requests": 6,
       "candidates_after_dedup": 0,
@@ -2125,6 +2127,12 @@
       "candidates_after_dedup": 20,
       "date": "2026-11-05",
       "new": 9
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 1,
+      "date": "2026-11-06",
+      "new": 1
     }
   ]
 }
