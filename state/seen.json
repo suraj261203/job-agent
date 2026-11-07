@@ -216,14 +216,6 @@
       "track": "qa",
       "url": "https://in.jobrapido.com/jobpreview/7358768504918507520?trk=bingjobs"
     },
-    "1f420ee257357504": {
-      "company": "Zuven Technologies Inc",
-      "first_seen": "2026-09-07",
-      "score": 41.1,
-      "title": "Lead AI Engineer \u2013 Agentic Test Automation",
-      "track": "qa",
-      "url": "https://www.careerbuilder.com/job-details/lead-ai-engineer-agentic-test-automation-tysons-va--59efe23f-1732-4c02-801a-c5c991dbc94b?trk=bingjobs"
-    },
     "240c93733265f47e": {
       "company": "Rootshell Enterprise Technologies, Inc.",
       "first_seen": "2026-09-09",
@@ -487,14 +479,6 @@
       "title": "Remote Junior SDET - API & Web Automation",
       "track": "qa",
       "url": "https://www.learn4good.com/jobs/online_remote/software_development/5498977913/e/"
-    },
-    "53eb9ae1862649c6": {
-      "company": "InfoSys Ltd.",
-      "first_seen": "2026-09-07",
-      "score": 66.4,
-      "title": "Test Automation Consultant",
-      "track": "qa",
-      "url": "https://www.careerbuilder.com/job-details/test-automation-consultant-johns-creek-ga--118bc6e3-d175-46ce-a589-1ea207af691d?trk=bingjobs"
     },
     "545e6cbf9b323851": {
       "company": "Twilio Inc.",
@@ -1015,6 +999,14 @@
       "title": "Software Engineer",
       "track": "sde",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-at-fujitsu-4462828090?trk=bingjobs"
+    },
+    "9b7eab3348f27afc": {
+      "company": "SheJobs Group",
+      "first_seen": "2026-11-07",
+      "score": 59.8,
+      "title": "SDET-AI Tools",
+      "track": "qa",
+      "url": "https://www.jobleads.com/in/job/sdet-ai-tools--hyderabad--e27ef06802d6dbd9e46baa6cff22e0151"
     },
     "9c27a32da8ba99fe": {
       "company": "Molex",
@@ -1596,12 +1588,6 @@
   "runs": [
     {
       "api_requests": 6,
-      "candidates_after_dedup": 0,
-      "date": "2026-08-08",
-      "new": 0
-    },
-    {
-      "api_requests": 6,
       "candidates_after_dedup": 21,
       "date": "2026-08-09",
       "new": 11
@@ -2132,6 +2118,12 @@
       "api_requests": 6,
       "candidates_after_dedup": 1,
       "date": "2026-11-06",
+      "new": 1
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 2,
+      "date": "2026-11-07",
       "new": 1
     }
   ]
