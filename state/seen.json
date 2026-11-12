@@ -40,22 +40,6 @@
       "track": "qa",
       "url": "https://jobgether.com/offer/6ab6948f865119c687f24ea5-senior-software-developer-in-test-quality-platform"
     },
-    "0b35dd9bfade869e": {
-      "company": "Purplle.com",
-      "first_seen": "2026-09-12",
-      "score": 63.9,
-      "title": "QA Automation Engineer - QA 2",
-      "track": "qa",
-      "url": "https://in.linkedin.com/jobs/view/qa-automation-engineer-qa-2-at-purplle-com-4409136819?trk=bingjobs"
-    },
-    "0d0953167309af03": {
-      "company": "Instient",
-      "first_seen": "2026-09-12",
-      "score": 74.2,
-      "title": "QA Automation Engineer (Bengaluru)",
-      "track": "qa",
-      "url": "https://in.jobrapido.com/jobpreview/2907958354942885888?trk=bingjobs"
-    },
     "0db6a04e860e3b28": {
       "company": "Accenture India",
       "first_seen": "2026-10-11",
@@ -296,6 +280,14 @@
       "track": "sde",
       "url": "https://www.theelitejob.com/job/12804/backend-developer-work-from-home-top-mncs-hiring"
     },
+    "4a388f2d0a447a76": {
+      "company": "NielsenIQ",
+      "first_seen": "2026-11-12",
+      "score": 35.0,
+      "title": "Associate Software Engineer (Python + Oracle SQL) (Freshers / Entry Level)",
+      "track": "sde",
+      "url": "https://www.freshersbridge.in/jobs/associate-software-engineer-python-oracle-sql-nielseniq"
+    },
     "4b78c2a8bc70a6d8": {
       "company": "Marfeel",
       "first_seen": "2026-11-01",
@@ -392,14 +384,6 @@
       "track": "sde",
       "url": "https://www.linkedin.com/jobs/view/go-golang-software-developer-remote-at-yo-ai-labs-4465771630"
     },
-    "582f312fc117e940": {
-      "company": "Monotype Solutions India",
-      "first_seen": "2026-09-12",
-      "score": 26.0,
-      "title": "Software Engineer Trainee (Noida)",
-      "track": "sde",
-      "url": "https://in.jobrapido.com/jobpreview/3249111661713293312?trk=bingjobs"
-    },
     "59105e48f114004d": {
       "company": "Feedinkoo",
       "first_seen": "2026-09-30",
@@ -471,14 +455,6 @@
       "title": "Remote SDET: Quality Automation & CI/CD Leader",
       "track": "qa",
       "url": "https://www.jobleads.com/us/job/remote-sdet-quality-automation-ci-cd-leader--united-states--e6674f7f53b6ec72f5238c78e284d2dfa"
-    },
-    "67571e733f8153f5": {
-      "company": "Macpower Digital Assets Edge Private Limited",
-      "first_seen": "2026-09-12",
-      "score": 30.2,
-      "title": "Java Backend Developer",
-      "track": "sde",
-      "url": "https://www.careerbuilder.com/job-details/java-backend-developer-alpharetta-ga--20f47e74-cafa-4a5d-8d4c-5460c22af97d?trk=bingjobs"
     },
     "69a64912bfbef825": {
       "company": "Interview Kickstart",
@@ -776,14 +752,6 @@
       "track": "qa",
       "url": "https://www.jobleads.com/in/job/sdet-ai-tools--hyderabad--e27ef06802d6dbd9e46baa6cff22e0151"
     },
-    "9e82006e8ca5c1d0": {
-      "company": "Navtech, Inc.",
-      "first_seen": "2026-09-12",
-      "score": 35.1,
-      "title": "Java Backend Developer With GCP And Vertex",
-      "track": "sde",
-      "url": "https://www.ziprecruiter.com/c/Navtech/Job/Java-Backend-Developer-with-GCP-and-Vertex/-in-Alpharetta,GA?jid=f08fb055ba8e4948&trk=bingjobs"
-    },
     "a0e9a6656b6cc930": {
       "company": "Nobl Q",
       "first_seen": "2026-10-07",
@@ -839,14 +807,6 @@
       "title": "junior data scientist /AI engineer/Java Developer",
       "track": "sde",
       "url": "https://jobflow.r3k.liveblog365.com/remote-jobs/junior-data-scientist-ai-engineer-java-developer-0d65b335"
-    },
-    "a551b1fd9126a802": {
-      "company": "Turing",
-      "first_seen": "2026-09-12",
-      "score": 31.9,
-      "title": "Remote Software Engineer (Go)",
-      "track": "sde",
-      "url": "https://www.adzuna.in/details/5874291291?trk=bingjobs"
     },
     "a7741397951099ed": {
       "company": "Cognizant Technology Solutions Corporation",
@@ -1184,14 +1144,6 @@
       "track": "sde",
       "url": "https://vacancyglobalpro.up.railway.app/job/software-engineer-2-java-backend"
     },
-    "f49a6521320080dc": {
-      "company": "HuntingCube",
-      "first_seen": "2026-09-12",
-      "score": 55.4,
-      "title": "QA Automation Engineer",
-      "track": "qa",
-      "url": "https://in.linkedin.com/jobs/view/qa-automation-engineer-at-huntingcube-4465833330?trk=bingjobs"
-    },
     "f4e037a80cc937b9": {
       "company": "vmysmartpros",
       "first_seen": "2026-10-12",
@@ -1250,12 +1202,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 6,
-      "candidates_after_dedup": 20,
-      "date": "2026-08-13",
-      "new": 12
-    },
     {
       "api_requests": 6,
       "candidates_after_dedup": 5,
@@ -1789,6 +1735,12 @@
       "candidates_after_dedup": 2,
       "date": "2026-11-11",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 5,
+      "date": "2026-11-12",
+      "new": 1
     }
   ]
 }
