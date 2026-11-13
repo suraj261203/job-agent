@@ -136,14 +136,6 @@
       "track": "qa",
       "url": "https://www.learn4good.com/jobs/online_remote/software_development/5507656704/e/"
     },
-    "195693fe1ff749cc": {
-      "company": "AlgoUniversity",
-      "first_seen": "2026-09-13",
-      "score": 34.7,
-      "title": "Software Engineer Bengaluru (India)",
-      "track": "sde",
-      "url": "https://in.jobrapido.com/jobpreview/725600534572040192?trk=bingjobs"
-    },
     "1b1714bae2932f12": {
       "company": "Insperity",
       "first_seen": "2026-10-08",
@@ -247,14 +239,6 @@
       "title": "SDET (Software Development Engineer in Test) - JS/TypeScript/Playwright",
       "track": "qa",
       "url": "https://jobgether.com/offer/6adfb8da22c2644c03f5c7ca-sdet-software-development-engineer-in-test---js-typescript-playwright"
-    },
-    "410ed21b483de848": {
-      "company": "NewSpace Research and Technologies",
-      "first_seen": "2026-09-13",
-      "score": 34.7,
-      "title": "Engineer II - Software Testing",
-      "track": "qa",
-      "url": "https://in.linkedin.com/jobs/view/engineer-ii-software-testing-at-newspace-research-and-technologies-4465055098?trk=bingjobs"
     },
     "437f72dd259de321": {
       "company": "Xperteez Technology Pvt Ltd",
@@ -600,6 +584,14 @@
       "track": "qa",
       "url": "https://jobmesh.io/job/889d7b05-a247-4778-bc81-8e51aff6317a"
     },
+    "7f33013ed4933a2c": {
+      "company": "Senacor Technologies",
+      "first_seen": "2026-11-13",
+      "score": 54.1,
+      "title": "Java developer f\u00fcr Unternehmensanwendungen",
+      "track": "sde",
+      "url": "https://www.jobleads.com/us/job/java-developer-fur-unternehmensanwendungen--united-states--e9f7a3ddb04889ede515aa845e68d5d91"
+    },
     "7fa5a44ae8079a98": {
       "company": "Roadie",
       "first_seen": "2026-09-26",
@@ -615,6 +607,14 @@
       "title": "Senior SDET (Remote) - CI/CD & API Testing Expert",
       "track": "qa",
       "url": "https://www.jobleads.com/us/job/senior-sdet-remote-ci-cd-api-testing-expert--richmond--e5106db50ffeddb95fa2385faec58ace1"
+    },
+    "848344e721cca06a": {
+      "company": "OpenTrain AI",
+      "first_seen": "2026-11-13",
+      "score": 41.1,
+      "title": "Backend Engineer, AI Coding Task Design OpenTrain AI connects experienced professionals with paid, p",
+      "track": "sde",
+      "url": "https://www.jobleads.com/us/job/backend-engineer-ai-coding-task-design-opentrain-ai-connects-experienced-professionals-with-paid-p--united-states--e9b8b1eaf023a74f82feb7929d6bf5989"
     },
     "84f6a54f9c2969d0": {
       "company": "Freshers Dunia",
@@ -664,6 +664,14 @@
       "track": "sde",
       "url": "https://in.jooble.org/jdp/2446666463273655325"
     },
+    "8aa97cbd9d6973f3": {
+      "company": "MSX.com",
+      "first_seen": "2026-11-13",
+      "score": 42.4,
+      "title": "Java Developer (Spot Trading/Derivatives/Trading Link)",
+      "track": "sde",
+      "url": "https://tt3labs.com/en/job/java-developer-spot-tradingderivativestr-mwadock8"
+    },
     "8d7428a53570c71f": {
       "company": "HelloKindred",
       "first_seen": "2026-10-08",
@@ -703,6 +711,14 @@
       "title": "Senior SDET - Test Automation & Performance Engineering | Contract | Remote US New reputed company",
       "track": "qa",
       "url": "https://us.remotejobs.dedyn.io/job/senior-sdet-test-automation-performance-engineering-contract-remote-us-new-usa-remote-2"
+    },
+    "9397b35bbc2cb9fd": {
+      "company": "Bright Vision Technologies",
+      "first_seen": "2026-11-13",
+      "score": 60.9,
+      "title": "SDET (Remote) - API & CI/CD Test Automation",
+      "track": "qa",
+      "url": "https://www.jobleads.com/us/job/sdet-remote-api-ci-cd-test-automation--sunnyvale--efac5654e064f62825975db92b77c5c79"
     },
     "93d634306daa1dde": {
       "company": "Jobgether",
@@ -840,6 +856,14 @@
       "track": "sde",
       "url": "https://jooble.org/jdp/8890360436555083815"
     },
+    "b2547edadb2618fd": {
+      "company": "remote quest jobs",
+      "first_seen": "2026-11-13",
+      "score": 52.4,
+      "title": "[Remote] Quality Assurance / Software Development Engineer in Test (SDET)",
+      "track": "qa",
+      "url": "https://us.remotejobs.dedyn.io/job/remote-quality-assurance-software-development-engineer-in-test-sdet-4cd9a0ac"
+    },
     "b5bd22d866f94e02": {
       "company": "Charles Schwab",
       "first_seen": "2026-10-31",
@@ -936,6 +960,14 @@
       "track": "sde",
       "url": "https://jobgether.com/offer/6aeaa7451c8aea01fb7e32bc-software-engineer---hcm"
     },
+    "c47c4e32c82d388c": {
+      "company": "Pulsara",
+      "first_seen": "2026-11-13",
+      "score": 25.9,
+      "title": "Remote SDET Lead - Build Reliable Healthcare Automation",
+      "track": "qa",
+      "url": "https://www.jobleads.com/us/job/remote-sdet-lead-build-reliable-healthcare-automation--united-states--e582e422c00b1d71361b9e3044123092e"
+    },
     "c4a28893dfe8c95f": {
       "company": "remote quest jobs",
       "first_seen": "2026-10-08",
@@ -983,14 +1015,6 @@
       "title": "SDET",
       "track": "qa",
       "url": "https://jobgether.com/offer/6ad92ef7a8fae18ba2dbaf7b-sdet"
-    },
-    "d30d64144f748296": {
-      "company": "Analytix Business Solutions (India) Pvt. Ltd.",
-      "first_seen": "2026-09-13",
-      "score": 46.7,
-      "title": "Software Engineer",
-      "track": "sde",
-      "url": "https://in.jobrapido.com/jobpreview/7805451425894367232?trk=bingjobs"
     },
     "d86ad8a71eb8364c": {
       "company": "Google",
@@ -1202,12 +1226,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 6,
-      "candidates_after_dedup": 5,
-      "date": "2026-08-14",
-      "new": 1
-    },
     {
       "api_requests": 5,
       "candidates_after_dedup": 0,
@@ -1741,6 +1759,12 @@
       "candidates_after_dedup": 5,
       "date": "2026-11-12",
       "new": 1
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 20,
+      "date": "2026-11-13",
+      "new": 6
     }
   ]
 }
