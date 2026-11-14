@@ -224,14 +224,6 @@
       "track": "qa",
       "url": "https://jobgether.com/offer/6abb3f278a27695aea089475-software-development-engineer-in-test-sdet"
     },
-    "3f71cc82a8d08661": {
-      "company": "YO IT Consulting",
-      "first_seen": "2026-09-14",
-      "score": 26.6,
-      "title": "Backend Java Developer - Remote",
-      "track": "sde",
-      "url": "https://www.linkedin.com/jobs/view/backend-java-developer-remote-at-yo-it-consulting-4464165252?trk=bingjobs"
-    },
     "4063220721401744": {
       "company": "EPAM Systems",
       "first_seen": "2026-10-28",
@@ -456,14 +448,6 @@
       "track": "qa",
       "url": "https://jobmesh.io/job/7600d36f-89cd-4b75-8d98-7f9497c84f48"
     },
-    "6ee065cf88a3b635": {
-      "company": "NTT DATA Business Solutions",
-      "first_seen": "2026-09-14",
-      "score": 34.7,
-      "title": "Senior Associate Automation Engineer (Hyderabad)",
-      "track": "qa",
-      "url": "https://in.jobrapido.com/jobpreview/650360266688561152?trk=bingjobs"
-    },
     "6f4fc693cb389d1b": {
       "company": "Navtech, Inc.",
       "first_seen": "2026-11-01",
@@ -632,14 +616,6 @@
       "track": "qa",
       "url": "https://in.jobrapido.com/jobpreview/3148781912873500672?trk=bingjobs"
     },
-    "86cb4e790da83caf": {
-      "company": "Stradit",
-      "first_seen": "2026-09-14",
-      "score": 50.7,
-      "title": "Automation Test Engineer Hyderabad (India)",
-      "track": "qa",
-      "url": "https://in.jobrapido.com/jobpreview/7805361815696703488?trk=bingjobs"
-    },
     "8708d2eaa28a8162": {
       "company": "The Home Depot",
       "first_seen": "2026-11-01",
@@ -687,14 +663,6 @@
       "title": "Full-Stack AI Developer Internship (Freshers / Entry Level)",
       "track": "sde",
       "url": "https://www.freshersbridge.in/internships/full-stack-ai-developer-internship-autobotwa"
-    },
-    "8f4de14ae55b36a1": {
-      "company": "Mastech InfoTrellis",
-      "first_seen": "2026-09-14",
-      "score": 59.0,
-      "title": "Quality Engineer SDET Performance Test Engineer (Hyderabad)",
-      "track": "qa",
-      "url": "https://in.jobrapido.com/jobpreview/3063655248749920256?trk=bingjobs"
     },
     "8f5fd2b19f0cf137": {
       "company": "The Whiteam",
@@ -800,14 +768,6 @@
       "track": "sde",
       "url": "https://www.ziprecruiter.com/c/Apex-Informatics/Job/Java-Golang-Developer/-in-Remote,US?jid=ff9377ff80ee0069"
     },
-    "a4053fad4a9a5b5b": {
-      "company": "CIBC India",
-      "first_seen": "2026-09-14",
-      "score": 53.5,
-      "title": "Quality Engineer - Automation Testing [T500-29207]",
-      "track": "qa",
-      "url": "https://in.linkedin.com/jobs/view/quality-engineer-automation-testing-t500-29207-at-cibc-india-4464317556?trk=bingjobs"
-    },
     "a449d4b8c9980e5d": {
       "company": "Neolytix",
       "first_seen": "2026-11-06",
@@ -831,14 +791,6 @@
       "title": "Remote SDET Engineer: Playwright, Selenium & Java",
       "track": "qa",
       "url": "https://www.jobleads.com/us/job/remote-sdet-engineer-playwright-selenium-java--cheyenne--e828eaf55ea2ecea5efb65eee09221f6d"
-    },
-    "a857d1add4abcd7a": {
-      "company": "Turing",
-      "first_seen": "2026-09-14",
-      "score": 26.7,
-      "title": "Remote Software Engineer \u2013 Ruby",
-      "track": "sde",
-      "url": "https://in.jobrapido.com/jobpreview/608188085888352256?trk=bingjobs"
     },
     "ae2f360feb52126c": {
       "company": "Job search",
@@ -1040,14 +992,6 @@
       "track": "sde",
       "url": "https://www.jobleads.com/us/job/staff-backend-engineer-high-scale-go-systems-equity--united-states--eecda52a9fbe42aa6943e3ae9960fbef3"
     },
-    "dc25155fed19a223": {
-      "company": "Quest Global",
-      "first_seen": "2026-09-14",
-      "score": 39.2,
-      "title": "Software Engineer",
-      "track": "sde",
-      "url": "https://in.jobrapido.com/jobpreview/4096654119626866688?trk=bingjobs"
-    },
     "dd716497e8cc5e66": {
       "company": "Air Apps",
       "first_seen": "2026-11-05",
@@ -1226,12 +1170,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 5,
-      "candidates_after_dedup": 0,
-      "date": "2026-08-15",
-      "new": 0
-    },
     {
       "api_requests": 6,
       "candidates_after_dedup": 5,
@@ -1765,6 +1703,12 @@
       "candidates_after_dedup": 20,
       "date": "2026-11-13",
       "new": 6
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 2,
+      "date": "2026-11-14",
+      "new": 0
     }
   ]
 }
