@@ -24,14 +24,6 @@
       "track": "qa",
       "url": "https://www.jobleads.com/us/job/senior-sdet-build-high-scale-testing-platforms--united-states--ed58c9f072095b774cd07773254613b37"
     },
-    "08aa1772cfd04bc5": {
-      "company": "PRI INDIA IT SERVICES PRIVATE LIMITED",
-      "first_seen": "2026-09-15",
-      "score": 43.6,
-      "title": "Mid-Level Software Engineer/Junior Software Engineer",
-      "track": "sde",
-      "url": "https://in.linkedin.com/jobs/view/mid-level-software-engineer-junior-software-engineer-at-pri-india-it-services-private-limited-4466478163?trk=bingjobs"
-    },
     "09163f4c2840b788": {
       "company": "MaintainX",
       "first_seen": "2026-09-26",
@@ -151,14 +143,6 @@
       "title": "Senior Java Cloud Developer",
       "track": "sde",
       "url": "https://www.virtualvocations.com/job/senior-java-cloud-developer-3282321-i.html"
-    },
-    "1d8723943db5da59": {
-      "company": "flotomate",
-      "first_seen": "2026-09-15",
-      "score": 45.8,
-      "title": "QA Automation Engineer (Ahmedabad)",
-      "track": "qa",
-      "url": "https://in.jobrapido.com/jobpreview/7358768504918507520?trk=bingjobs"
     },
     "24050fd1cb3e98c1": {
       "company": "ARM",
@@ -528,14 +512,6 @@
       "track": "qa",
       "url": "https://vacancyglobalpro.up.railway.app/job/remote-sdet-qa-automation-guadalajara-mex-mx"
     },
-    "793b52695486d6d5": {
-      "company": "Swift",
-      "first_seen": "2026-09-15",
-      "score": 33.1,
-      "title": "Test Automation Engineer (Hybrid)",
-      "track": "qa",
-      "url": "https://www.linkedin.com/jobs/view/test-automation-engineer-hybrid-at-swift-4429735071?trk=bingjobs"
-    },
     "7b1bfc597c93dc40": {
       "company": "Rippling, Inc.",
       "first_seen": "2026-10-08",
@@ -607,14 +583,6 @@
       "title": "Stripe Internship 2026 Hiring Software Engineer Intern | Paid Internship",
       "track": "sde",
       "url": "https://www.shine.com/jobs/stripe-internship-hiring-software-engineer-intern-paid-internship/freshers-dunia/19595262"
-    },
-    "86476d463b8815ca": {
-      "company": "HYrEzy Tech Solutions",
-      "first_seen": "2026-09-15",
-      "score": 44.9,
-      "title": "Qa Automation Engineer Ahmedabad (India)",
-      "track": "qa",
-      "url": "https://in.jobrapido.com/jobpreview/3148781912873500672?trk=bingjobs"
     },
     "8708d2eaa28a8162": {
       "company": "The Home Depot",
@@ -1172,12 +1140,6 @@
   "runs": [
     {
       "api_requests": 6,
-      "candidates_after_dedup": 5,
-      "date": "2026-08-16",
-      "new": 1
-    },
-    {
-      "api_requests": 6,
       "candidates_after_dedup": 21,
       "date": "2026-08-17",
       "new": 6
@@ -1708,6 +1670,12 @@
       "api_requests": 6,
       "candidates_after_dedup": 2,
       "date": "2026-11-14",
+      "new": 0
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 2,
+      "date": "2026-11-15",
       "new": 0
     }
   ]
