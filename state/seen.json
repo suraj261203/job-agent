@@ -840,6 +840,14 @@
       "track": "sde",
       "url": "https://in.jooble.org/jdp/820675034050193254"
     },
+    "bbc9de7aaae052df": {
+      "company": "Coy",
+      "first_seen": "2026-11-16",
+      "score": 29.0,
+      "title": "Software Engineer Intern (Freshers / Entry Level)",
+      "track": "sde",
+      "url": "https://www.freshersbridge.in/jobs/software-engineer-intern-coy"
+    },
     "bd2939ae0050b5e2": {
       "company": "Talentstream",
       "first_seen": "2026-10-12",
@@ -1016,6 +1024,14 @@
       "track": "sde",
       "url": "https://freshershunt.in/cisco-apprentice-2026/"
     },
+    "eb7da25ec5c4be53": {
+      "company": "codingcircle",
+      "first_seen": "2026-11-16",
+      "score": 46.1,
+      "title": "Amazon Recruitment 2026: Software Development Engineer I \u2013 PayUI (Hyderabad)",
+      "track": "sde",
+      "url": "https://www.jobleads.com/in/job/amazon-recruitment-2026-software-development-engineer-i-payui-hyderabad--hyderabad--e76076e413b7f9fc5faf092b7bf5678b1"
+    },
     "ebadea56579298db": {
       "company": "Flex",
       "first_seen": "2026-10-11",
@@ -1138,12 +1154,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 6,
-      "candidates_after_dedup": 21,
-      "date": "2026-08-17",
-      "new": 6
-    },
     {
       "api_requests": 6,
       "candidates_after_dedup": 6,
@@ -1677,6 +1687,12 @@
       "candidates_after_dedup": 2,
       "date": "2026-11-15",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 6,
+      "date": "2026-11-16",
+      "new": 2
     }
   ]
 }
