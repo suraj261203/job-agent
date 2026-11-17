@@ -152,13 +152,13 @@
       "track": "sde",
       "url": "https://careers.arm.com/job/bengaluru/senior-software-engineer-networking-for-ai/33099/91327318256"
     },
-    "286aa92bcf413d99": {
-      "company": "Freshers Recruitment",
-      "first_seen": "2026-09-17",
-      "score": 34.1,
-      "title": "IQVIA Recruitment Jobs 2026 | Hiring Software Development Engineer I | Freshers Can Apply",
+    "259f3e34c1d5716a": {
+      "company": "Braver IT",
+      "first_seen": "2026-11-17",
+      "score": 26.9,
+      "title": "Senior Backend Engineer, Real-Time AdTech & RTB",
       "track": "sde",
-      "url": "https://www.jobleads.com/in/job/iqvia-recruitment-jobs-2026-hiring-software-development-engineer-i-freshers-can-apply--india--ea78d152eab7a3cc20992f5d188ede79e"
+      "url": "https://www.jobleads.com/us/job/senior-backend-engineer-real-time-adtech-rtb--united-states--e71802909b81a20b2ecdd5381faa30224"
     },
     "2af411983c2005ea": {
       "company": "Medpace",
@@ -640,6 +640,14 @@
       "track": "sde",
       "url": "https://jobgether.com/offer/6ad2b3cc49c73d7b998af6ad-senior-full-stack-developer-ai-native-engineering---java-spring-boot-angular"
     },
+    "9165d95ba4138941": {
+      "company": "Apera",
+      "first_seen": "2026-11-17",
+      "score": 29.1,
+      "title": "Senior SDET (Remote) - AI & Distributed Systems",
+      "track": "qa",
+      "url": "https://www.jobleads.com/us/job/senior-sdet-remote-ai-distributed-systems--united-states--ea1c7be70acf8dd04105294b3e1a7d5db"
+    },
     "93705b4213d16bff": {
       "company": "remote quest jobs",
       "first_seen": "2026-10-24",
@@ -671,14 +679,6 @@
       "title": "Quality Engineer - No VISA Sponsorship",
       "track": "qa",
       "url": "https://bebee.com/us/jobs/quality-engineer-no-visa-sponsorship-kyyba-richmond-va--t7xk-850824130"
-    },
-    "95be309be9b65f8f": {
-      "company": "Cognizant",
-      "first_seen": "2026-09-17",
-      "score": 32.0,
-      "title": "Cognizant is Hiring Entry-Level Junior Software Engineers",
-      "track": "sde",
-      "url": "https://jobsnet.in/cognizant-is-hiring-entry-level-junior-software-engineers/"
     },
     "96cc7e23ebe29d2e": {
       "company": "vacancy global pro",
@@ -712,14 +712,6 @@
       "track": "sde",
       "url": "https://www.glassdoor.co.in/job-listing/fresher-batch-2026-software-developer-nobl-q-JV_IC2836047_KO0,37_KE38,44.htm?jl=1010022794255"
     },
-    "a31d3fd6a26e5c1b": {
-      "company": "TERRALOGIC",
-      "first_seen": "2026-09-17",
-      "score": 49.9,
-      "title": "Software Engineering Intern (New Grad Hiring 2026) (India)",
-      "track": "sde",
-      "url": "https://in.jobrapido.com/jobpreview/367472245737521152"
-    },
     "a31fc56fcb72003f": {
       "company": "Vouched",
       "first_seen": "2026-11-09",
@@ -727,6 +719,14 @@
       "title": "Senior QA/SDET",
       "track": "qa",
       "url": "https://www.ziprecruiter.com/c/vouched/Job/Senior-QA-SDET/-in-Remote,US?jid=87716d59b7330f16"
+    },
+    "a332d08ff99a0de4": {
+      "company": "Room 8 Studio",
+      "first_seen": "2026-11-17",
+      "score": 41.1,
+      "title": "SDET / Tools Engineer, Middle",
+      "track": "qa",
+      "url": "https://www.jobleads.com/us/job/sdet-tools-engineer-middle--united-states--e15385caa1ba0919ab2619c346954548f"
     },
     "a3d8a68b8dcdd156": {
       "company": "Apex Informatics",
@@ -920,6 +920,14 @@
       "track": "sde",
       "url": "https://www.jobleads.com/in/job/google-software-engineering-intern-summer-2026--bengaluru--ea171cfb49d67afaf5577aed5040f5f09"
     },
+    "ca4cb80e3d0f8b4f": {
+      "company": "Remotable",
+      "first_seen": "2026-11-17",
+      "score": 35.6,
+      "title": "Entry Level Java Developer Specializing in NLP and Deep Learning \u2013 Remote Opportunity at brighthush",
+      "track": "sde",
+      "url": "https://remotable.y7c.nichesite.org/remote-jobs/entry-level-java-developer-specializing-in-nlp-and-deep-learning-remote-opportunity-at-bri-1"
+    },
     "cd71ec466aed6e88": {
       "company": "Keeper Security",
       "first_seen": "2026-10-04",
@@ -944,6 +952,14 @@
       "track": "qa",
       "url": "https://jobgether.com/offer/6ad92ef7a8fae18ba2dbaf7b-sdet"
     },
+    "d519b56b4d8b49ef": {
+      "company": "Bizimply",
+      "first_seen": "2026-11-17",
+      "score": 67.7,
+      "title": "Senior SDET (Software Development Engineer in Test)",
+      "track": "qa",
+      "url": "https://jobgether.com/offer/6afb3e0d8acd9c1f9b19bbc4-senior-sdet-software-development-engineer-in-test"
+    },
     "d86ad8a71eb8364c": {
       "company": "Google",
       "first_seen": "2026-09-25",
@@ -967,6 +983,14 @@
       "title": "Staff Backend Engineer \u2014 High-Scale Go Systems + Equity",
       "track": "sde",
       "url": "https://www.jobleads.com/us/job/staff-backend-engineer-high-scale-go-systems-equity--united-states--eecda52a9fbe42aa6943e3ae9960fbef3"
+    },
+    "dbc12b7e99a9ffee": {
+      "company": "remote quest jobs",
+      "first_seen": "2026-11-17",
+      "score": 25.1,
+      "title": "Backend Developer (Java/Spring Boot)",
+      "track": "sde",
+      "url": "https://us.remotejobs.dedyn.io/job/backend-developer-java-spring-boot-2e77ec86"
     },
     "dd716497e8cc5e66": {
       "company": "Air Apps",
@@ -1128,6 +1152,14 @@
       "track": "qa",
       "url": "https://www.adzuna.com/details/5898876774"
     },
+    "fd30931e6f9dad2e": {
+      "company": "BairesDev",
+      "first_seen": "2026-11-17",
+      "score": 65.5,
+      "title": "SDET (Junior/Mid) - Remote Work | REF#303495",
+      "track": "qa",
+      "url": "https://jooble.org/jdp/-7717423354681550068"
+    },
     "fde8d113951bc84b": {
       "company": "Freshers Recruitment",
       "first_seen": "2026-10-28",
@@ -1154,12 +1186,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 6,
-      "candidates_after_dedup": 6,
-      "date": "2026-08-18",
-      "new": 1
-    },
     {
       "api_requests": 5,
       "candidates_after_dedup": 9,
@@ -1693,6 +1719,12 @@
       "candidates_after_dedup": 6,
       "date": "2026-11-16",
       "new": 2
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 20,
+      "date": "2026-11-17",
+      "new": 7
     }
   ]
 }
