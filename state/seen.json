@@ -200,6 +200,14 @@
       "track": "qa",
       "url": "https://jobgether.com/offer/6adfb8da22c2644c03f5c7ca-sdet-software-development-engineer-in-test---js-typescript-playwright"
     },
+    "437e92e5bd916c14": {
+      "company": "Nudge",
+      "first_seen": "2026-11-20",
+      "score": 44.0,
+      "title": "Software Engineering Intern \u2013 Client (Mobile - Android, iOS)",
+      "track": "sde",
+      "url": "https://hirekosh.techkosh.in/job/nudge-software-engineering-intern-client-mobile-android-ios"
+    },
     "437f72dd259de321": {
       "company": "Xperteez Technology Pvt Ltd",
       "first_seen": "2026-11-05",
@@ -1148,12 +1156,6 @@
   "runs": [
     {
       "api_requests": 6,
-      "candidates_after_dedup": 23,
-      "date": "2026-08-21",
-      "new": 5
-    },
-    {
-      "api_requests": 6,
       "candidates_after_dedup": 6,
       "date": "2026-08-22",
       "new": 0
@@ -1685,6 +1687,12 @@
       "candidates_after_dedup": 1,
       "date": "2026-11-19",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 5,
+      "date": "2026-11-20",
+      "new": 1
     }
   ]
 }
