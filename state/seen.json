@@ -72,14 +72,6 @@
       "track": "sde",
       "url": "https://www.jobleads.com/us/job/remote-senior-java-backend-engineer-ai-driven-data-platform--united-states--e114fcac34e134d824b31b7a8914fde43"
     },
-    "1062a61f970f7088": {
-      "company": "vacancy global pro",
-      "first_seen": "2026-09-22",
-      "score": 40.2,
-      "title": "[Remote] QA, SDET & Test Automation Engineer | $60/hr | Remote",
-      "track": "qa",
-      "url": "https://vacancyglobalpro.up.railway.app/job/remote-qa-sdet-test-automation-engineer-60hr-remote"
-    },
     "119969c9464bcaee": {
       "company": "Kobie",
       "first_seen": "2026-10-24",
@@ -280,14 +272,6 @@
       "track": "sde",
       "url": "https://www.freshersbridge.in/jobs/associate-software-developer-anuj-gope"
     },
-    "4dcc61328bda4762": {
-      "company": "vacancy global pro",
-      "first_seen": "2026-09-22",
-      "score": 58.8,
-      "title": "Backend Developer(Entry Level)",
-      "track": "sde",
-      "url": "https://vacancyglobalpro.up.railway.app/job/backend-developerentry-level-2"
-    },
     "4f230e31f3adbd94": {
       "company": "uNaice GmbH",
       "first_seen": "2026-10-28",
@@ -432,14 +416,6 @@
       "track": "qa",
       "url": "https://jobmesh.io/job/4481a73b-dd45-4578-891c-8db742b7a94b"
     },
-    "69de538f1f58c932": {
-      "company": "BairesDev",
-      "first_seen": "2026-09-22",
-      "score": 44.7,
-      "title": "Junior SDET - Remote, Flexible Hours, R&D Impact",
-      "track": "qa",
-      "url": "https://jobmesh.io/job/7600d36f-89cd-4b75-8d98-7f9497c84f48"
-    },
     "6f4fc693cb389d1b": {
       "company": "Navtech, Inc.",
       "first_seen": "2026-11-01",
@@ -512,13 +488,13 @@
       "track": "qa",
       "url": "https://jobgether.com/offer/6aea6ed61c8aea01fb7ce769-senior-software-development-engineer-in-test-sdet"
     },
-    "78dfa85e03c8aebc": {
-      "company": "vacancy global pro",
-      "first_seen": "2026-09-22",
-      "score": 27.3,
-      "title": "Remote SDET (QA Automation) (Guadalajara, MEX, MX)",
+    "78b47b6fe35ffacb": {
+      "company": "Dbs Bank",
+      "first_seen": "2026-11-22",
+      "score": 68.8,
+      "title": "Associate, Quality Assurance Engineer, Institutional Banking Group Technology",
       "track": "qa",
-      "url": "https://vacancyglobalpro.up.railway.app/job/remote-sdet-qa-automation-guadalajara-mex-mx"
+      "url": "https://in.jooble.org/jdp/4777221375998004512"
     },
     "7b1bfc597c93dc40": {
       "company": "Rippling, Inc.",
@@ -695,14 +671,6 @@
       "title": "Quality Engineer - No VISA Sponsorship",
       "track": "qa",
       "url": "https://bebee.com/us/jobs/quality-engineer-no-visa-sponsorship-kyyba-richmond-va--t7xk-850824130"
-    },
-    "96cc7e23ebe29d2e": {
-      "company": "vacancy global pro",
-      "first_seen": "2026-09-22",
-      "score": 63.5,
-      "title": "SDET / QA Automation Engineer - Fintech/Web3",
-      "track": "qa",
-      "url": "https://vacancyglobalpro.up.railway.app/job/sdet-qa-automation-engineer-fintechweb3-1"
     },
     "96fb96a23d88f6d4": {
       "company": "wciinc",
@@ -1048,14 +1016,6 @@
       "track": "qa",
       "url": "https://in.linkedin.com/jobs/view/sdet-ii-at-concentrix-at-nexisgrow-jobs-internships-4477623206"
     },
-    "e56c3913c3d58469": {
-      "company": "vacancy global pro",
-      "first_seen": "2026-09-22",
-      "score": 43.9,
-      "title": "URGENT NEED - \"SDET Engineer\" _ (100% REMOTE)\"",
-      "track": "qa",
-      "url": "https://vacancyglobalpro.up.railway.app/job/urgent-need-sdet-engineer-100-remote-1"
-    },
     "e7883450dbd063dd": {
       "company": "Cisco",
       "first_seen": "2026-10-27",
@@ -1128,14 +1088,6 @@
       "track": "qa",
       "url": "https://www.jobleads.com/us/job/remote-android-sdet-automation-ci-cd--united-states--e3d6acf3f88d3234584aad717d48a8ddb"
     },
-    "f47dffe28ac2260c": {
-      "company": "vacancy global pro",
-      "first_seen": "2026-09-22",
-      "score": 27.4,
-      "title": "Software Engineer, 2 (Java, Backend)",
-      "track": "sde",
-      "url": "https://vacancyglobalpro.up.railway.app/job/software-engineer-2-java-backend"
-    },
     "f4e037a80cc937b9": {
       "company": "vmysmartpros",
       "first_seen": "2026-10-12",
@@ -1202,12 +1154,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 5,
-      "candidates_after_dedup": 1,
-      "date": "2026-08-23",
-      "new": 0
-    },
     {
       "api_requests": 6,
       "candidates_after_dedup": 19,
@@ -1741,6 +1687,12 @@
       "candidates_after_dedup": 22,
       "date": "2026-11-21",
       "new": 9
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 2,
+      "date": "2026-11-22",
+      "new": 1
     }
   ]
 }
