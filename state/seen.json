@@ -1072,14 +1072,6 @@
       "track": "sde",
       "url": "https://www.jobleads.com/us/job/backend-engineer-go-java-scalable-event-driven-systems--united-states--e0efd3277c94fae9e99f071bfbf04b6a8"
     },
-    "f1d3c057b02aed47": {
-      "company": "Freshers Dunia",
-      "first_seen": "2026-09-24",
-      "score": 32.0,
-      "title": "Red Hat Internship 2026 \u2013 Software Engineering Intern | High Salary Tech Internship | Pune & Bangalore Apply Now",
-      "track": "sde",
-      "url": "https://freshersdunia.in/red-hat-internship-2026-software-engineer-intern/"
-    },
     "f4274b043a14dc68": {
       "company": "Keeper Security",
       "first_seen": "2026-10-08",
@@ -1136,14 +1128,6 @@
       "track": "sde",
       "url": "https://www.jobleads.com/in/job/amazon-internship-jobs-2026-sde-i-intern-recruitment-for-2027-batch--india--e49488c9a3baa314910ca66220967e7ff"
     },
-    "fe10adb1f13b82aa": {
-      "company": "Freshers Dunia",
-      "first_seen": "2026-09-24",
-      "score": 32.0,
-      "title": "Stripe Internship 2026 Hiring Software Engineer Intern | Paid Internship | Bengaluru | Immediate Joiners Apply Now",
-      "track": "sde",
-      "url": "https://freshersdunia.in/stripe-internship-2026-hiring/"
-    },
     "fe87ecc9bc9294fb": {
       "company": "Softcrayons IT Education",
       "first_seen": "2026-10-03",
@@ -1154,12 +1138,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 6,
-      "candidates_after_dedup": 20,
-      "date": "2026-08-25",
-      "new": 10
-    },
     {
       "api_requests": 6,
       "candidates_after_dedup": 8,
@@ -1692,6 +1670,12 @@
       "api_requests": 5,
       "candidates_after_dedup": 3,
       "date": "2026-11-23",
+      "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 8,
+      "date": "2026-11-24",
       "new": 0
     }
   ]
