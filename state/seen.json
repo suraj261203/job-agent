@@ -40,6 +40,14 @@
       "track": "qa",
       "url": "https://jobgether.com/offer/6ab6948f865119c687f24ea5-senior-software-developer-in-test-quality-platform"
     },
+    "0ade7c8b71e02ee4": {
+      "company": "SynergisticIT",
+      "first_seen": "2026-11-25",
+      "score": 33.4,
+      "title": "Junior Spring Boot Backend Developer/Junior AI Engineer \u2013 Remote",
+      "track": "sde",
+      "url": "https://www.monster.com/job-openings/junior-spring-boot-backend-developer-junior-ai-engineer-remote-chicago-il--04b02dd2-3810-4726-b929-f3d15e145a0b"
+    },
     "0db6a04e860e3b28": {
       "company": "Accenture India",
       "first_seen": "2026-10-11",
@@ -176,6 +184,14 @@
       "track": "qa",
       "url": "https://jobs.digitalhire.com/job-listing/opening/2FT0y69AgXR82vnERU3SV0"
     },
+    "350e9485e0539f06": {
+      "company": "Open Systems Inc.",
+      "first_seen": "2026-11-25",
+      "score": 29.7,
+      "title": "Software Automation Engineer",
+      "track": "qa",
+      "url": "https://www.linkedin.com/jobs/view/software-automation-engineer-at-open-systems-inc-4492666104"
+    },
     "383f6c21574c6246": {
       "company": "remotepromsp",
       "first_seen": "2026-10-12",
@@ -208,6 +224,14 @@
       "track": "qa",
       "url": "https://jobgether.com/offer/6adfb8da22c2644c03f5c7ca-sdet-software-development-engineer-in-test---js-typescript-playwright"
     },
+    "41d8a84ef4f41ed7": {
+      "company": "JamLoop",
+      "first_seen": "2026-11-25",
+      "score": 76.4,
+      "title": "SDET",
+      "track": "qa",
+      "url": "https://jobgether.com/offer/6a55c98cac00a71a5a8de592-sdet"
+    },
     "437e92e5bd916c14": {
       "company": "Nudge",
       "first_seen": "2026-11-20",
@@ -239,6 +263,14 @@
       "title": "Software Development Engineer in Test",
       "track": "qa",
       "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-at-integrated-home-care-services-inc-4479798846"
+    },
+    "489e2fb93bf97826": {
+      "company": "Houston Skilled Consultancy",
+      "first_seen": "2026-11-25",
+      "score": 54.4,
+      "title": "Backend Developer (Work from Home) - Top MNCs Hiring",
+      "track": "sde",
+      "url": "https://www.theelitejob.com/job/12804/backend-developer-work-from-home-top-mncs-hiring"
     },
     "4a388f2d0a447a76": {
       "company": "NielsenIQ",
@@ -416,6 +448,14 @@
       "track": "qa",
       "url": "https://jobmesh.io/job/4481a73b-dd45-4578-891c-8db742b7a94b"
     },
+    "6df2c4590d402812": {
+      "company": "Giro.Tech",
+      "first_seen": "2026-11-25",
+      "score": 35.6,
+      "title": "Remote-First Backend Engineer; Java Spring & AWS",
+      "track": "sde",
+      "url": "https://www.jobleads.com/us/job/remote-first-backend-engineer-java-spring-aws--united-states--e0081167761e51c55482a8984ee2a34be"
+    },
     "6f4fc693cb389d1b": {
       "company": "Navtech, Inc.",
       "first_seen": "2026-11-01",
@@ -520,14 +560,6 @@
       "track": "sde",
       "url": "https://freshersdunia.in/honeywell-internship-2026-hiring-intern/"
     },
-    "7d6a936fdad31aa6": {
-      "company": "IRIS Business Services Limited",
-      "first_seen": "2026-09-25",
-      "score": 53.1,
-      "title": "Software Engineer (Freshers / Entry Level)",
-      "track": "sde",
-      "url": "https://www.freshersbridge.in/jobs/software-engineer-iris-business-services-limited"
-    },
     "7ef8ee7099665176": {
       "company": "Workiy Inc.",
       "first_seen": "2026-10-16",
@@ -552,6 +584,14 @@
       "track": "qa",
       "url": "https://jobgether.com/offer/6ab6a2fc865119c687f2db79-software-engineer-in-test"
     },
+    "8060b4fb281f1bb5": {
+      "company": "sistemasgl",
+      "first_seen": "2026-11-25",
+      "score": 26.5,
+      "title": "Senior Backend Engineer: Real-Time Messaging (Remote)",
+      "track": "sde",
+      "url": "https://www.jobleads.com/us/job/senior-backend-engineer-real-time-messaging-remote--united-states--eb45410de608b27e899fc040343ec8187"
+    },
     "81b8813f9038f05a": {
       "company": "SSG Official Website",
       "first_seen": "2026-11-05",
@@ -559,6 +599,14 @@
       "title": "Senior SDET (Remote) - CI/CD & API Testing Expert",
       "track": "qa",
       "url": "https://www.jobleads.com/us/job/senior-sdet-remote-ci-cd-api-testing-expert--richmond--e5106db50ffeddb95fa2385faec58ace1"
+    },
+    "842578b524a0e536": {
+      "company": "Doodle",
+      "first_seen": "2026-11-25",
+      "score": 31.4,
+      "title": "Senior Software Engineer, Backend (Java) - All Genders",
+      "track": "sde",
+      "url": "https://www.jobleads.com/us/job/senior-software-engineer-backend-java-all-genders--united-states--ea1f6f4207e4eccffe0259d4efc63546a"
     },
     "848344e721cca06a": {
       "company": "OpenTrain AI",
@@ -616,14 +664,6 @@
       "track": "sde",
       "url": "https://lensa.com/job-v1/hellokindred/remote/java-developer/31759578709ccf2be929797d4071736e"
     },
-    "8e9b2a8935374bd9": {
-      "company": "Autobotwa",
-      "first_seen": "2026-09-25",
-      "score": 25.0,
-      "title": "Full-Stack AI Developer Internship (Freshers / Entry Level)",
-      "track": "sde",
-      "url": "https://www.freshersbridge.in/internships/full-stack-ai-developer-internship-autobotwa"
-    },
     "8f5fd2b19f0cf137": {
       "company": "The Whiteam",
       "first_seen": "2026-10-20",
@@ -639,6 +679,14 @@
       "title": "Senior SDET (Remote) - AI & Distributed Systems",
       "track": "qa",
       "url": "https://www.jobleads.com/us/job/senior-sdet-remote-ai-distributed-systems--united-states--ea1c7be70acf8dd04105294b3e1a7d5db"
+    },
+    "9258e64692c615bf": {
+      "company": "Smart IT Frame LLC",
+      "first_seen": "2026-11-25",
+      "score": 50.1,
+      "title": "Salesforce QA Automation with Selenium Playwright",
+      "track": "qa",
+      "url": "https://www.linkedin.com/jobs/view/salesforce-qa-automation-with-selenium-playwright-at-smart-it-frame-llc-4494054368"
     },
     "93705b4213d16bff": {
       "company": "remote quest jobs",
@@ -944,14 +992,6 @@
       "track": "qa",
       "url": "https://jobgether.com/offer/6afb3e0d8acd9c1f9b19bbc4-senior-sdet-software-development-engineer-in-test"
     },
-    "d86ad8a71eb8364c": {
-      "company": "Google",
-      "first_seen": "2026-09-25",
-      "score": 57.1,
-      "title": "Software Engineer, PhD, Early Career, 2026",
-      "track": "sde",
-      "url": "https://www.glassdoor.co.in/job-listing/software-engineer-phd-early-career-2026-google-JV_KO0,39_KE40,46.htm?jl=1010178668343"
-    },
     "d920f56e7b3b7240": {
       "company": "Capital One",
       "first_seen": "2026-10-23",
@@ -1088,6 +1128,14 @@
       "track": "sde",
       "url": "https://remoteworld.mysmartpros.com/job/junior-backend-java-developer-3/"
     },
+    "fa0bb044c0432905": {
+      "company": "Grupo TECDATA Engineering",
+      "first_seen": "2026-11-25",
+      "score": 39.0,
+      "title": "Full Stack Developer \u2013 Java / Spring Boot / Angular",
+      "track": "sde",
+      "url": "https://jobgether.com/offer/6b0610371870ab7f4cc2a377-full-stack-developer---java-spring-boot-angular"
+    },
     "facde986def876fe": {
       "company": "FirstMessage",
       "first_seen": "2026-09-30",
@@ -1138,12 +1186,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 6,
-      "candidates_after_dedup": 8,
-      "date": "2026-08-26",
-      "new": 4
-    },
     {
       "api_requests": 5,
       "candidates_after_dedup": 0,
@@ -1677,6 +1719,12 @@
       "candidates_after_dedup": 8,
       "date": "2026-11-24",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 22,
+      "date": "2026-11-25",
+      "new": 9
     }
   ]
 }
