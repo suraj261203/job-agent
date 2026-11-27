@@ -680,14 +680,6 @@
       "track": "sde",
       "url": "https://www.jobleads.com/us/job/remote-mid-backend-engineer-kotlin-java-microservices--united-states--e075831d4fe8e1811604feb2221fc0bf3"
     },
-    "94618ebcb50a29c2": {
-      "company": "Kyyba",
-      "first_seen": "2026-09-27",
-      "score": 25.0,
-      "title": "Quality Engineer - No VISA Sponsorship",
-      "track": "qa",
-      "url": "https://bebee.com/us/jobs/quality-engineer-no-visa-sponsorship-kyyba-richmond-va--t7xk-850824130"
-    },
     "96fb96a23d88f6d4": {
       "company": "wciinc",
       "first_seen": "2026-10-12",
@@ -1146,12 +1138,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 6,
-      "candidates_after_dedup": 4,
-      "date": "2026-08-28",
-      "new": 0
-    },
     {
       "api_requests": 6,
       "candidates_after_dedup": 18,
@@ -1685,6 +1671,12 @@
       "candidates_after_dedup": 2,
       "date": "2026-11-26",
       "new": 1
+    },
+    {
+      "api_requests": 5,
+      "candidates_after_dedup": 2,
+      "date": "2026-11-27",
+      "new": 0
     }
   ]
 }
