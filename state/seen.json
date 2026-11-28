@@ -1024,6 +1024,14 @@
       "track": "sde",
       "url": "https://freshershunt.in/cisco-apprentice-2026/"
     },
+    "ea2e5bf69c58afd6": {
+      "company": "Skills Agency",
+      "first_seen": "2026-11-28",
+      "score": 50.9,
+      "title": "Junior Software Testing Engineer (Automation)",
+      "track": "qa",
+      "url": "https://in.linkedin.com/jobs/view/junior-software-testing-engineer-automation-at-skills-agency-4495090857"
+    },
     "eb7da25ec5c4be53": {
       "company": "codingcircle",
       "first_seen": "2026-11-16",
@@ -1039,6 +1047,14 @@
       "title": "Flex Hiring Freshers As Associate Software Engineer in Chennai",
       "track": "sde",
       "url": "https://jobsnet.in/flex-hiring-freshers-as-associate-software-engineer-in-chennai/"
+    },
+    "ee920e4d35f07d79": {
+      "company": "Apple",
+      "first_seen": "2026-11-28",
+      "score": 90.9,
+      "title": "Early Career - Software Development Engineer in Test( Web Server) \u2014 Find My",
+      "track": "qa",
+      "url": "https://www.jobaaj.com/job/apple-early-career-software-development-engineer-in-test-web-server-find-my-hyderabad-telangana-india-1-to-2-years-2155846"
     },
     "ee926db3723b8478": {
       "company": "J-Mack Technologies, LLC",
@@ -1138,12 +1154,6 @@
     }
   },
   "runs": [
-    {
-      "api_requests": 6,
-      "candidates_after_dedup": 18,
-      "date": "2026-08-29",
-      "new": 1
-    },
     {
       "api_requests": 6,
       "candidates_after_dedup": 8,
@@ -1677,6 +1687,12 @@
       "candidates_after_dedup": 2,
       "date": "2026-11-27",
       "new": 0
+    },
+    {
+      "api_requests": 6,
+      "candidates_after_dedup": 3,
+      "date": "2026-11-28",
+      "new": 2
     }
   ]
 }
